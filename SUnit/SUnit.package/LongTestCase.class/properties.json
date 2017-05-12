@@ -1,0 +1,14 @@
+{
+	"category" : "SUnit-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ShouldRun" ],
+	"commentStamp" : "ul 12/15/2009 13:06",
+	"instvars" : [
+		 ],
+	"name" : "LongTestCase",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

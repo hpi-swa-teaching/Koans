@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"priority" : "pre 11/4/2011 21:41:14.162" },
+	"instance" : {
+		"test01stringsAreCollections" : "pre 3/7/2017 11:38",
+		"test02escaping" : "pre 3/7/2017 11:38",
+		"test03concatenation" : "pre 3/7/2017 11:38",
+		"test04newLine" : "pre 3/7/2017 11:39",
+		"test05formatting" : "pre 3/7/2017 11:39",
+		"test06stringsAreNotUnique" : "pre 3/7/2017 11:39" } }

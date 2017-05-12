@@ -1,0 +1,17 @@
+{
+	"category" : "SUnit-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"runningState",
+		"hasRun",
+		"hasSetup",
+		"hasRanOnce" ],
+	"name" : "SimpleTestResource",
+	"pools" : [
+		 ],
+	"super" : "TestResource",
+	"type" : "normal" }

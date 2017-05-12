@@ -1,0 +1,14 @@
+{
+	"category" : "SUnit-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"resource" ],
+	"name" : "SimpleTestResourceTestCase",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

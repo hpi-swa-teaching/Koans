@@ -1,0 +1,11 @@
+tests
+test02everyObjectHasAnId
+
+	| anObject |
+	
+	anObject := Object new.
+
+	self assert: xx equals: anObject hash class
+	
+	"Remember: Everything is an Object, even classes."
+	"The ancient button of implementors might help to find the true nature of hash."

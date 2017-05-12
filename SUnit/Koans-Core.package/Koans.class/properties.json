@@ -1,0 +1,14 @@
+{
+	"category" : "Koans-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "pre 3/7/2017 11:48",
+	"instvars" : [
+		 ],
+	"name" : "Koans",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

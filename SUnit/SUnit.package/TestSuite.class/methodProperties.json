@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"named:" : "" },
+	"instance" : {
+		"addDependentToHierachy:" : "md 2/22/2006 14:24",
+		"addTest:" : "",
+		"addTests:" : "",
+		"debug" : "cmm 3/4/2011 13:12",
+		"defaultResources" : "",
+		"name" : "",
+		"name:" : "",
+		"removeDependentFromHierachy:" : "md 2/22/2006 14:24",
+		"resources" : "nice 8/27/2010 17:59",
+		"resources:" : "",
+		"resultClass" : "spd 10/1/2010 10:27",
+		"run" : "spd 10/1/2010 10:28",
+		"run:" : "stephane.ducasse 10/9/2008 18:36",
+		"tests" : "nice 8/27/2010 17:59" } }

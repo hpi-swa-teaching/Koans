@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"hasRun" : "",
+		"hasSetup" : "",
+		"isAvailable" : "",
+		"runningState" : "",
+		"runningState:" : "",
+		"setRun" : "",
+		"setUp" : "",
+		"startedStateSymbol" : "",
+		"stoppedStateSymbol" : "",
+		"tearDown" : "" } }

@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"current" : "nice 8/27/2010 18:02",
+		"current:" : "",
+		"isAbstract" : "md 2/22/2006 14:21",
+		"isAvailable" : "",
+		"isUnavailable" : "",
+		"reset" : "nice 8/27/2010 18:02",
+		"resources" : "",
+		"signalInitializationError" : "" },
+	"instance" : {
+		"description" : "jmv 3/2/2010 16:40",
+		"description:" : "",
+		"initialize" : "alain.plantec 5/28/2009 11:11",
+		"isAvailable" : "",
+		"isUnavailable" : "",
+		"name" : "jmv 3/2/2010 16:40",
+		"name:" : "",
+		"printOn:" : "",
+		"resources" : "",
+		"setUp" : "",
+		"signalInitializationError" : "",
+		"tearDown" : "" } }

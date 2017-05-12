@@ -1,0 +1,4 @@
+testing
+hasRun
+	^hasRun
+			

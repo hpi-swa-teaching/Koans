@@ -1,0 +1,5 @@
+running
+stoppedStateSymbol
+
+	^#stopped
+			

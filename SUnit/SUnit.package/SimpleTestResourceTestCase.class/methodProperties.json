@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"lastStoredRun" : "simon.denier 11/22/2008 22:13",
+		"resources" : "" },
+	"instance" : {
+		"dummy" : "",
+		"error" : "",
+		"fail" : "",
+		"setRun" : "",
+		"setUp" : "",
+		"testRan" : "",
+		"testResourceInitRelease" : "",
+		"testResourcesCollection" : "" } }

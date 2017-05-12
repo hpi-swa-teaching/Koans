@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"lastStoredRun" : "simon.denier 11/22/2008 22:13" },
+	"instance" : {
+		"errorTest" : "",
+		"failureTest" : "",
+		"okTest" : "",
+		"regularTestFailureTest" : "",
+		"resumableTestFailureTest" : "",
+		"testResumable" : "" } }

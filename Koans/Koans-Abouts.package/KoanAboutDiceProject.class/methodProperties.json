@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"priority" : "esec 11/9/2011 11:16:56.711" },
+	"instance" : {
+		"test01AboutDiceProject" : "pre 3/7/2017 11:33",
+		"test02rollingTheDiceReturnsASetOfIntegersInsideTheRange" : "pre 3/7/2017 11:34",
+		"test03diceValuesDoNotChangeUnlessExplicitlyRolled" : "pre 3/7/2017 11:35",
+		"test04diceValuesShouldChangeBetweenRolls" : "pre 3/7/2017 11:35",
+		"test05youCanRollDifferentNumbersOfDice" : "pre 3/7/2017 11:35" } }

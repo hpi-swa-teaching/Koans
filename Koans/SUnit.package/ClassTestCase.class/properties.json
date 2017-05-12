@@ -1,0 +1,14 @@
+{
+	"category" : "SUnit-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "brp 7/26/2003 16:57",
+	"instvars" : [
+		 ],
+	"name" : "ClassTestCase",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
