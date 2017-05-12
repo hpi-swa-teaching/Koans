@@ -1,3 +1,0 @@
-accessing
-buttonWidth
-	^ 85
