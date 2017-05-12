@@ -1,0 +1,14 @@
+{
+	"category" : "Koans-Abouts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "KoanAboutNil",
+	"pools" : [
+		 ],
+	"super" : "KoanCase",
+	"type" : "normal" }

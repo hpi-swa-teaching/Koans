@@ -9,9 +9,7 @@
 		"timeStamp",
 		"failures",
 		"errors",
-		"passed",
-		"storeSignals",
-		"signals" ],
+		"passed" ],
 	"name" : "TestResult",
 	"pools" : [
 		 ],

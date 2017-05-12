@@ -1,3 +1,4 @@
 private
 fail
-	self assert: false description: self failDescription
+	self assert: false
+			

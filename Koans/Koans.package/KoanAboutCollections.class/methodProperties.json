@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"priority" : "pre 11/4/2011 21:41:44.378" },
+	"instance" : {
+		"test01collectionsCanComeInDifferentFlavours" : "pre 3/7/2017 11:32",
+		"test02collectionsStartAtFirst" : "esec 11/9/2011 10:43:18.729",
+		"test03arraysAreImmutable" : "esec 11/9/2011 10:43:15.12",
+		"test04orderedCollection" : "esec 11/9/2011 10:43:08.745",
+		"test05set" : "esec 11/9/2011 10:43:04.489",
+		"test06setsBiggerBrotherTheBag" : "esec 11/9/2011 10:43:01.913",
+		"test07dictionary" : "pre 3/7/2017 11:32",
+		"test08identityDictionaryIsRigorous" : "esec 11/9/2011 10:42:55.728",
+		"test09sortedCollection" : "pre 3/7/2017 11:32" } }

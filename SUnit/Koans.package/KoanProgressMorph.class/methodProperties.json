@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createGreenMorph" : "esec 11/1/2011 12:31:38.542",
+		"createRedMorph" : "esec 11/1/2011 12:32:36.341",
+		"greenFrame" : "esec 10/10/2011 15:39",
+		"initialize" : "esec 10/10/2011 15:39",
+		"progress" : "esec 10/10/2011 15:19",
+		"progress:" : "esec 11/1/2011 12:24:32.285",
+		"progressAccessor" : "esec 10/10/2011 15:20",
+		"progressAccessor:" : "esec 10/10/2011 15:20",
+		"redFrame" : "esec 10/10/2011 15:39",
+		"update:" : "esec 11/1/2011 12:23:25.38",
+		"updateProgress" : "esec 10/10/2011 15:21" } }

@@ -20,6 +20,7 @@
 		"testAutoDenyFalse" : "mx 3/20/2006 21:16",
 		"testAutoDenyTrue" : "",
 		"testDifferentExceptionInShouldRaiseWithExceptionDo" : "mx 3/20/2006 23:40",
+		"testEnsureInternetFails" : "pre 7/20/2016 17:53",
 		"testErrorInRaiseWithExceptionDo" : "mx 3/20/2006 23:40",
 		"testExceptionWithMatchingString" : "md 4/2/2006 14:02",
 		"testExceptionWithoutMatchingString" : "md 4/2/2006 14:02",

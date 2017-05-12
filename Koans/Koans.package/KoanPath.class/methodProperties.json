@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"on:" : "esec 10/12/2011 13:59:54.111",
+		"on:ignoring:" : "rms 11/7/2011 18:00" },
+	"instance" : {
+		"cases" : "rms 12/9/2011 14:43",
+		"previousResult" : "esec 10/21/2011 17:57:43.428",
+		"previousResult:" : "esec 10/21/2011 17:57:43.471",
+		"runSensei:on:" : "rms 12/9/2011 14:50",
+		"setInitialResultFor:" : "rms 12/9/2011 14:47",
+		"stepsWithout:" : "rms 12/9/2011 14:57",
+		"stream" : "esec 10/12/2011 14:00:39.717",
+		"stream:" : "esec 10/12/2011 14:00:39.75",
+		"walkWhileIgnoring:" : "rms 12/9/2011 14:51" } }

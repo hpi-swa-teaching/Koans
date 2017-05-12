@@ -1,0 +1,18 @@
+{
+	"category" : "Koans-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"failedStep",
+		"failedMethod",
+		"attempts",
+		"totalSteps",
+		"currentCase" ],
+	"name" : "KoanResult",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

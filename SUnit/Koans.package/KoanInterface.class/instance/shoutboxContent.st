@@ -1,0 +1,3 @@
+accessing
+shoutboxContent
+	^ shoutboxContent
