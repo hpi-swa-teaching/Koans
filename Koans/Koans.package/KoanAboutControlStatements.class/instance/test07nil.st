@@ -1,8 +1,6 @@
 tests
 test07nil
-
-	| b |
-	
+	| b |	
 	nil ifNil: [b := 1] ifNotNil: [b := 2].
 	self assert: xx equals: b.
 	
