@@ -1,0 +1,14 @@
+{
+	"category" : "Koans-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"progressAccessor" ],
+	"name" : "KoanProgressSpec",
+	"pools" : [
+		 ],
+	"super" : "PluggableWidgetSpec",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"priority" : "pre 11/4/2011 21:41:54.184" },
+	"instance" : {
+		"test01includes" : "esec 11/9/2011 10:44:05.696",
+		"test02anySatisfy" : "pre 3/7/2017 11:30",
+		"test03allSatisfy" : "pre 3/7/2017 11:30",
+		"test04select" : "pre 3/7/2017 11:30",
+		"test05reject" : "esec 11/9/2011 10:45:45.352",
+		"test06mathStuff" : "pre 3/7/2017 11:30",
+		"test07detect" : "pre 3/7/2017 11:30",
+		"test08detectIfNone" : "pre 3/7/2017 11:30",
+		"test09collect" : "pre 3/7/2017 11:30",
+		"test10inject" : "esec 11/9/2011 11:01:51.648",
+		"test11sizeAndCount" : "pre 3/7/2017 11:31",
+		"test12do" : "esec 11/9/2011 10:45:58.394",
+		"test13specialIterators" : "esec 11/9/2011 11:03:53.449" } }
