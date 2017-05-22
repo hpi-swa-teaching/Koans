@@ -9,7 +9,8 @@ SmalltalkCISpec {
   ],
   #testing : {
     #coverage : {
-      #categories : [ 'Koans' ]
-    }
+      #categories : [ 'Koans-*' ]
+    },
+    #categories : [ 'Koans-*' ]
   }
 }
