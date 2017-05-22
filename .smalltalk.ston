@@ -8,9 +8,6 @@ SmalltalkCISpec {
     }
   ],
   #testing : {
-    #coverage : {
-      #categories : [ 'Koans-*' ]
-    },
     #categories : [ 'Koans-*' ]
   }
 }
