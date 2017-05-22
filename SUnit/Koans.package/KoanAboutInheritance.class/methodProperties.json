@@ -1,8 +1,0 @@
-{
-	"class" : {
-		"priority" : "pre 11/4/2011 21:38:52.894" },
-	"instance" : {
-		"test01inheritanceVariableInheritanceExists" : "esec 11/1/2011 18:53:49.153",
-		"test02methodInheritanceAndOverwrittingExist" : "esec 11/1/2011 18:53:52.415",
-		"test03abstractMethodsAreSubclassResponsibility" : "esec 11/1/2011 18:53:55.521",
-		"test04askSuperWithSuper" : "esec 11/1/2011 18:53:58.552" } }

@@ -4,5 +4,5 @@ OrderedDictionary {
 	'Koans\/Koans-Core.package' : #SquotCypressCodeSerializer,
 	'Koans\/Koans-SUnit.package' : #SquotCypressCodeSerializer,
 	'Koans\/Koans.package' : #SquotCypressCodeSerializer,
-	'SUnit\/SUnit.package' : #SquotCypressCodeSerializer
+	'Koans\/SUnit.package' : #SquotCypressCodeSerializer
 }

@@ -1,4 +1,0 @@
-running
-setRun
-	hasRun := true
-			
