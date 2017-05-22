@@ -1,5 +1,5 @@
 {
-	"category" : "BaselineOfNextLevelKoans",
+	"category" : "Koans-Tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "BaselineOfNextLevelKoans",
+	"name" : "KoansStepTest",
 	"pools" : [
 		 ],
-	"super" : "BaselineOf",
+	"super" : "TestCase",
 	"type" : "normal" }
