@@ -1,0 +1,15 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'NextLevelKoans',
+      #directory : 'Koans',
+      #load : 'Tests',
+      #platforms : [ #squeak ]
+    }
+  ],
+  #testing : {
+    #coverage : {
+      #categories : [ 'Koans' ]
+    }
+  }
+}
