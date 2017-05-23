@@ -6,6 +6,9 @@ buildWith: aBuilder
 		label: self label;
 		extent: self extent;
 		children: (OrderedCollection new 
+			add: ((self buildChapterListWith: aBuilder)
+				frame: self chapterListFrame;
+				yourself);
 			add: ((self buildShoutboxWith: aBuilder)
 				frame: self shoutboxFrame;
 				yourself);

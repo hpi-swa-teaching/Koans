@@ -1,3 +1,3 @@
 accessing
 welcomeMessage 
-^ (SystemOrganization classesInCategory: 'Koans-Abouts') asString
+	^ (SystemOrganization classesInCategory: 'Koans-Abouts') asString
