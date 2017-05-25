@@ -1,1 +1,0 @@
-A LongTestCase is a TestCase that usually takes a long time to run. Because of this users can decide if they want to execute these or not, by changing the "Run long test cases" preference.

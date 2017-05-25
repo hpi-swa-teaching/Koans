@@ -1,4 +1,0 @@
-private
-resultClass
-
-	^ TestResult.
