@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"allTestSelectors" : "ul 12/15/2009 12:48",
+		"buildSuite" : "ul 3/27/2011 19:24",
+		"doNotRunLongTestCases" : "ul 12/15/2009 12:49",
+		"isAbstract" : "ul 3/27/2011 19:27",
+		"runLongTestCases" : "ul 12/15/2009 12:49",
+		"shouldRun" : "tpr 8/12/2016 17:16",
+		"shouldRun:" : "ul 12/15/2009 12:50" },
+	"instance" : {
+		"defaultTimeout" : "ul 3/27/2011 19:28" } }

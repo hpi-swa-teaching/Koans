@@ -1,0 +1,4 @@
+exceptions
+error
+	^self exError
+			

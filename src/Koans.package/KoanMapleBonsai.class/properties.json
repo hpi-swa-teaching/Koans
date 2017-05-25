@@ -1,0 +1,14 @@
+{
+	"category" : "Koans-Bonsai",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "KoanMapleBonsai",
+	"pools" : [
+		 ],
+	"super" : "KoanBonsai",
+	"type" : "normal" }

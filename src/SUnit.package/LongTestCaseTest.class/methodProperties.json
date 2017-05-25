@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "ul 10/11/2010 02:50",
+		"tearDown" : "ul 10/11/2010 02:50",
+		"testLongTestCaseDoNotRun" : "sd 9/25/2004 14:12",
+		"testLongTestCaseRun" : "md 12/5/2004 21:28" } }

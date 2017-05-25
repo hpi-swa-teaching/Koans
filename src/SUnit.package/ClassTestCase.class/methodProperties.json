@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"isAbstract" : "md 2/22/2006 14:21",
+		"mustTestCoverage" : "brp 12/14/2003 15:50" },
+	"instance" : {
+		"categoriesForClass:" : "md 1/28/2004 11:32",
+		"classToBeTested" : "brp 7/27/2003 12:39",
+		"selectorsNotTested" : "brp 7/26/2003 16:35",
+		"selectorsTested" : "ul 3/13/2017 02:38",
+		"selectorsToBeIgnored" : "brp 7/26/2003 17:22",
+		"selectorsToBeTested" : "brp 7/27/2003 12:40",
+		"targetClass" : "jr 10/23/2016 01:22",
+		"testClassComment" : "md 3/26/2003 17:39",
+		"testCoverage" : "brp 12/14/2003 15:51",
+		"testNew" : "fbs 11/6/2013 08:36",
+		"testUnCategorizedMethods" : "fbs 7/14/2014 22:28" } }

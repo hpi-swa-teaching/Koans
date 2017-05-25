@@ -1,0 +1,4 @@
+accessing
+fruits
+
+	^ 'maple syrup'

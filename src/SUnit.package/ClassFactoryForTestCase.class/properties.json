@@ -1,0 +1,14 @@
+{
+	"category" : "SUnit-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"createdClasses" ],
+	"name" : "ClassFactoryForTestCase",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "SUnit-Kernel",
+	"classinstvars" : [
+		"history" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"testSelector",
+		"timeout" ],
+	"name" : "TestCase",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

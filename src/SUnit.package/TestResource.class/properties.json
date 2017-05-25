@@ -1,0 +1,15 @@
+{
+	"category" : "SUnit-Kernel",
+	"classinstvars" : [
+		"current" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"description" ],
+	"name" : "TestResource",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

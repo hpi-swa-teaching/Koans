@@ -1,0 +1,4 @@
+exceptions
+resumableFailure
+	^ResumableTestFailure
+			

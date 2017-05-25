@@ -1,0 +1,14 @@
+{
+	"category" : "Koans-SUnit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"exceptions" ],
+	"name" : "KoanTestResult",
+	"pools" : [
+		 ],
+	"super" : "TestResult",
+	"type" : "normal" }
