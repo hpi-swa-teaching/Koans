@@ -1,4 +1,5 @@
 OrderedDictionary {
+	'BaselineOfKoans.package' : #SquotCypressCodeSerializer,
 	'Koans\/Koans-Abouts.package' : #SquotCypressCodeSerializer,
 	'Koans\/Koans-Bonsai.package' : #SquotCypressCodeSerializer,
 	'Koans\/Koans-Core.package' : #SquotCypressCodeSerializer,

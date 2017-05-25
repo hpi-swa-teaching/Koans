@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfKoans",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfKoans",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
