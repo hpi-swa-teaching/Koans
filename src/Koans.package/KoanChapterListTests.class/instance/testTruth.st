@@ -1,4 +1,0 @@
-tests
-testTruth
-
-	^ true
