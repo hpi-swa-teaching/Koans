@@ -7,10 +7,11 @@ SmalltalkCISpec {
 		}
 	]
 	#testing : {
-		#allTestCases : false
-		#categories : [ 'Koans-Tests' ]
+		#allTestCases : false,
+		#categories : [ 'Koans-Tests' ],
 		
-		#failOnZeroTests : false
-		#hidePassingTests : true
+		#failOnZeroTests : false,
+		#hidePassingTests : true,
+		#defaultTimeout : 30
 	}
 }
