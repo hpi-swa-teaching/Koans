@@ -1,0 +1,4 @@
+tests
+testTruth
+
+	^ true
