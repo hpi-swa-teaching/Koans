@@ -1,13 +1,11 @@
 SmalltalkCISpec {
   #loading : [
     SCIMetacelloLoadSpec {
-      #baseline : 'NextLevelKoans',
+      #baseline : 'Koans',
       #directory : 'Koans',
-      #load : 'Tests',
-      #platforms : [ #squeak ]
+      #load : [ 'Tests' ],
+      #platforms : [ #squeak ],
+	  #useLatestMetacello : true
     }
-  ],
-  #testing : {
-    #categories : [ 'Koans-*' ]
-  }
+  ]
 }
