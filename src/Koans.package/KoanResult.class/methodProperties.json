@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"failed:method:attempts:totalSteps:" : "esec 11/1/2011 14:21:28.464",
+		"newFrom:failed:method:" : "esec 11/1/2011 14:21:03.786" },
+	"instance" : {
+		"attempts" : "esec 11/1/2011 11:27:16.839",
+		"attempts:" : "esec 11/1/2011 11:27:16.856",
+		"currentCase" : "rms 11/7/2011 18:24",
+		"currentCase:" : "rms 11/7/2011 18:24",
+		"failedMethod" : "esec 11/1/2011 14:20:07.041",
+		"failedMethod:" : "esec 11/1/2011 14:20:07.056",
+		"failedStep" : "esec 11/1/2011 11:29:16.418",
+		"failedStep:" : "esec 11/1/2011 11:29:16.429",
+		"totalSteps" : "esec 11/1/2011 11:31:34.332",
+		"totalSteps:" : "esec 11/1/2011 11:31:34.352" } }

@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"priority" : "pre 11/4/2011 21:39:14.12" },
+	"instance" : {
+		"test01trueAndFalseAreObjects" : "esec 11/1/2011 18:54:41.177",
+		"test02andIsAMessageOfBoolean" : "esec 11/1/2011 18:54:45.593",
+		"test03orIsAMessageOfBoolean" : "esec 11/1/2011 18:54:51.296",
+		"test04alsoNotAndImplies" : "pre 3/7/2017 11:40" } }
