@@ -7,6 +7,8 @@ spec for: #common do: [
 		package: 'Koans-Bonsai';
 		package: 'Koans-SUnit';
 		package: 'Koans-Core' with: [
-			spec requires: #( 'Koans-SUnit' 'Koans-Abouts' 'Koans-Bonsai')];
+			spec requires: #('Koans-SUnit' 'Koans-Abouts' 'Koans-Bonsai')];
 		package: 'Koans-Tests' with: [
-			spec requires: #('Koans-Core')]]
+			spec requires: #('Koans-Core')].
+	spec
+		group: 'tests' with: #('Koans-Tests')]
