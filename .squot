@@ -1,9 +1,9 @@
 OrderedDictionary {
-	'BaselineOfKoans.package' : #SquotCypressCodeSerializer,
-	'Koans\/Koans-Abouts.package' : #SquotCypressCodeSerializer,
-	'Koans\/Koans-Bonsai.package' : #SquotCypressCodeSerializer,
-	'Koans\/Koans-Core.package' : #SquotCypressCodeSerializer,
-	'Koans\/Koans-SUnit.package' : #SquotCypressCodeSerializer,
-	'Koans\/Koans.package' : #SquotCypressCodeSerializer,
-	'Koans\/SUnit.package' : #SquotCypressCodeSerializer
+	'src\/BaselineOfKoans.package' : #SquotCypressCodeSerializer,
+	'src\/Koans-Abouts.package' : #SquotCypressCodeSerializer,
+	'src\/Koans-Bonsai.package' : #SquotCypressCodeSerializer,
+	'src\/Koans-Core.package' : #SquotCypressCodeSerializer,
+	'src\/Koans-SUnit.package' : #SquotCypressCodeSerializer,
+	'src\/Koans.package' : #SquotCypressCodeSerializer,
+	'src\/SUnit.package' : #SquotCypressCodeSerializer
 }

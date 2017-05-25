@@ -3,7 +3,7 @@ SmalltalkCISpec {
     SCIMetacelloLoadSpec {
       #baseline : 'Koans',
       #directory : 'src',
-      #load : [ 'Tests' ],
+      #load : [ 'tests' ],
       #platforms : [ #squeak ],
 	  #useLatestMetacello : true
     }
