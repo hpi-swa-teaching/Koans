@@ -1,10 +1,9 @@
 OrderedDictionary {
-	'Koans-Tests.package' : #SquotCypressCodeSerializer,
 	'src\/BaselineOfKoans.package' : #SquotCypressCodeSerializer,
+	'src\/Koans-Tests.package' : #SquotCypressCodeSerializer,
 	'src\/Koans-Abouts.package' : #SquotCypressCodeSerializer,
 	'src\/Koans-Bonsai.package' : #SquotCypressCodeSerializer,
 	'src\/Koans-Core.package' : #SquotCypressCodeSerializer,
 	'src\/Koans-SUnit.package' : #SquotCypressCodeSerializer,
-	'src\/Koans.package' : #SquotCypressCodeSerializer,
 	'src\/SUnit.package' : #SquotCypressCodeSerializer
 }
