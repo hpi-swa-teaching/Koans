@@ -6,4 +6,11 @@ SmalltalkCISpec {
 			#platforms : [ #squeak ]
 		}
 	]
+	#testing : {
+		#allTestCases : false
+		#categories : [ 'Koans-Tests' ]
+		
+		#failOnZeroTests : false
+		#hidePassingTests : true
+	}
 }
