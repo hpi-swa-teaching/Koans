@@ -1,6 +1,10 @@
 building
 buildChapterListWith: aBuilder
-	^ aBuilder pluggableListSpec new
+	^ aBuilder pluggableTreeSpec new
 		model: self;
-		list: #chapterList;
-		setSelected: #selectedChapter:
+		roots: #chapterList;
+		getChildren: #getTests:;
+		hasChildren: #isChapter:;
+		getSelected: #selectedChapter;
+		setSelected: #selectedChapter:;
+		autoDeselect: false

@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 test05classesHaveAccessToInstances
 	"This is another powerful technique but you have to be careful using it!"
 

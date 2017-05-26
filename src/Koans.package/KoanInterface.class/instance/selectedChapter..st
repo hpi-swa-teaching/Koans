@@ -1,2 +1,3 @@
 accessing
-selectedChapter: anInteger
+selectedChapter: anObject
+	selectedChapter := anObject

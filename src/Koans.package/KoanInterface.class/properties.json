@@ -9,7 +9,8 @@
 		"shoutboxContent",
 		"result",
 		"progress",
-		"skippedKoans" ],
+		"skippedKoans",
+		"selectedChapter" ],
 	"name" : "KoanInterface",
 	"pools" : [
 		 ],
