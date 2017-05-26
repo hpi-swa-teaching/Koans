@@ -1,7 +1,7 @@
 accessing
 stepsWithout: aCollection
 	| steps |
-	steps := self cases
+	steps := KoanCase allChapters
 		inject: OrderedCollection new
 		into: [ :collection :next | 
 			(aCollection includes: next priority) ifFalse:[

@@ -1,3 +1,3 @@
 accessing
 chapterList
-	^ SystemOrganization classesInCategory: 'Koans-Abouts'
+	^ KoanCase allChapters
