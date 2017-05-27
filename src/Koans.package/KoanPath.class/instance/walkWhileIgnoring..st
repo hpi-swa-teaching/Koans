@@ -1,13 +1,13 @@
 walking
 walkWhileIgnoring: aCollection  
-	| sensei steps currentCase |
+	| sensei steps currentStep |
 	sensei := KoanSensei on: self stream.
 	steps := self stepsWithout: aCollection.
 	
 	self previousResult ifNil: [ self setInitialResultFor: steps ]. 
 	
-	currentCase := self runSensei: sensei on: steps.
+	currentStep := self runSensei: sensei on: steps.
 		
 	sensei result ifNil:[^nil].
 	sensei processingFinished.
-	^ sensei result currentCase: currentCase  
+	^ sensei result currentStep: currentStep  

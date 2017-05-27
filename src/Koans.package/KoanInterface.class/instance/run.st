@@ -1,6 +1,6 @@
 actions
 run
-
+	
 	self allSkipped ifFalse: [self shoutboxContent:
 			(Text streamContents: [ :stream | 
 				| path |

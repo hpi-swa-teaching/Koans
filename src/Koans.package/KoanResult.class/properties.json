@@ -10,7 +10,7 @@
 		"failedMethod",
 		"attempts",
 		"totalSteps",
-		"currentCase" ],
+		"currentStep" ],
 	"name" : "KoanResult",
 	"pools" : [
 		 ],

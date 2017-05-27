@@ -1,7 +1,9 @@
 {
 	"class" : {
-		"on:selector:" : "esec 10/10/2011 17:28" },
+		"allSteps" : "JLO 5/27/2017 20:44",
+		"on:selector:" : "JLO 5/26/2017 18:45" },
 	"instance" : {
+		"=" : "JLO 5/27/2017 21:59",
 		"case" : "esec 10/10/2011 17:28",
 		"case:" : "esec 10/10/2011 17:28",
 		"createTestSuite" : "esec 10/11/2011 15:34",

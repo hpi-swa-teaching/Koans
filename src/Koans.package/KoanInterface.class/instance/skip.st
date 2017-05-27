@@ -2,5 +2,5 @@ actions
 skip
 
 	self result ifNotNil: [
-		self skippedKoans addIfNotPresent: self result currentCase priority. 
+		self skippedKoans addIfNotPresent: self result currentStep. 
 		self run].

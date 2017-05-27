@@ -1,4 +1,4 @@
 actions
 allSkipped
 
-	^(self skippedKoans size = KoanCase allSubclasses size)
+	^(self skippedKoans size = KoanStep allSteps size)
