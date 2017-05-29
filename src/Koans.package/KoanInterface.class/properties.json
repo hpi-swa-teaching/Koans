@@ -10,7 +10,7 @@
 		"result",
 		"progress",
 		"skippedKoans",
-		"selectedChapter",
+		"selectedKoan",
 		"browser" ],
 	"name" : "KoanInterface",
 	"pools" : [

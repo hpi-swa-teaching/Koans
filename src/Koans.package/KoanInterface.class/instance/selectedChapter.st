@@ -1,3 +1,0 @@
-accessing
-selectedChapter
-	^ selectedChapter

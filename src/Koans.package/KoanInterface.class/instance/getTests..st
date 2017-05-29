@@ -1,3 +1,3 @@
 accessing
 getTests: aClass
-	^ (aClass methodsInCategory: 'tests')
+	^ aClass methodsInCategory: 'tests'

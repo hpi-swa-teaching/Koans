@@ -5,6 +5,6 @@ buildChapterListWith: aBuilder
 		roots: #chapterList;
 		getChildren: #getTests:;
 		hasChildren: #isChapter:;
-		getSelected: #selectedChapter;
-		setSelected: #selectedChapter:;
+		getSelected: #selectedKoan;
+		setSelected: #selectedElement:;
 		autoDeselect: false
