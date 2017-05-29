@@ -12,6 +12,9 @@ buildWith: aBuilder
 			add: ((self buildShoutboxWith: aBuilder)
 				frame: self shoutboxFrame;
 				yourself);
+			add: ((self buildBrowserWith: aBuilder)
+				frame: self browserFrame;
+				yourself);
 			add: ((self buildProgressWith: aBuilder)
 				frame: self progressFrame;
 				yourself);

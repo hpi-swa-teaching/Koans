@@ -8,4 +8,5 @@ run
 				path previousResult: self result.
 				self
 					result: (path walkWhileIgnoring: self skippedKoans);
+					updateBrowser;
 					updateProgress ])].

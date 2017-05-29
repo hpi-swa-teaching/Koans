@@ -1,3 +1,3 @@
 accessing
 extent
-	^ 640 @ 480
+	^ 800 @ 600
