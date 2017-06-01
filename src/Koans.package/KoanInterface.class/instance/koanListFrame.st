@@ -1,7 +1,7 @@
 building
-chapterListFrame
+koanListFrame
 	^LayoutFrame new
-		leftFraction: 0;
+		leftFraction: 0.5;
 		topFraction: 0;
-		rightFraction: 0.5;
+		rightFraction: 1;
 		bottomFraction: 1

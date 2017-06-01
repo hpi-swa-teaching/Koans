@@ -11,7 +11,9 @@
 		"progress",
 		"skippedKoans",
 		"selectedKoan",
-		"browser" ],
+		"selectedChapter",
+		"browser",
+		"activeView" ],
 	"name" : "KoanInterface",
 	"pools" : [
 		 ],

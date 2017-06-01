@@ -1,5 +1,6 @@
 building
 buildProgressWith: aBuilder
-	^ (KoanProgressSpec new)
+
+	^ KoanProgressSpec new
 		model: self;
 		progressAccessor: #progress

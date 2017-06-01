@@ -1,0 +1,4 @@
+accessing
+activeView
+	
+	^ activeView

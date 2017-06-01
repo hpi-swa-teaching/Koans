@@ -1,6 +1,7 @@
 building
 browseButtonFrame
-	^LayoutFrame new
+
+	^ LayoutFrame new
 		leftFraction: 1 offset: (self buttonWidth * 2) negated;
 		topFraction: 1 offset: self progressHeight negated;
 		rightFraction: 1 offset: self buttonWidth negated;

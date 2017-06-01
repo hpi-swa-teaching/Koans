@@ -1,6 +1,7 @@
 building
 buildBrowseButtonWith: aBuilder
-	^ (aBuilder pluggableButtonSpec new)
+
+	^ aBuilder pluggableButtonSpec new
 		model: self;
 		label: ' Browse ';
 		action: #browse
