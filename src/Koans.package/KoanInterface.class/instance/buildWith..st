@@ -1,5 +1,6 @@
 building
 buildWith: aBuilder
+
 	| window |
 	window := aBuilder pluggableWindowSpec new
 		model: self; 

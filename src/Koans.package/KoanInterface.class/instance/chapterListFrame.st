@@ -1,6 +1,7 @@
 building
 chapterListFrame
-	^LayoutFrame new
+
+	^ LayoutFrame new
 		leftFraction: 0;
 		topFraction: 0;
 		rightFraction: 0.5;

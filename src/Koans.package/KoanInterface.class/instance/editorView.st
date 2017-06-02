@@ -14,8 +14,8 @@ editorView
 		add: ((self buildSkipButtonWith: aBuilder)
 			frame: self skipButtonFrame;
 			yourself);
-		add: ((self buildBrowseButtonWith: aBuilder)
-			frame: self browseButtonFrame;
+		add: ((self buildBackToSelectionViewButtonWith: aBuilder)
+			frame: self backToSelectionViewButtonFrame;
 			yourself);
 		add: ((self buildRunButtonWith: aBuilder)
 			frame: self runButtonFrame;

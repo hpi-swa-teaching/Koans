@@ -1,7 +1,7 @@
 building
 buildSkipButtonWith: aBuilder
 
-	^ (aBuilder pluggableButtonSpec new)
+	^ aBuilder pluggableButtonSpec new
 		model: self;
-		label: ' Skip! ';
+		label: ' Skip ';
 		action: #skip
