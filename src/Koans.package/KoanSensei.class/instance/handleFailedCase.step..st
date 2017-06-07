@@ -6,6 +6,7 @@ handleFailedCase: aTestResult step: anIndex
 	debuggerMap := self debuggerMapFor: context.
 	
 	self
+		setFailed: aTestResult tests first;
 		result: (KoanResult newFrom: self previousResult 
 						     failed: anIndex 
 						     method: context method methodReference);
