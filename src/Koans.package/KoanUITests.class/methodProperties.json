@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"clearHistory:for:" : "JLO 6/8/2017 15:23",
+		"interface" : "JLO 6/8/2017 15:48",
+		"interface:" : "JLO 6/8/2017 15:48",
+		"setUp" : "JLO 6/8/2017 15:48",
+		"testCorrectResult" : "JLO 6/8/2017 15:57",
+		"testErrorIcon" : "JLO 6/8/2017 15:51",
+		"testFailIcon" : "JLO 6/8/2017 15:51",
+		"testNoneIcon" : "JLO 6/8/2017 15:50",
+		"testPassIcon" : "JLO 6/8/2017 15:52" } }
