@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"priority" : "pre 11/4/2011 21:41:14.162" },
+		"priority" : "pre 11/4/2011 21:41:14.162",
+		"requirements" : "JE 6/8/2017 15:23" },
 	"instance" : {
 		"test01stringsAreCollections" : "pre 3/7/2017 11:38",
 		"test02escaping" : "pre 3/7/2017 11:38",

@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"priority" : "pre 11/4/2011 21:41:44.378" },
+		"priority" : "pre 11/4/2011 21:41:44.378",
+		"requirements" : "JE 6/8/2017 15:20" },
 	"instance" : {
 		"test01collectionsCanComeInDifferentFlavours" : "pre 3/7/2017 11:32",
 		"test02collectionsStartAtFirst" : "esec 11/9/2011 10:43:18.729",

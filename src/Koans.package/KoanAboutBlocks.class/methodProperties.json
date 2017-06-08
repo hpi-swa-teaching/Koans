@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"priority" : "pre 11/4/2011 21:40:19.672" },
+		"priority" : "pre 11/4/2011 21:40:19.672",
+		"requirements" : "JE 6/8/2017 15:18" },
 	"instance" : {
 		"test01whatIsABlock" : "pre 3/7/2017 11:27",
 		"test02aBlockCanBeExecuted" : "pre 3/7/2017 11:28",

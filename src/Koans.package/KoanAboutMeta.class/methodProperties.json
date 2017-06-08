@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"priority" : "pre 12/9/2011 14:49:59.856" },
+		"priority" : "pre 12/9/2011 14:49:59.856",
+		"requirements" : "JE 6/8/2017 15:22" },
 	"instance" : {
 		"test01callAMethodOrLeaveAMessage" : "pre 3/7/2017 11:36",
 		"test02sendAMessageWithAttachedArguments" : "pre 12/9/2011 15:14:35.418",

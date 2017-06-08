@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testChapterListContainsClasses" : "JE 6/8/2017 15:35",
+		"testChapterListIsNotEmpty" : "JE 6/8/2017 15:33",
+		"testChapterListOrderedByPriority" : "JE 6/8/2017 15:42",
+		"testChapterTooltipNotNil" : "JE 6/8/2017 15:48" } }

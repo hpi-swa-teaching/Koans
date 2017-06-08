@@ -6,4 +6,5 @@ buildChapterListWith: aBuilder
 		getSelected: #selectedChapter;
 		setSelected: #selectChapter:;
 		list: #chapterList;
-		autoDeselect: false
+		autoDeselect: false;
+		helpItem: #chapterTooltipFor:

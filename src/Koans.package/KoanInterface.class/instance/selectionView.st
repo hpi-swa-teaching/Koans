@@ -3,6 +3,7 @@ selectionView
 
 	| aBuilder specs | 
 	self flag: #refactor.
+	self selectedKoan: nil.
 	aBuilder := ToolBuilder default.
 	specs := (OrderedCollection new 
 		add: ((self buildChapterListWith: aBuilder)

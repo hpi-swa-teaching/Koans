@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"priority" : "pre 11/4/2011 21:41:54.184" },
+		"priority" : "pre 11/4/2011 21:41:54.184",
+		"requirements" : "JE 6/8/2017 15:19" },
 	"instance" : {
 		"test01includes" : "esec 11/9/2011 10:44:05.696",
 		"test02anySatisfy" : "pre 3/7/2017 11:30",

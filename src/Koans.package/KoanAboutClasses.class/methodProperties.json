@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"priority" : "pre 10/16/2011 16:13:07.54" },
+		"priority" : "pre 10/16/2011 16:13:07.54",
+		"requirements" : "JE 6/8/2017 15:19" },
 	"instance" : {
 		"test01createAnInstanceWithNew" : "esec 11/1/2011 18:52:57.585",
 		"test02instanceVariablesAreEncapsulated" : "pre 3/7/2017 11:29",

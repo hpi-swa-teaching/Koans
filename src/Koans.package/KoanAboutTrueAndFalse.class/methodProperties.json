@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"priority" : "pre 11/4/2011 21:39:14.12" },
+		"priority" : "pre 11/4/2011 21:39:14.12",
+		"requirements" : "JE 6/8/2017 15:23" },
 	"instance" : {
 		"test01trueAndFalseAreObjects" : "esec 11/1/2011 18:54:41.177",
 		"test02andIsAMessageOfBoolean" : "esec 11/1/2011 18:54:45.593",

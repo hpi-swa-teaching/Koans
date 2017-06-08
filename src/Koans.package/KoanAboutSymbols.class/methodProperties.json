@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"priority" : "pre 11/4/2011 21:41:27.638" },
+		"priority" : "pre 11/4/2011 21:41:27.638",
+		"requirements" : "JE 6/8/2017 15:23" },
 	"instance" : {
 		"test01symbolsAreSymbols" : "pre 3/7/2017 11:39",
 		"test02symbolsCanBeCompared" : "pre 3/7/2017 11:39",

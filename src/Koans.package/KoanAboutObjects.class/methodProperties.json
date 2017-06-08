@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"priority" : "pre 10/16/2011 16:12:57.726" },
+		"priority" : "pre 10/16/2011 16:12:57.726",
+		"requirements" : "JE 6/8/2017 15:22" },
 	"instance" : {
 		"test01everythingIsAnObject" : "pre 3/7/2017 11:38",
 		"test02everyObjectHasAnId" : "pre 3/7/2017 11:38",
