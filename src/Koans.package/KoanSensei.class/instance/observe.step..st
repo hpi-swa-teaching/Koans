@@ -2,6 +2,7 @@ observing
 observe: aBlock step: anIndex
 	| evalResult |
 	evalResult := self evaluate: aBlock.
+	evalResult updateResultsInHistory .
 	(self errorsInResult: evalResult)
 		ifTrue: [ 
 			evalResult ifNotNil: 
