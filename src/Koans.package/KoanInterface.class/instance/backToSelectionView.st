@@ -1,4 +1,5 @@
 actions
 backToSelectionView
 
-	self activateView: #selection
+	self closeOpenedWindow.
+	self openSelectionView

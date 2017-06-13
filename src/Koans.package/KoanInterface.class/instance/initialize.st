@@ -6,5 +6,4 @@ initialize
 		shoutboxContent: self welcomeMessage;
 		browser: Browser new;
 		skippedKoans: OrderedCollection new;
-		selectedChapter: self chapterList first;
-		activeView: #selection
+		selectedChapter: self chapterList first

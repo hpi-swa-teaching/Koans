@@ -1,0 +1,4 @@
+accessing
+openedWindow
+	
+	^ openedWindow

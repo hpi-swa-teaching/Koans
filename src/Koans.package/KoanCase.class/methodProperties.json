@@ -2,6 +2,7 @@
 	"class" : {
 		"allChapters" : "JLO 5/26/2017 16:15",
 		"priority" : "esec 10/10/2011 16:40",
-		"requirements" : "JE 6/8/2017 15:18" },
+		"requirements" : "JE 6/8/2017 15:18",
+		"resetKoan:" : "SL 6/13/2017 16:59" },
 	"instance" : {
 		"initialize" : "esec 11/9/2011 10:50:57.297" } }
