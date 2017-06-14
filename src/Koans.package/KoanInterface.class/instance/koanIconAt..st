@@ -1,6 +1,6 @@
 building
-iconAt: anIndex
+koanIconAt: anIndex
 
 	| selector |
 	selector := self koanList at: anIndex.
-	^ self iconFor: selector
+	^ self koanIconFor: selector

@@ -1,5 +1,5 @@
 building
-iconFor: aSelector
+koanIconFor: aSelector
 
 	^ ToolIcons iconNamed: (ToolIcons
 		iconForClass: self selectedChapter selector: aSelector)

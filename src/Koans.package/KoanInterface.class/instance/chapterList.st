@@ -1,4 +1,4 @@
 accessing
 chapterList
 
-	^ KoanCase allChapters
+	^ KoanCase allChapters reject: [:aKoanCase | aKoanCase isMock]

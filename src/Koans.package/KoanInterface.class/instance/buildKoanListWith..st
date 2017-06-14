@@ -5,6 +5,6 @@ buildKoanListWith: aBuilder
 		model: self;
 		getSelected: #selectedKoan;
 		setSelected: #selectKoan:;
-		icon: #iconAt:;
+		icon: #koanIconAt:;
 		list: #koanList;
 		autoDeselect: false
