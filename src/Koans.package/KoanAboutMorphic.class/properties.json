@@ -1,7 +1,8 @@
 {
 	"category" : "Koans-Abouts",
 	"classinstvars" : [
-		 ],
+		"playground",
+		"window" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",

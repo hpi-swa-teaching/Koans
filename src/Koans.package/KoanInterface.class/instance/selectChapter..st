@@ -1,5 +1,6 @@
-building
+accessing
 selectChapter: aChapter
 
-	self selectedChapter: aChapter.
-	self changed: #koanList
+	self oldSelectedChapter: self selectedChapter;
+		selectedChapter: aChapter;
+		changed: #koanList

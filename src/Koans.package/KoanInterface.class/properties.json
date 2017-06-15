@@ -12,6 +12,7 @@
 		"skippedKoans",
 		"selectedKoan",
 		"selectedChapter",
+		"oldSelectedChapter",
 		"browser",
 		"openedWindow" ],
 	"name" : "KoanInterface",

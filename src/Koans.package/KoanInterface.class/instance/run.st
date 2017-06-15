@@ -8,5 +8,7 @@ run
 				path previousResult: self result.
 				self
 					result: (path walkWhileIgnoring: self skippedKoans);
-					updateBrowser;
+					selectedChapter: (self result currentStep case);
+					updateEnvironment;
+	 				updateBrowser;
 					updateProgress ])].
