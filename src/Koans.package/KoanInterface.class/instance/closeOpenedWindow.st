@@ -1,4 +1,4 @@
 actions
 closeOpenedWindow
 
-	self openedWindow delete
+	self openedWindow closeBoxHit
