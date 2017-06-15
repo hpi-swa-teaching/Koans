@@ -13,7 +13,7 @@
 		"selectedKoan",
 		"selectedChapter",
 		"browser",
-		"openedWindow" ],
+		"openedView" ],
 	"name" : "KoanInterface",
 	"pools" : [
 		 ],

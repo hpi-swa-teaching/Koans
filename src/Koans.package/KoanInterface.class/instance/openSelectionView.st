@@ -3,5 +3,6 @@ openSelectionView
 
 	| builder |
 	builder := ToolBuilder default.
-	self openedWindow: (builder open: (self buildSelectionViewWith: builder)).
-	^ self openedWindow
+	self closeOpenedView.
+	self openedView: (builder open: (self buildSelectionViewWith: builder)).
+	^ self openedView

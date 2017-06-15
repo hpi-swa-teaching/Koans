@@ -1,3 +1,3 @@
 running
 open
-	ToolBuilder open: KoanInterface new
+	KoanInterface new openSelectionView

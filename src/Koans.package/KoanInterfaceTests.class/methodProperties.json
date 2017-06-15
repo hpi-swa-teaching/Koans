@@ -7,4 +7,7 @@
 		"testChapterListContainsClasses" : "SL 6/13/2017 17:17",
 		"testChapterListIsNotEmpty" : "SL 6/13/2017 17:17",
 		"testChapterListOrderedByPriority" : "SL 6/13/2017 17:17",
-		"testChapterTooltipNotNil" : "SL 6/13/2017 17:17" } }
+		"testChapterTooltipNotNil" : "SL 6/13/2017 17:17",
+		"testCloseOpenedView" : "JE 6/15/2017 14:31",
+		"testOnlyOneViewExistsAtATime" : "JE 6/15/2017 14:27",
+		"testSelectionViewOpened" : "JE 6/15/2017 14:18" } }
