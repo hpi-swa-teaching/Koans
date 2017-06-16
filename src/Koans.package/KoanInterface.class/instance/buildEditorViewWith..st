@@ -1,7 +1,6 @@
 building
 buildEditorViewWith: aBuilder
 
-	self selectedKoan: nil.
 	^ self buildWindowWith: aBuilder children: 
 		(OrderedCollection new
 			add: ((self buildShoutboxWith: aBuilder)
