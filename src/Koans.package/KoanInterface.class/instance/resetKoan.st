@@ -1,5 +1,5 @@
 actions
 resetKoan
 
-	self selectedChapter resetKoan: self selectedKoan.
+	self selectedChapter resetKoanInChapter: self selectedKoan.
 	self browser updateCodePaneIfNeeded

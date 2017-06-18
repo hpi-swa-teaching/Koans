@@ -1,4 +1,4 @@
-accessing
-resetKoan: aKoan
+koans
+resetKoanInChapter: aKoan
 
 	(self changeRecordsAt: aKoan) last fileIn

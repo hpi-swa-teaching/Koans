@@ -1,4 +1,4 @@
 accessing
 koanList
 	
-	^ self koansIn: self selectedChapter
+	^ self selectedChapter koansInChapter
