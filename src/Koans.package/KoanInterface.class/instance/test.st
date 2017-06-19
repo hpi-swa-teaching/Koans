@@ -8,4 +8,4 @@ test
 				path previousResult: self result.
 				self
 					result: (path walkWhileIgnoring:  ({self result currentStep} asOrderedCollection));
-					selectedChapter: (self result currentStep case) ])].
+					selectedChapter: (self result currentStep chapter) ])].

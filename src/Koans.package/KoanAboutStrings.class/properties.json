@@ -10,5 +10,5 @@
 	"name" : "KoanAboutStrings",
 	"pools" : [
 		 ],
-	"super" : "KoanCase",
+	"super" : "KoanChapter",
 	"type" : "normal" }

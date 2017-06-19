@@ -9,7 +9,7 @@ buildEditorViewWith: aBuilder
 			add: ((self buildBrowserWith: aBuilder)
 				frame: self browserFrame;
 				yourself);
-			add: ((self buildSkipButtonWith: aBuilder)
+			add: ((self buildNextButtonWith: aBuilder)
 				frame: self skipButtonFrame;
 				yourself);
 			add: ((self buildResetKoanButtonWith: aBuilder)

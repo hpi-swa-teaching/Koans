@@ -1,13 +1,13 @@
 {
-	"category" : "Koans-Core",
+	"category" : "Koans-Tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"xx" ],
-	"name" : "KoanCase",
+		 ],
+	"name" : "KoanStepTests",
 	"pools" : [
 		 ],
 	"super" : "TestCase",

@@ -1,8 +1,9 @@
 testing
 testErrorIcon
 
-	self clearHistory: KoanAboutAsserts for: #test01assertTruth.
-	((TestResult historyFor: KoanAboutAsserts) 	at: #errors) add: #test01assertTruth.
+	| koan |
+	koan := KoanStep on: KoanMockError selector: #testError.
+	self clearHistory: koan.
+	((TestResult historyFor: koan chapter) at: #errors) add: koan selector.
 	
-	self interface selectedChapter: KoanAboutAsserts.
-	self assert: (self interface koanIconFor: #test01assertTruth) bits equals: ToolIcons testRed bits
+	self assert: koan icon bits equals: ToolIcons testRed bits

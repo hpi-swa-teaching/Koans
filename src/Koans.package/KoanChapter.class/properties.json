@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "KoanCaseFailedException",
+		"xx" ],
+	"name" : "KoanChapter",
 	"pools" : [
 		 ],
-	"super" : "Exception",
+	"super" : "TestCase",
 	"type" : "normal" }

@@ -5,7 +5,7 @@ runSensei: sensei on: steps
 	sensei previousResult: self previousResult.
 	[ steps doWithIndex: [ :step :index | 
 		currentCase := step.
-		sensei observe: [ step meditate ] step: index ] ]
-		on: KoanCaseFailedException do: [  ].
+		sensei observe: [ step testResult ] step: index ] ]
+		on: KoanChapterFailedException do: [  ].
 	
 	^currentCase 

@@ -1,4 +1,4 @@
 koans
-koansInChapter
+methodsInChapter
 
 	^ self methodsInCategory: 'tests'

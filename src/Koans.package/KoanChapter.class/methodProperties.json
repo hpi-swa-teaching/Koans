@@ -3,11 +3,11 @@
 		"allChapters" : "SL 6/18/2017 20:20",
 		"destroyEnvironment" : "JLO 6/15/2017 12:11",
 		"isMock" : "JLO 6/14/2017 15:35",
-		"koansInChapter" : "SL 6/18/2017 20:14",
+		"koansInChapter" : "SL 6/19/2017 18:22",
+		"methodsInChapter" : "SL 6/19/2017 18:21",
 		"priority" : "esec 10/10/2011 16:40",
 		"requirements" : "JE 6/8/2017 15:18",
-		"resetKoanInChapter:" : "SL 6/18/2017 20:15",
-		"resetKoansInChapter" : "SL 6/18/2017 20:16",
+		"resetKoansInChapter" : "SL 6/19/2017 18:36",
 		"setUpEnvironment" : "JLO 6/15/2017 11:26" },
 	"instance" : {
 		"initialize" : "esec 11/9/2011 10:50:57.297" } }

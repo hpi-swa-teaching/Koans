@@ -1,4 +1,4 @@
 accessing
 chapterList
 
-	^ KoanCase allChapters
+	^ KoanChapter allChapters

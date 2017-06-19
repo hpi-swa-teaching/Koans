@@ -1,5 +1,5 @@
-meditating
-meditate
+sunit
+testResult
 	| testResult testSuite |
 	testSuite := self createTestSuite.
 	testResult := KoanTestResult new.

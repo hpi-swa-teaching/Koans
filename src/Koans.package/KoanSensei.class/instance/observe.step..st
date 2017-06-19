@@ -7,5 +7,5 @@ observe: aBlock step: anIndex
 		ifTrue: [ 
 			evalResult ifNotNil: 
 				[self handleFailedCase: evalResult step: anIndex].
-			KoanCaseFailedException signal]
+			KoanChapterFailedException signal]
 		ifFalse: [ self handleSucceededCase: evalResult step: anIndex].

@@ -1,4 +1,4 @@
 building
 chapterTooltipFor: anIndex
 	
-	^ self chapterTooltipForKoan: (self chapterList at: anIndex) 
+	^ self tooltipFor: (self chapterList at: anIndex) 

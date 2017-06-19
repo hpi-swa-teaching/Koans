@@ -1,4 +1,4 @@
-accessing
+actions
 selectChapter: aChapter
 
 	self oldSelectedChapter: self selectedChapter;

@@ -11,5 +11,5 @@
 	"name" : "KoanAboutMorphic",
 	"pools" : [
 		 ],
-	"super" : "KoanCase",
+	"super" : "KoanChapter",
 	"type" : "normal" }

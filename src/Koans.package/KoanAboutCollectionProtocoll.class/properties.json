@@ -10,5 +10,5 @@
 	"name" : "KoanAboutCollectionProtocoll",
 	"pools" : [
 		 ],
-	"super" : "KoanCase",
+	"super" : "KoanChapter",
 	"type" : "normal" }

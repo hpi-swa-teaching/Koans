@@ -4,10 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "SL 6/19/2017 18:08",
 	"instvars" : [
-		"case",
-		"selector" ],
+		"selector",
+		"chapter" ],
 	"name" : "KoanStep",
 	"pools" : [
 		 ],

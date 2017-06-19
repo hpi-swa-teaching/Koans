@@ -1,4 +1,5 @@
 comparing
 = anotherKoanStep
 
-	^ anotherKoanStep case = self case and: [anotherKoanStep selector = self selector ]
+	anotherKoanStep species == self species ifFalse: [^ false].
+	^ anotherKoanStep chapter = self chapter and: [anotherKoanStep selector = self selector ]

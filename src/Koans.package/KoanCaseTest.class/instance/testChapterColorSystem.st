@@ -1,4 +1,4 @@
-testing
+tests
 testChapterColorSystem
 
 	KoanMockEmpty resetToState.

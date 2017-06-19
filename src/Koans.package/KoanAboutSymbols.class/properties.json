@@ -10,5 +10,5 @@
 	"name" : "KoanAboutSymbols",
 	"pools" : [
 		 ],
-	"super" : "KoanCase",
+	"super" : "KoanChapter",
 	"type" : "normal" }
