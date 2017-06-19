@@ -14,4 +14,5 @@ testCorrectResult
 	
 	result failures size > 0 ifTrue: [self assert: (self interface koanIconFor: #test01assertTruth) bits equals: ToolIcons testOrange bits].
 	result errors size > 0 ifTrue: [self assert: (self interface koanIconFor: #test01assertTruth) bits equals: ToolIcons testRed bits].
-	result passed size > 0 ifTrue: [self assert: (self interface koanIconFor: #test01assertTruth) bits equals: ToolIcons testGreen bits]
+	result passed size > 0 ifTrue: [self assert: (self interface koanIconFor: #test01assertTruth) bits equals: ToolIcons testGreen bits].
+	interface closeOpenedView

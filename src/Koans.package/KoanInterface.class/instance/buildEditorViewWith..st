@@ -21,4 +21,7 @@ buildEditorViewWith: aBuilder
 			add: ((self buildRunButtonWith: aBuilder)
 				frame: self runButtonFrame;
 				yourself);
+			add: ((self buildTestButtonWith: aBuilder)
+				frame: self testButtonFrame;
+				yourself);
 			yourself)
