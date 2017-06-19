@@ -7,6 +7,8 @@ testCorrectResult
 	step := KoanStep new
 						case: KoanAboutAsserts;
 		 				selector: #test01assertTruth.
+	interface selectedChapter: KoanAboutAsserts.
+	interface selectKoan: #test01assertTruth.
 	self interface skipTo: step;
 			  	  run.
 	
