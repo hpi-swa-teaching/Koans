@@ -1,3 +1,4 @@
+SystemOrganization addCategory: #'Koans-Tests-Mocks'!
 SystemOrganization addCategory: #'Koans-Abouts'!
 SystemOrganization addCategory: #'Koans-Bonsai'!
 SystemOrganization addCategory: #'Koans-Core'!
