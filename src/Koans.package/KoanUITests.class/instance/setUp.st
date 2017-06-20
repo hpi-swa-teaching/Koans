@@ -2,4 +2,4 @@ testing
 setUp
 
 	super setUp.
-	self interface: KoanInterface new
+	self interface: KoanBrowser new

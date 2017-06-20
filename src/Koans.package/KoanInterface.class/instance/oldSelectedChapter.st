@@ -1,4 +1,0 @@
-accessing
-oldSelectedChapter
-
-	^ oldSelectedChapter

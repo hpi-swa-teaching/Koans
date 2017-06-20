@@ -1,3 +1,4 @@
 running
 open
-	KoanInterface new openSelectionView
+
+	KoanBrowser open

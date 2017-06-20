@@ -1,4 +1,0 @@
-accessing
-skippedKoans
-
-	^ skippedKoans

@@ -1,0 +1,18 @@
+{
+	"category" : "Koans-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"shoutboxContent",
+		"openedKoan",
+		"oldSelectedChapter",
+		"browser",
+		"openedView" ],
+	"name" : "KoanEditor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
