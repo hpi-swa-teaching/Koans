@@ -4,6 +4,8 @@
 		"on:selector:" : "SL 6/19/2017 18:33" },
 	"instance" : {
 		"=" : "SL 6/19/2017 19:43",
+		"attempts" : "JE 6/20/2017 15:51",
+		"attempts:" : "JE 6/20/2017 15:46",
 		"chapter" : "SL 6/19/2017 18:33",
 		"chapter:" : "SL 6/19/2017 18:33",
 		"createTestSuite" : "SL 6/19/2017 18:33",
@@ -14,4 +16,4 @@
 		"reset" : "SL 6/19/2017 18:32",
 		"selector" : "esec 10/10/2011 17:28",
 		"selector:" : "esec 10/10/2011 17:28",
-		"testResult" : "SL 6/19/2017 19:05" } }
+		"testResult" : "JE 6/20/2017 15:51" } }

@@ -1,4 +1,4 @@
-instance creation
+initialization
 on: aStream
 	^ (self new)
 		stream: aStream;

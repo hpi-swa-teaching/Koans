@@ -6,9 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"stream",
-		"result",
-		"previousResult" ],
+		"stream" ],
 	"name" : "KoanSensei",
 	"pools" : [
 		 ],

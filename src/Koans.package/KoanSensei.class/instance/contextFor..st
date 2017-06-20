@@ -1,4 +1,4 @@
-observing
+tracing
 contextFor: aTestResult
 	^ aTestResult firstException signalerContext
 		findContextSuchThat: [ :ctx |

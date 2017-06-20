@@ -7,7 +7,8 @@
 	"commentStamp" : "SL 6/19/2017 18:08",
 	"instvars" : [
 		"selector",
-		"chapter" ],
+		"chapter",
+		"attempts" ],
 	"name" : "KoanStep",
 	"pools" : [
 		 ],
