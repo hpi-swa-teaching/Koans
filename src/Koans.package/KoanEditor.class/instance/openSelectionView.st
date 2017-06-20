@@ -1,4 +1,0 @@
-ui
-openSelectionView
-
-	KoanBrowser open
