@@ -1,2 +1,1 @@
-# SWT17-Project-06 [![Build Status](https://travis-ci.org/HPI-SWA-Teaching/SWT17-Project-06.svg?branch=master)](https://travis-ci.org/HPI-SWA-Teaching/SWT17-Project-06)
-Next-level Koans
+# SWT17-Project-06 [![Build Status](https://travis-ci.org/HPI-SWA-Teaching/SWT17-Project-06.svg?branch=master)](https://travis-ci.org/HPI-SWA-Teaching/SWT17-Project-06) [![Coverage Status](https://coveralls.io/repos/github/HPI-SWA-Teaching/SWT17-Project-06/badge.svg?branch=master)](https://coveralls.io/github/HPI-SWA-Teaching/SWT17-Project-06?branch=master)
