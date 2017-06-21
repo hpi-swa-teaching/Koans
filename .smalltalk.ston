@@ -10,6 +10,9 @@ SmalltalkCISpec {
 		#categories : [ 'Koans-Tests' ],
 		#failOnZeroTests : false,
 		#hidePassingTests : true,
-		#defaultTimeout : 30
+		#defaultTimeout : 30,
+		#coverage: {
+			#categories : [ 'Koans-Core' ]
+		}
 	}
 }
