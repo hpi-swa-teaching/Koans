@@ -3,11 +3,16 @@ SmalltalkCISpec {
 		SCIMetacelloLoadSpec {
 			#baseline : 'Koans',
 			#directory : 'src',
-			#platforms : [ #squeak ]
+			#platforms : [ #squeak ],
+			#useLatesMetacello : true,
+			#load : [ 'completeWithTests' ]
 		}
 	],
 	#testing : {
-		#categories : [ 'Koans-Tests' ],
+		#package : [ 'Koans-Tests.*' ],
+		#exclude : {
+			#categories : [ 'Koans-Tests-Mocks' ]
+		},
 		#failOnZeroTests : false,
 		#hidePassingTests : true,
 		#defaultTimeout : 30,
