@@ -5,8 +5,8 @@ baseline: spec
 		spec
 			package: 'SUnit';
 			package: 'Koans-Core' with: [spec requires: 'SUnit'];
-			package: 'Koans-Tests' with: [spec requires: 'Koans-Core'];
-			package: 'Koans-Chapters' with: [spec requires: 'Koans-Core'].
+			package: 'Koans-Tests' with: [spec requires: 'core'];
+			package: 'Koans-Chapters' with: [spec requires: 'core'].
 		spec
 			group: 'core' with: #('Koans-Core');
 			group: 'content' with: #('Koans-Chapters');
