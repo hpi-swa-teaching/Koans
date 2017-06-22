@@ -1,5 +1,5 @@
 ui
 changeToEditorViewOn: aKoan
 
-	self closeOpenedView.
+	self closeOpenedWindow.
 	KoanEditor openOn: aKoan

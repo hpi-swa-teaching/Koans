@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAttempts" : "JE 6/20/2017 15:51",
+		"testErringKoanFails" : "SL 6/19/2017 18:16",
+		"testFaultyKoanFails" : "SL 6/19/2017 18:14",
+		"testPassingKoanPasses" : "SL 6/19/2017 18:12" } }

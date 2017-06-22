@@ -1,4 +1,4 @@
 accessing
-openedView: anObject
+openedWindow: anObject
 	
 	openedView := anObject.

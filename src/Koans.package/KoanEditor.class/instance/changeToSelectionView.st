@@ -2,5 +2,5 @@ ui
 changeToSelectionView
 
 	self openedChapter destroyEnvironment.
-	self closeOpenedView.
+	self closeOpenedWindow.
 	KoanBrowser open

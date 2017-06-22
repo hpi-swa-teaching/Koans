@@ -1,4 +1,4 @@
 accessing
-openedView
+openedWindow
 	
 	^ openedView

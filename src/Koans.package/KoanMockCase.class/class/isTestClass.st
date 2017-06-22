@@ -1,0 +1,4 @@
+accessing
+isTestClass
+
+	^ false
