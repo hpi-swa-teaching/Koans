@@ -9,7 +9,7 @@ SmalltalkCISpec {
 		}
 	],
 	#testing : {
-		#package : [ 'Koans-Tests.*' ],
+		#package : [ 'Koans-Tests' ],
 		#exclude : {
 			#categories : [ 'Koans-Tests-Mocks' ]
 		},

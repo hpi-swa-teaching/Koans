@@ -4,13 +4,11 @@ baseline: spec
 	spec for: #common do: [
 		spec
 			package: 'SUnit';
-			package: 'Koans-Core' with: [spec requires: #('SUnit')];
+			package: 'Koans' with: [spec requires: #('SUnit')];
 			package: 'Koans-Tests' with: [spec requires: #('Core')];
-			package: 'Koans-Chapters' with: [spec requires: #('Core')].
 		spec
-			group: 'Core' with: #('Koans-Core');
-			group: 'Content' with: #('Koans-Chapters');
+			group: 'Core' with: #('Koans');
 			group: 'Tests' with: #('Koans-Tests');
-			group: 'default' with: #('Core' 'Content' 'Tests');
-			group: 'CompleteWithoutTests' with: #('default');
+			group: 'default' with: #('Core' 'Tests');
+			group: 'CompleteWithoutTests' with: #('Core');
 			group: 'CompleteWithTests' with: #('CompleteWithoutTests' 'tests')]
