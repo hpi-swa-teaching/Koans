@@ -1,4 +1,4 @@
 actions
 windowColorToUse
 
-	^ Preferences uniformWindowColor
+	^ Preferences windowColorFor: #Model

@@ -1,4 +1,4 @@
 toolbuilder
 windowColorToUse
 
-	^ Preferences uniformWindowColor
+	^ Preferences windowColorFor: #Model
