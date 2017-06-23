@@ -1,7 +1,7 @@
 printing
 printFailureMessageFor: aKoanStep with: aTestResult
 
-	self printTestName: aKoanStep selector  in: KoanSensei failureColor.
+	self printFailedTestName: aKoanStep selector.
 	self printEncouragementFor: aKoanStep.
 	self printErrorSpecification: aTestResult.
 	self printFailingCodeLinesFor: aKoanStep with: aTestResult.
