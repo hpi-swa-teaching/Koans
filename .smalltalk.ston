@@ -4,8 +4,8 @@ SmalltalkCISpec {
 			#baseline : 'Koans',
 			#directory : 'src',
 			#onWarningLog : true,
-			#useLatesMetacello : true,
-			#load : [ 'completeWithTests' ],
+			#useLatestMetacello : true,
+			#load : [ 'CompleteWithTests' ],
 			#platforms : [ #squeak ]
 		}
 	],

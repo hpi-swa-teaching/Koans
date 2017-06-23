@@ -11,4 +11,4 @@ baseline: spec
 			group: 'Tests' with: #('Koans-Tests');
 			group: 'default' with: #('Core' 'Tests');
 			group: 'CompleteWithoutTests' with: #('Core');
-			group: 'CompleteWithTests' with: #('CompleteWithoutTests' 'tests')]
+			group: 'CompleteWithTests' with: #('CompleteWithoutTests' 'Tests')]
