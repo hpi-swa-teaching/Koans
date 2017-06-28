@@ -1,6 +1,8 @@
 accessing
 setUpMethods
 
-	^ {#test01MorphicOpenInWorld -> [self setUpTest01] .
-		#test02MorphicOpenInPlayground -> [self setUpTest02] . 
-		#test03MorphicChangeColor -> [self setUpTest03]} asDictionary
+	^ Dictionary new
+		at: #test01MorphicOpenInWorld put: [self setUpTest01];
+		at: #test02MorphicOpenInPlayground put: [self setUpTest02]; 
+		at: #test03MorphicChangeColor put:  [self setUpTest03];
+		yourself

@@ -1,4 +1,4 @@
 accessing
 setUpMethods
 
-	^ {} asDictionary
+	^ Dictionary new

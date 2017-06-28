@@ -1,4 +1,4 @@
 tests
 testMorphicSetUpMethodsAreBlocks
 
-	self assert: (KoanAboutMorphic setUpMethods allSatisfy: [:each | each isBlock])
+	self assert: (KoanAboutMorphic setUpMethods values allSatisfy: [:each | each isBlock])
