@@ -2,6 +2,7 @@
 	"class" : {
 		"defaultExtent" : "SL 6/21/2017 00:16",
 		"defaultLabel" : "SL 6/21/2017 00:16",
+		"newOnKoan:" : "SL 6/28/2017 20:29",
 		"openOn:" : "SL 6/22/2017 23:07" },
 	"instance" : {
 		"browser" : "SL 6/20/2017 23:34",
@@ -14,7 +15,7 @@
 		"buildResetKoanButtonWith:" : "SL 6/21/2017 00:52",
 		"buildShoutboxWith:" : "SL 6/20/2017 23:09",
 		"buildTestButtonWith:" : "SL 6/21/2017 00:51",
-		"buildWith:" : "SL 6/28/2017 18:58",
+		"buildWith:" : "SL 6/28/2017 20:36",
 		"buttonWidth" : "SL 6/21/2017 00:41",
 		"changeToSelectionView" : "SL 6/22/2017 23:06",
 		"closeOpenedWindow" : "SL 6/22/2017 23:08",

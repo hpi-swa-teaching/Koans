@@ -1,4 +1,4 @@
 tests
 testChapterListContainsChapters
 
-	self assert: (interface chapterList allSatisfy: [:element | element isKindOf: KoanChapter class])
+	self assert: (browser chapterList allSatisfy: [:element | element isKindOf: KoanChapter class])
