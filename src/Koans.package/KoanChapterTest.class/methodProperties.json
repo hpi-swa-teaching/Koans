@@ -5,4 +5,12 @@
 		"correctPairs" : "SL 6/23/2017 21:22",
 		"testChapterColor" : "SL 6/21/2017 01:38",
 		"testChapterColorSystem" : "SL 6/21/2017 01:37",
-		"testKoansInChapterAreKoanSteps" : "SL 6/19/2017 18:29" } }
+		"testDestroyPlayground" : "JLO 6/28/2017 16:40",
+		"testKoansInChapterAreKoanSteps" : "SL 6/19/2017 18:29",
+		"testKoansInChapterContainsCorrectNumberOfKoans" : "JLO 6/28/2017 17:08",
+		"testMorphicSetUpMethodsAreBlocks" : "JLO 6/28/2017 16:30",
+		"testPlaygroundSetUpCreatesPasteupmorph" : "JLO 6/28/2017 16:39",
+		"testPlaygroundSetUpOpensWindow" : "JLO 6/28/2017 16:39",
+		"testSetUpMethodForEachMorphicKoan" : "JLO 6/28/2017 18:05",
+		"testSetUpMethodsAreBlocks" : "JLO 6/28/2017 16:28",
+		"testSetUpMethodsReturnsDictionary" : "JLO 6/28/2017 18:00" } }

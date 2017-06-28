@@ -1,0 +1,4 @@
+tests
+tearDown
+
+	editor closeOpenedWindow

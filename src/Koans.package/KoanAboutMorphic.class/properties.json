@@ -2,7 +2,8 @@
 	"category" : "Koans-Chapters",
 	"classinstvars" : [
 		"playground",
-		"window" ],
+		"window",
+		"morph" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",

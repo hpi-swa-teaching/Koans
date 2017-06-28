@@ -1,4 +1,4 @@
-testing
+tests
 testError
 	
 	"Just an example, never gets executed because of the exception"

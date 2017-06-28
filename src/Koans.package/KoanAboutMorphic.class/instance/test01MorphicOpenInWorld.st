@@ -7,4 +7,4 @@ test01MorphicOpenInWorld
 	morph := Morph new.
 	xx openInWorld.
 	
-	self assert: morph isInWorld.
+	self assert: morph isInWorld

@@ -1,5 +1,7 @@
-accessing
+setUp
 destroyEnvironment 
-
-	self window closeBoxHit
+	
+	self window ifNotNil: [self window closeBoxHit].
+	self window: nil.
+	self playground: nil
 					 
