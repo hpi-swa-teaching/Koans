@@ -1,4 +1,4 @@
-testing
+tests
 clearHistory: aClass for: aSelector
 	
 	#(#errors #failures #passed) do: [:aSymbol | 

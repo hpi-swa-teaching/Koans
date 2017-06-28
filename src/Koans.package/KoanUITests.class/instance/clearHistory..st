@@ -1,4 +1,4 @@
-testing
+tests
 clearHistory: aKoan
 	
 	#(#errors #failures #passed) do: [:aSymbol | 

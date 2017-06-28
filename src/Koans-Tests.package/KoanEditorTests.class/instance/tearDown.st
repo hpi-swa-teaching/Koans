@@ -1,4 +1,0 @@
-tests
-tearDown
-
-	editor closeOpenedWindow

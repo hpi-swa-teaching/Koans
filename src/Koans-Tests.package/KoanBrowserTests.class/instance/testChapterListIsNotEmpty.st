@@ -1,5 +1,5 @@
 tests
 testChapterListIsNotEmpty
 
-	self deny: interface chapterList size = 0
+	self deny: browser chapterList size = 0
 	

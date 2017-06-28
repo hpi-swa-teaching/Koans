@@ -1,4 +1,4 @@
-icon
+sunit
 icon
 
 	^ ToolIcons iconNamed: (ToolIcons

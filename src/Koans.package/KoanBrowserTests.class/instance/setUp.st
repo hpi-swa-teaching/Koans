@@ -1,4 +1,5 @@
-tests
+running
 setUp
 
-	interface := KoanBrowser new
+	browser := KoanBrowser new.
+	toolbuilder := ToolBuilder default
