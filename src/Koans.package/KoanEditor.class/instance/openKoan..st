@@ -5,4 +5,4 @@ openKoan: aKoan
 	self openedChapter setUpKoan: aKoan.
 	self oldSelectedChapter: self openedChapter.
 	self setBrowserTo: aKoan.
-	self test
+	self shoutWelcomeMessage
