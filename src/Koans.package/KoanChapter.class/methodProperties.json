@@ -12,4 +12,5 @@
 		"setUpKoan:" : "JLO 6/28/2017 16:06",
 		"setUpMethods" : "JLO 6/28/2017 18:18" },
 	"instance" : {
-		"initialize" : "esec 11/9/2011 10:50:57.297" } }
+		"initialize" : "esec 11/9/2011 10:50:57.297",
+		"openDebuggerOnFailingTestMethod" : "SL 7/2/2017 16:32" } }

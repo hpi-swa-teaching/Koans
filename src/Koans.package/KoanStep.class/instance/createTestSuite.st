@@ -2,5 +2,5 @@ sunit
 createTestSuite
 	| suite |
 	suite := TestSuite named: 'koan-testsuite-' , self identityHash asString.
-	suite addTest: (self chapter selector: selector).
+	suite addTest: self testCase.
 	^ suite

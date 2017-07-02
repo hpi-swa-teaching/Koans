@@ -1,4 +1,6 @@
-modify
+resetting
 reset
 
-	(self chapter changeRecordsAt: self selector) last fileIn
+	| changeRecords |
+	changeRecords := self changeRecords.
+	(changeRecords last text = changeRecords first text) ifFalse: [changeRecords last fileIn]
