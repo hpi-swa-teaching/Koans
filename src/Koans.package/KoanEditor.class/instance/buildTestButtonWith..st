@@ -5,7 +5,8 @@ buildTestButtonWith: aBuilder
 		model: self;
 		label: ' Test ';
 		action: #test;
-		frame: (LayoutFrame 
-					fractions: (1@1 corner: 1@1) 
-					offsets: ((self buttonWidth * 2) negated @ self progressHeight negated 
-								corner: self buttonWidth negated @0))
+		frame: (LayoutFrame new
+					leftFraction: 1 offset: (self buttonWidth *2) negated;
+					topFraction: 1 offset: (self progressHeight - self defaultOffset) negated;
+					rightFraction: 1 offset: (self buttonWidth *1) negated;
+					bottomFraction: 1 offset: 0)

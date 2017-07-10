@@ -6,6 +6,8 @@ buildNextButtonWith: aBuilder
 		label: ' Next ';
 		"enabled: #isNextButtonEnabled;"
 		action: #nextKoan;
-		frame: (LayoutFrame 
-					fractions: (1@1 corner: 1@1) 
-					offsets: (self buttonWidth negated @ self progressHeight negated corner: 0@0))
+		frame: (LayoutFrame new
+					leftFraction: 1 offset: self buttonWidth negated;
+					topFraction: 1 offset: (self progressHeight - self defaultOffset) negated;
+					rightFraction: 1 offset: 0;
+					bottomFraction: 1 offset: 0)
