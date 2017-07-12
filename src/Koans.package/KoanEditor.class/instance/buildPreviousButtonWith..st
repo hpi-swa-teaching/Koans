@@ -4,7 +4,7 @@ buildPreviousButtonWith: aBuilder
 	^ aBuilder pluggableButtonSpec new
 		model: self;
 		label: ' Previous ';
-		"enabled: #isPreviousButtonEnabled;"
+		enabled: #isPreviousButtonEnabled;
 		action: #previousKoan;
 		frame: (LayoutFrame new
 					leftFraction: 1 offset: (self buttonWidth *3) negated;

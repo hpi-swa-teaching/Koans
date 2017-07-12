@@ -1,5 +1,5 @@
 tests
-testProjectClassReturnsClass
+testRequiredClassesAreClasses
 
 	self assert: (KoanChapter allChapters
 					allSatisfy: [:aChapter | aChapter requiredClasses 

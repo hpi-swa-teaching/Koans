@@ -1,5 +1,5 @@
 ui
 updateButtonState
 
-	self changed: #isFirstKoanInChapter.
-	self changed: #isLastKoanInChapter
+	self changed: #isNextButtonEnabled.
+	self changed: #isPreviousButtonEnabled
