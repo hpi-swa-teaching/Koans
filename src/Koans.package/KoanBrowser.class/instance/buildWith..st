@@ -7,4 +7,5 @@ buildWith: aBuilder
 					extent: self class defaultExtent;
 					children: {
 						self buildChapterListWith: aBuilder.
-						self buildKoanListWith: aBuilder})
+						self buildKoanListWith: aBuilder.
+						self buildDescriptionBoxWith: aBuilder})

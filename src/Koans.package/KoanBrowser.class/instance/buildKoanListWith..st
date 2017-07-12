@@ -10,6 +10,6 @@ buildKoanListWith: aBuilder
 		autoDeselect: false;
 		frame: (LayoutFrame new
 					leftFraction: 0.5;
-					topFraction: 0;
+					topFraction: 0.3;
 					rightFraction: 1;
 					bottomFraction: 1)

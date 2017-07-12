@@ -1,0 +1,1 @@
+In this chapter you learn about Block Closures.

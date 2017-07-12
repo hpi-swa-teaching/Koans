@@ -1,0 +1,1 @@
+In this chapter you learn how asserts work. Asserts are used throughout the Koans to test you.
