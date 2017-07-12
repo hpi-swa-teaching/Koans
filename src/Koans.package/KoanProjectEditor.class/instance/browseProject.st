@@ -1,4 +1,4 @@
 actions
 browseProject
 
-	^ Browser newOnClass: (self openedChapter projectClass)
+	self openedChapter browseRequiredClasses

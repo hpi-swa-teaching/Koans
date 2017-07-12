@@ -1,6 +1,7 @@
 {
 	"class" : {
 		"priority" : "pre 11/4/2011 21:38:52.894",
+		"requiredClasses" : "SL 7/12/2017 21:02",
 		"requirements" : "JE 6/8/2017 15:24" },
 	"instance" : {
 		"test01inheritanceVariableInheritanceExists" : "esec 11/1/2011 18:53:49.153",

@@ -1,5 +1,6 @@
 tests
 testProjectClassReturnsClass
 
-	self assert: (KoanChapter allChapters allSatisfy: [:aChapter | aChapter isProject ifTrue: [aChapter projectClass isKindOf: Class]
-																					ifFalse: [true]])
+	self assert: (KoanChapter allChapters
+					allSatisfy: [:aChapter | aChapter requiredClasses 
+							allSatisfy: [:class | (class isKindOf: Class)]])

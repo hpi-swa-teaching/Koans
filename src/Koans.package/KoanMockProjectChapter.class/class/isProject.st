@@ -1,4 +1,0 @@
-accessing
-isProject 
-
-	^ true

@@ -1,4 +1,4 @@
 accessing
 requiredClasses
 
-	^ #( KoanMockProject )
+	^ { KoanMockProject }

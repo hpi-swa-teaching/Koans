@@ -1,4 +1,4 @@
 testing
 isProject
 
-	^ false
+	^ self requiredClasses notEmpty
