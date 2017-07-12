@@ -3,6 +3,6 @@
 		 },
 	"instance" : {
 		"setUp" : "JLO 7/12/2017 15:21",
-		"testBrowseButtonOpensBrowserOnCorrectClass" : "JLO 7/12/2017 16:27",
+		"testBrowseButtonOpensBrowserOnCorrectClass" : "SL 7/12/2017 19:47",
 		"testBuildBrowseProjectButtonReturnsSpec" : "JLO 7/12/2017 15:23",
 		"testBuildWithReturnsWindow" : "JLO 7/12/2017 15:24" } }

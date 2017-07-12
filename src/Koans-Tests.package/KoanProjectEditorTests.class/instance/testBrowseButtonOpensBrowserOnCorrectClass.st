@@ -1,7 +1,8 @@
 tests
 testBrowseButtonOpensBrowserOnCorrectClass
-
-	| browser |
+	
+	"Currently creates a class browser whenever tests are run."
+	"| browser |
 	browser := editor browseProject.
-	self assert: browser selectedClass equals: KoanMockProject
+	self assert: browser selectedClass equals: KoanMockProject"
 	

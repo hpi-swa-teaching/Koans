@@ -1,4 +1,0 @@
-accessing
-setUpMethods
-
-	^ Dictionary new
