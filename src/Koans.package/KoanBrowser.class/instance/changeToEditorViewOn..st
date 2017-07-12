@@ -2,4 +2,6 @@ ui
 changeToEditorViewOn: aKoan
 
 	self closeOpenedWindow.
-	KoanEditor openOn: aKoan
+	aKoan chapter isProject 
+		ifTrue: [^ (KoanProjectEditor openOn: aKoan)] 
+		ifFalse: [^ (KoanEditor openOn: aKoan)]

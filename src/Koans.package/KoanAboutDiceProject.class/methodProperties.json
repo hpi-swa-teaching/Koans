@@ -1,6 +1,8 @@
 {
 	"class" : {
+		"isProject" : "JLO 7/12/2017 15:12",
 		"priority" : "esec 11/9/2011 11:16:56.711",
+		"projectClass" : "JLO 7/12/2017 15:14",
 		"requirements" : "JE 6/8/2017 15:23" },
 	"instance" : {
 		"test01AboutDiceProject" : "pre 3/7/2017 11:33",
