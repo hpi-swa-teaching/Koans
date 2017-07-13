@@ -1,1 +1,1 @@
-In this chapter
+In this chapter you'll learn the way, how strings are used and manipulated in Smalltalk.

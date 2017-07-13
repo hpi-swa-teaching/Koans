@@ -1,1 +1,1 @@
-In this chapter
+In this chapter you'll learn how boolean expressions work and behave.

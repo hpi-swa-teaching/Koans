@@ -1,1 +1,1 @@
-In this chapter
+In this chapter we'll show you, how "nil" works in Smalltalk.

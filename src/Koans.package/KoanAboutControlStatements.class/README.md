@@ -1,1 +1,1 @@
-In this chapter
+In this chapter you'll get further informations about conditionals and the different possibilities to realize those.

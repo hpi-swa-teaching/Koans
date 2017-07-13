@@ -1,1 +1,1 @@
-In this chapter you learn about Block Closures.
+In this chapter you learn about the usage of Block Closures.

@@ -6,6 +6,6 @@ printWelcomeMessage
 	(self stream)
 		nextPutAll:
 				(Text
-						string: 'Solve this lecture to proceed on your way on the path of enlightment' , cr
-						attribute: (TextColor color: Color cyan)) allBold;
+						string: 'Solve this lecture to proceed on your way to enlightenment' , cr
+						attribute: (TextColor color: Color cyan darker)) allBold;
 		nextPutAll: cr

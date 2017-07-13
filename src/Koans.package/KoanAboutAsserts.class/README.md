@@ -1,1 +1,1 @@
-In this chapter you learn how asserts work. Asserts are used throughout the Koans to test you.
+In this chapter you'll learn about asserts and how they work. Asserts are used throughout the Koans to test you.

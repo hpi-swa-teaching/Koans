@@ -1,1 +1,1 @@
-In this chapter
+In this chapter you'll learn about the representation and the behavior of objects in Smalltalk.

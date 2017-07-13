@@ -1,1 +1,1 @@
-In this chapter
+In order to solve this final chapter, you'll have to apply the knowledge you've learned. This is your final test before you (hopefully) reach your enlightenment.

@@ -1,1 +1,1 @@
-In this chapter
+In this chapter you'll learn about the different types of collections in smalltalk and what the differences between those type are.

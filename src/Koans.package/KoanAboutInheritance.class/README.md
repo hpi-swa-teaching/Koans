@@ -1,1 +1,1 @@
-In this chapter
+In this chapter we'll explain you the concept of inheritance in Smalltalk by taking the example of the KoanBonsai-Class.  

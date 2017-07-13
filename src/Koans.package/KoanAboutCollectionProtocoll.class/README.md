@@ -1,1 +1,1 @@
-In this chapter
+In this chapter we'll show you further concepts and possibilities when using collections.

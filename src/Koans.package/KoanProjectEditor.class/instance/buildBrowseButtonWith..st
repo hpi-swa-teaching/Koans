@@ -3,7 +3,7 @@ buildBrowseButtonWith: aBuilder
 
 	^ aBuilder pluggableButtonSpec new
 		model: self;
-		label: ' Browse Project ';
+		label: 'Browse Project';
 		"enabled: #isNextButtonEnabled;"
 		action: #browseProject;
 		frame: (LayoutFrame new
