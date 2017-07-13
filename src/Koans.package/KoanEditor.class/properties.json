@@ -8,8 +8,7 @@
 	"instvars" : [
 		"shoutboxContent",
 		"openedKoan",
-		"browser",
-		"openedView" ],
+		"browser" ],
 	"name" : "KoanEditor",
 	"pools" : [
 		 ],

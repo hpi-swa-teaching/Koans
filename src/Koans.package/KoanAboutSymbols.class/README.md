@@ -1,1 +1,1 @@
-In this chapter you'll learn how symbols are created, behaving and used.
+In this chapter you'll learn what a Symbol is, why it is useful and how it behaves when used.

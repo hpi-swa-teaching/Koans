@@ -1,1 +1,1 @@
-In this chapter you'll get some more detailled informations about classes, their instances and how to use them.
+This chapter teaches you about classes, their instances and how to create them.

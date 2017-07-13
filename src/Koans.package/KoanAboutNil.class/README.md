@@ -1,1 +1,1 @@
-In this chapter we'll show you, how "nil" works in Smalltalk.
+This chapter teaches you about Nil and its natural habitat.

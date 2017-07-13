@@ -1,1 +1,1 @@
-In this chapter you'll learn some further concepts when using classes, methods and messages in Smalltalk. In order to do so, you might have to browse through the given classes.
+This chapter teaches you advanced (but mostly discouraged) meta concepts of using classes and messages.

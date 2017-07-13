@@ -2,6 +2,6 @@ instance creation
 openOn: aKoan
 
 	| editor |
-	editor := self new openKoan: aKoan.
+	editor := self newOnKoan: aKoan.
 	ToolBuilder open: editor.
 	^ editor

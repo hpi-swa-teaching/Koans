@@ -1,1 +1,1 @@
-In this chapter you'll get further informations about conditionals and the different possibilities to realize those.
+This chapter teaches you how to control flow. Loops, conditionals... we have it all.

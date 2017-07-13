@@ -1,1 +1,1 @@
-In this chapter you'll learn about the representation and the behavior of objects in Smalltalk.
+This chapter shows you that everything is an Object and what you can generally do with one.

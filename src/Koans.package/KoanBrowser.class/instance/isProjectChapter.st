@@ -1,6 +1,6 @@
-toolbuilder
+ui
 isProjectChapter
 	
-	self selectedChapter 
-		ifNil:[^ false] 
-		ifNotNil: [^ self selectedChapter isProject]
+	^ self selectedChapter 
+		ifNil: [false] 
+		ifNotNil: [self selectedChapter isProject]

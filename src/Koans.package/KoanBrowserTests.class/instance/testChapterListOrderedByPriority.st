@@ -1,4 +1,4 @@
-tests
+tests-chapterList
 testChapterListOrderedByPriority
 
 	| valid |	

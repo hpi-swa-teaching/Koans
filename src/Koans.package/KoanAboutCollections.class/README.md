@@ -1,1 +1,1 @@
-In this chapter you'll learn about the different types of collections in smalltalk and what the differences between those type are.
+This chapter teaches you what a Collection is, what some of the most important types of collections are and the differences between those types.

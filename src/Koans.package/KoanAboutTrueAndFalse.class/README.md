@@ -1,1 +1,1 @@
-In this chapter you'll learn how boolean expressions work and behave.
+This chapter teaches you the difference between True and False, as well as some logical operators. Proceed for Truth.
