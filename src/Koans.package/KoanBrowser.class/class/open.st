@@ -3,5 +3,5 @@ open
 
 	| browser |
 	browser := self new.
-	browser openedWindow: (ToolBuilder open: browser).
+	ToolBuilder open: browser.
 	^ browser
