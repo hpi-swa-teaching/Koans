@@ -1,4 +1,4 @@
 ui
 closeOpenedWindow
 
-	self openedWindow ifNotNil: [self openedWindow delete]
+	self changed: #close
