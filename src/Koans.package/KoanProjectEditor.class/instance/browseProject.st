@@ -1,4 +1,4 @@
 actions
 browseProject
 
-	self openedChapter browseRequiredClasses
+	^ self openedChapter browseRequiredClasses

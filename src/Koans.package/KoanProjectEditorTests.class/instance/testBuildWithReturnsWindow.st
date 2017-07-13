@@ -4,4 +4,4 @@ testBuildWithReturnsWindow
 	| window |
 	window := editor buildWith: toolbuilder.
 	self assert: (window isKindOf: SystemWindow).
-	window delete
+	window changed: #close

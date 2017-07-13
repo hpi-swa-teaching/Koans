@@ -3,6 +3,6 @@
 		 },
 	"instance" : {
 		"setUp" : "JLO 7/12/2017 15:21",
-		"testBrowseButtonOpensBrowserOnCorrectClass" : "SL 7/12/2017 19:47",
+		"testBrowseButtonOpensBrowserOnCorrectClasses" : "PG 7/13/2017 12:06",
 		"testBuildBrowseProjectButtonReturnsSpec" : "JLO 7/12/2017 15:23",
-		"testBuildWithReturnsWindow" : "JLO 7/12/2017 15:24" } }
+		"testBuildWithReturnsWindow" : "PG 7/13/2017 12:07" } }

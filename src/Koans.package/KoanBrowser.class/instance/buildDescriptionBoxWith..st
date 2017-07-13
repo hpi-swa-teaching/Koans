@@ -10,4 +10,4 @@ buildDescriptionBoxWith: aBuilder
 					leftFraction: 0.5;
 					topFraction: 0;
 					rightFraction: 1;
-					bottomFraction: 0.3)
+					bottomFraction: 0.25)

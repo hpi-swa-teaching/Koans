@@ -8,4 +8,5 @@ buildWith: aBuilder
 					children: {
 						self buildChapterListWith: aBuilder.
 						self buildKoanListWith: aBuilder.
-						self buildDescriptionBoxWith: aBuilder})
+						self buildDescriptionBoxWith: aBuilder.
+						self buildBrowseButtonWith: aBuilder})
