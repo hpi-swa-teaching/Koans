@@ -1,4 +1,4 @@
-toolbuilder
+building
 buildBackToSelectionViewButtonWith: aBuilder
 
 	^ aBuilder pluggableButtonSpec new

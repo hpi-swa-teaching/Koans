@@ -1,9 +1,9 @@
-toolbuilder
+building
 buildWith: aBuilder
 
 	^ aBuilder build: (aBuilder pluggableWindowSpec new
 						model: self;
-						label: #labelString;
+						label: #windowTitle;
 						extent: self class defaultExtent;
 						children: {
 							self buildShoutboxWith: aBuilder.

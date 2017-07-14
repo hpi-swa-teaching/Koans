@@ -1,4 +1,4 @@
-toolbuilder
+building
 buildResetKoanButtonWith: aBuilder
 
 	^ aBuilder pluggableButtonSpec new

@@ -1,4 +1,4 @@
-toolbuilder
+building
 buildDebugButtonWith: aBuilder
 
 	^ aBuilder pluggableButtonSpec new

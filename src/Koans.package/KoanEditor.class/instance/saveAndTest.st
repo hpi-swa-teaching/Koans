@@ -2,4 +2,4 @@ test
 saveAndTest
 
 	self saveChanges.
-	self test
+	self testOnSave ifFalse: [self test]

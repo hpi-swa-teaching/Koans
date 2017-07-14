@@ -1,4 +1,4 @@
-toolbuilder
+building
 buildShoutboxWith: aBuilder
 
 	^ aBuilder pluggableTextSpec new 

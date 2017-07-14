@@ -1,4 +1,4 @@
-toolbuilder
+building
 addModelItemsToWindowMenu: aMenu
 
 	aMenu addLine.
