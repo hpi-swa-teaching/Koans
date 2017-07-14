@@ -1,5 +1,4 @@
-actions
+test
 test
 
-	self saveChanges.
 	self shoutTestResult

@@ -4,7 +4,7 @@ buildTestButtonWith: aBuilder
 	^ aBuilder pluggableButtonSpec new
 		model: self;
 		label: ' Test ';
-		action: #test;
+		action: #saveAndTest;
 		frame: (LayoutFrame new
 					leftFraction: 1 offset: (self buttonWidth *2) negated;
 					topFraction: 1 offset: (self progressHeight - self defaultOffset) negated;
