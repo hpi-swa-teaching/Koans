@@ -6,7 +6,7 @@ buildWith: aBuilder
 						label: #windowTitle;
 						extent: self class defaultExtent;
 						children: {
-							self buildShoutboxWith: aBuilder.
+							self buildStatusBarWith: aBuilder.
 							self buildBrowserWith: aBuilder.
 							self buildNextButtonWith: aBuilder.
 							self buildTestButtonWith: aBuilder.

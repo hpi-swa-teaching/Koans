@@ -8,7 +8,9 @@
 	"instvars" : [
 		"selector",
 		"chapter",
-		"attempts" ],
+		"attempts",
+		"oldCompiledMethod",
+		"oldTestResult" ],
 	"name" : "KoanStep",
 	"pools" : [
 		 ],

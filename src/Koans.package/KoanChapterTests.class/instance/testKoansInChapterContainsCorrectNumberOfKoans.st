@@ -1,6 +1,6 @@
 tests
 testKoansInChapterContainsCorrectNumberOfKoans
 
-	self assert: KoanMockError koansInChapter size equals: 4
+	self assert: 5 equals: KoanMockError koansInChapter size
 
 	

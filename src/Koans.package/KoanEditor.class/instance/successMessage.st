@@ -1,0 +1,4 @@
+statusbar
+successMessage
+
+	^ 'Success!'

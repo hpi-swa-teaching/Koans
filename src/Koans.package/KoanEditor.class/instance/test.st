@@ -1,4 +1,4 @@
 test
 test
 
-	self shoutTestResult
+	self updateStatusBar

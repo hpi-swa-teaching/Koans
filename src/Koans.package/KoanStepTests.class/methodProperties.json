@@ -2,8 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testAttempts" : "JE 6/20/2017 15:51",
-		"testErringKoanFails" : "SL 6/19/2017 18:16",
-		"testFaultyKoanFails" : "SL 6/19/2017 18:14",
-		"testPassingKoanPasses" : "SL 6/19/2017 18:12",
+		"testAttemptsIncreaseWithEachTest" : "SL 7/15/2017 17:12",
+		"testErroringKoanIsErroringExclusively" : "SL 7/15/2017 17:15",
+		"testFailingKoanIsFailingExclusively" : "SL 7/15/2017 17:15",
+		"testPassingKoanIsPassingExclusively" : "SL 7/15/2017 17:16",
 		"testReset" : "SL 7/2/2017 17:53" } }

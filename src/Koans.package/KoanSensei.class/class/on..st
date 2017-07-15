@@ -1,5 +1,6 @@
 initialization
 on: aStream
-	^ (self new)
+	^ self new
 		stream: aStream;
+		
 		yourself
