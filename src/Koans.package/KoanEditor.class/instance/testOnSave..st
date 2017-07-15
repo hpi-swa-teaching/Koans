@@ -1,4 +1,4 @@
 accessing
-testOnSave: anObject
+testOnSave: aBoolean
 	
-	testOnSave := anObject.
+	self class testOnSave: aBoolean

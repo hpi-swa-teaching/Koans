@@ -1,4 +1,0 @@
-constants
-defaultTestOnSave
-
-	^ false
