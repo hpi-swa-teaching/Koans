@@ -5,7 +5,7 @@
 		"requirements" : "JE 6/8/2017 15:23" },
 	"instance" : {
 		"test01AboutDiceProject" : "JE 7/19/2017 18:27",
-		"test02rollingTheDiceReturnsASetOfIntegersInsideTheRange" : "pre 3/7/2017 11:34",
+		"test02rollingTheDiceReturnsASetOfIntegersInsideTheRange" : "JE 7/19/2017 18:33",
 		"test03diceValuesDoNotChangeUnlessExplicitlyRolled" : "pre 3/7/2017 11:35",
 		"test04diceValuesShouldChangeBetweenRolls" : "pre 3/7/2017 11:35",
 		"test05youCanRollDifferentNumbersOfDice" : "pre 3/7/2017 11:35" } }

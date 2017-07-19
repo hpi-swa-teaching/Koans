@@ -1,6 +1,7 @@
 tests
 test02rollingTheDiceReturnsASetOfIntegersInsideTheRange
-
+	"The three assert statements in this method show you which behaviour we expect from a die.
+	Tackle these challenges one by one until the roll method shines in a new light, a brighter light, a better light."
 	| dice |
 	
 	dice := KoanCrystalDice newWithRange: 1 to: 16.
