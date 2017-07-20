@@ -1,4 +1,4 @@
-toolbuilder
+building
 buildChapterListWith: aBuilder
 
 	^ aBuilder pluggableListSpec new

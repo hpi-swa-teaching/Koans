@@ -1,4 +1,4 @@
-toolbuilder
+building
 buildWith: aBuilder
 
 	^ aBuilder build: (aBuilder pluggableWindowSpec new

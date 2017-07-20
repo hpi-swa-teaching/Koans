@@ -1,4 +1,4 @@
-toolbuilder
+building
 buildDescriptionBoxWith: aBuilder
 
 	^ aBuilder pluggableTextSpec new

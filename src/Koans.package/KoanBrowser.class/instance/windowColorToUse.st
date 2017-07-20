@@ -1,4 +1,4 @@
-toolbuilder
+building
 windowColorToUse
 
 	^ Preferences windowColorFor: #Model

@@ -6,7 +6,6 @@
 		"TestOnSave" ],
 	"commentStamp" : "",
 	"instvars" : [
-		"shoutboxContent",
 		"openedKoan",
 		"browser",
 		"testOnSave" ],
