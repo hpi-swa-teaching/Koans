@@ -4,7 +4,6 @@ test03casesByMessageNames
 	dark side of programming where debugging is merely a hunt for
 	ghosts in a bamboo garden."
 
-
 	| aBonsai |
 	
 	aBonsai := KoanMetaBonsai new.

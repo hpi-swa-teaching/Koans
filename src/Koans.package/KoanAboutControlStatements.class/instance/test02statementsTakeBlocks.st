@@ -1,9 +1,10 @@
 tests
 test02statementsTakeBlocks
-	"all statements take blocks as arguments.
+	"All statements take blocks as arguments.
 	the blocks will only be evaluated when necessary."
 	
 	|a b expectedNumber |
+	
 	a := 1. b := 2.
 	true or: [a := b. true].
 	expectedNumber := xx.

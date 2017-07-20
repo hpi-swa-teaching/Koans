@@ -6,7 +6,7 @@
 		"test01symbolsAreSymbols" : "pre 3/7/2017 11:39",
 		"test02symbolsCanBeCompared" : "pre 3/7/2017 11:39",
 		"test03identicalSymbolsAreASingleIdenticalObject" : "pre 3/7/2017 11:39",
-		"test04methodNamesBecomeSymbols" : "pre 3/7/2017 11:39",
+		"test04methodNamesBecomeSymbols" : "PG 7/20/2017 14:01",
 		"test05symbolsCanBeMadeFromStrings" : "pre 3/7/2017 11:39",
 		"test06symbolsWithSpacesCanBeMade" : "pre 3/7/2017 11:39",
 		"test07symbolsAreSpecialStrings" : "pre 3/7/2017 11:39",

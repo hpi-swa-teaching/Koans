@@ -1,8 +1,9 @@
 tests
 test01inheritanceVariableInheritanceExists
-
-	"Take a look at the KoanBonsai classes: KoanBonsai, KoanMapleBonsai, KoanAiderBonsai. 
-	Take a special look at their instance variables."
+	"In order to solve this peculiar Koan, you should take a look at the KoanBonsai Browser-classes:
+		 KoanBonsai, KoanMapleBonsai, KoanAiderBonsai. 
+	This could be achieved by pressing a certain button...
+	A special look at certain instance variables could be usefull as well...."
 	
 	| aMapleBonsai |
 	

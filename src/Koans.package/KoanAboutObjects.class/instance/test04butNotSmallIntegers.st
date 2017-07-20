@@ -1,5 +1,6 @@
 tests
 test04butNotSmallIntegers
+	"Now think about this: What is the implication for the identity check on small integers?"
 
 	| aNumber anotherNumber |
 	
@@ -7,5 +8,3 @@ test04butNotSmallIntegers
 	anotherNumber := 1.
 
 	self assert: xx equals: aNumber ~~ anotherNumber
-	
-	"Now think about this: What is the implication for the identity check on small integers?"
