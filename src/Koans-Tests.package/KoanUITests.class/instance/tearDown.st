@@ -2,4 +2,5 @@ running
 tearDown
 
 	super tearDown.
-	interface closeOpenedWindow 
+	browser closeOpenedWindow.
+	self newMorphs do: [:each | each delete]

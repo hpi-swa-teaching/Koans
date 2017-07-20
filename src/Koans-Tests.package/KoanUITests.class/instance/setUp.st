@@ -2,4 +2,7 @@ running
 setUp
 
 	super setUp.
-	self interface: KoanBrowser new
+	preTestWindows := World submorphs.
+	browser := KoanBrowser new.
+	ToolBuilder open: browser
+	
