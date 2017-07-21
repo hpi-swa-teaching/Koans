@@ -3,4 +3,5 @@ openKoan: aKoan
 
 	self openedKoan: aKoan.
 	self setBrowserTo: aKoan.
-	self changed: #windowTitle
+	self changed: #windowTitle.
+	self updateStatusBar
