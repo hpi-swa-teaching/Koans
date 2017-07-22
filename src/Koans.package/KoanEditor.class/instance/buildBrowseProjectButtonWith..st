@@ -1,10 +1,10 @@
 building
-buildBrowseButtonWith: aBuilder
+buildBrowseProjectButtonWith: aBuilder
 
 	^ aBuilder pluggableButtonSpec new
 		model: self;
 		label: 'Browse Project';
-		"enabled: #isNextButtonEnabled;"
+		enabled: #isBrowseProjectButtonEnabled;
 		action: #browseProject;
 		frame: (LayoutFrame new
 					leftFraction: 1 offset: (self buttonWidth * 7) negated;

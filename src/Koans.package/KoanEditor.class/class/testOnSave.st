@@ -1,4 +1,4 @@
 constants
 testOnSave
 
-	^ TestOnSave ifNil: [false]
+	^ TestOnSave ifNil: [true]

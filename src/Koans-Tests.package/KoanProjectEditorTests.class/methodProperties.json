@@ -1,8 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"setUp" : "JLO 7/12/2017 15:21",
-		"testBrowseButtonOpensBrowserOnCorrectClasses" : "PG 7/13/2017 12:06",
-		"testBuildBrowseProjectButtonReturnsSpec" : "JLO 7/12/2017 15:23",
-		"testBuildWithReturnsWindow" : "PG 7/13/2017 12:07" } }

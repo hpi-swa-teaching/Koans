@@ -13,4 +13,5 @@ buildWith: aBuilder
 							self buildPreviousButtonWith: aBuilder.
 							self buildResetKoanButtonWith: aBuilder.
 							self buildDebugButtonWith: aBuilder.
+							self buildBrowseProjectButtonWith: aBuilder.
 							self buildBackToSelectionViewButtonWith: aBuilder})
