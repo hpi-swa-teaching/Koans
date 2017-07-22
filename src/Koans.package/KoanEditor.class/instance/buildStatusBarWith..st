@@ -4,7 +4,8 @@ buildStatusBarWith: aBuilder
 	^ aBuilder pluggableTextSpec new 
 		model: self;
 		getText: #statusBarText;
-		textColor: #statusBarColor;
+		textColor: #statusBarTextColor;
+		color: #statusBarBackgroundColor;
 		readOnly: true;
 		indicateUnacceptedChanges: false;
 		frame: (LayoutFrame new

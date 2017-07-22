@@ -2,7 +2,7 @@
 	"class" : {
 		"priority" : "esec 10/10/2011 16:52" },
 	"instance" : {
-		"test01assertTruth" : "SL 6/21/2017 01:49",
+		"test01assertTruth" : "SL 7/22/2017 21:35",
 		"test02assertWithDescription" : "rms 11/7/2011 19:40",
 		"test03assertReality" : "esec 10/21/2011 17:45:20.693",
 		"test04aBetterWayOfAssertingEquality" : "esec 10/18/2011 11:19:14.537",

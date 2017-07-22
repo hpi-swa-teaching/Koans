@@ -1,5 +1,6 @@
 statusbar
 updateStatusBar
 
-	self changed: #statusBarColor.
+	self changed: #statusBarTextColor.
+	self changed: #statusBarBackgroundColor.
 	self changed: #statusBarText
