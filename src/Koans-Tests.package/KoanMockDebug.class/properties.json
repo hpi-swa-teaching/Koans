@@ -3,7 +3,7 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"WasDebugged" ],
 	"commentStamp" : "",
 	"instvars" : [
 		"var" ],

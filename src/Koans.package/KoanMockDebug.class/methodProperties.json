@@ -1,7 +1,9 @@
 {
 	"class" : {
-		 },
+		"wasDebugged" : "JE 7/24/2017 17:34",
+		"wasDebugged:" : "JE 7/24/2017 17:34" },
 	"instance" : {
+		"openDebuggerOnFailingTestMethod" : "JE 7/24/2017 17:35",
 		"setUp" : "SL 7/2/2017 14:56",
 		"tearDown" : "SL 7/2/2017 15:02",
 		"test01" : "SL 7/2/2017 14:57" } }

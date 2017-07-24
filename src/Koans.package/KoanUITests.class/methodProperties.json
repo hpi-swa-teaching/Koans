@@ -11,6 +11,7 @@
 		"testChangeToEditorViewOpensAWindowWithAKoanEditorAsModel" : "JE 7/20/2017 10:27",
 		"testChangeToSelectionViewClosesOwnWindow" : "JE 7/20/2017 10:42",
 		"testChangeToSelectionViewOpensAWindowWithAKoanBrowserAsModel" : "JE 7/20/2017 10:44",
+		"testDebuggerIsOpenedWhenDebugButtonIsClicked" : "JE 7/24/2017 17:36",
 		"testErrorIcon" : "SL 6/19/2017 19:00",
 		"testFailIcon" : "SL 6/21/2017 01:32",
 		"testNoneIcon" : "SL 6/19/2017 18:57",
