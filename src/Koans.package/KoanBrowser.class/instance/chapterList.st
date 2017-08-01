@@ -1,4 +1,4 @@
-ui
+ui-chapters
 chapterList
 
 	^ KoanChapter allChapters

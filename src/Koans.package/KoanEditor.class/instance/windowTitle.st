@@ -1,4 +1,4 @@
-building
+ui
 windowTitle
 
 	^ String streamContents: [:stream |

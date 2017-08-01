@@ -1,0 +1,5 @@
+change listening
+startListeningToChangeEvents
+
+	self startListeningToClassChangeEvents.
+	self startListeningToMethodChangeEvents

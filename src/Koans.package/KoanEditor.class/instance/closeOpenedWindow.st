@@ -1,4 +1,5 @@
-ui
+actions
 closeOpenedWindow
 
-	self changed: #close
+	self changed: #close.
+	self stopListeningtoChangeEvents

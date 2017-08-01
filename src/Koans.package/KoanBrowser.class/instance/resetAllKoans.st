@@ -1,4 +1,4 @@
-browsing
+actions
 resetAllKoans
 
 	Cursor wait showWhile: [

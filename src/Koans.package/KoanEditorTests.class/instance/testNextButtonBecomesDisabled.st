@@ -2,5 +2,5 @@ tests-ui
 testNextButtonBecomesDisabled
 
 	self assert: editor isNextButtonEnabled.
-	editor nextKoan.
+	editor openNextKoan.
 	self assert: editor isNextButtonEnabled not.

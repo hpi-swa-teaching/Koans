@@ -1,7 +1,7 @@
 tests
 testNextJumpsToNextKoan
 
-	editor nextKoan.
+	editor openNextKoan.
 	self assert: editor openedKoan selector equals: #testUntested
 
 	

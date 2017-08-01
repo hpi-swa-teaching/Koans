@@ -1,4 +1,4 @@
-ui
+actions
 changeToSelectionView
 
 	self closeOpenedWindow.

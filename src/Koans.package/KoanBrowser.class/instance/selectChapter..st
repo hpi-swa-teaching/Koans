@@ -1,4 +1,4 @@
-browsing
+actions
 selectChapter: aChapter
 
 	self selectedChapter: aChapter.

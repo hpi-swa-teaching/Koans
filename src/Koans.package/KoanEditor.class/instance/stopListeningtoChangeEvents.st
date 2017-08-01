@@ -1,0 +1,4 @@
+change listening
+stopListeningtoChangeEvents
+
+	SystemChangeNotifier uniqueInstance noMoreNotificationsFor: self

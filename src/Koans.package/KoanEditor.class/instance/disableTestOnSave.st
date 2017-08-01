@@ -2,4 +2,4 @@ test
 disableTestOnSave
 
 	self testOnSave: false.
-	SystemChangeNotifier uniqueInstance noMoreNotificationsFor: self
+	self stopListeningToChangeEvents

@@ -1,4 +1,4 @@
-navigation
+accessing
 koanList
 
 	^ self openedChapter koansInChapter

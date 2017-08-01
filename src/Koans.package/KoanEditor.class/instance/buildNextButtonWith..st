@@ -5,7 +5,7 @@ buildNextButtonWith: aBuilder
 		model: self;
 		label: ' Next ';
 		enabled: #isNextButtonEnabled;
-		action: #nextKoan;
+		action: #openNextKoan;
 		frame: (LayoutFrame new
 					leftFraction: 1 offset: self buttonWidth negated;
 					topFraction: 1 offset: (self progressHeight - self defaultOffset) negated;
