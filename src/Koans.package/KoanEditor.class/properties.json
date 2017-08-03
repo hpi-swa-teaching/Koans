@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		"TestOnSave" ],
-	"commentStamp" : "JE 8/2/2017 13:59",
+	"commentStamp" : "SL 8/3/2017 22:31",
 	"instvars" : [
 		"openedKoan",
 		"browser",
