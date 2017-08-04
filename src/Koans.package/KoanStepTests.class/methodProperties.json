@@ -5,8 +5,5 @@
 		"testAttemptsIncreaseWithEachTest" : "SL 7/15/2017 17:12",
 		"testErroringKoanIsErroringExclusively" : "SL 7/15/2017 17:15",
 		"testFailingKoanIsFailingExclusively" : "SL 7/15/2017 17:15",
-		"testKoanIsAffectedByChangeOfProjectClass" : "SL 8/1/2017 16:48",
-		"testKoanIsItsOwnMethod" : "SL 8/1/2017 17:50",
-		"testKoanIsNotAffectedByChangeOfItsOwnClass" : "SL 8/1/2017 16:49",
 		"testPassingKoanIsPassingExclusively" : "SL 7/15/2017 17:16",
 		"testReset" : "SL 7/2/2017 17:53" } }

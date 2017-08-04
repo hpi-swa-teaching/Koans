@@ -1,4 +1,4 @@
-actions
+ui
 browseProject
 
 	^ self selectedChapter browseRequiredClasses

@@ -2,4 +2,8 @@ test
 enableTestOnSave
 
 	self testOnSave: true.
-	self startListeningToChangeEvents
+	SystemChangeNotifier uniqueInstance
+		notify: self
+		ofSystemChangesOfItem: #method
+		change: #Modified
+		using: #onSave:

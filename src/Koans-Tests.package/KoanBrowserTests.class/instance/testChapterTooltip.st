@@ -1,6 +1,4 @@
 tests
 testChapterTooltip
 	
-	self assert: 'You should do the following Chapters first:
-- KoanMockDebug
-- KoanMockEmpty' equals: (browser chapterTooltipFor: KoanMockRequirements)
+	self assert: (browser tooltipFor: KoanMockRequirements) equals: 'You should do the following Chapters first: KoanMockDebug KoanMockEmpty'.

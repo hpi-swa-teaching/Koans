@@ -2,4 +2,4 @@ actions
 resetKoan
 
 	self openedKoan reset.
-	self updateCodePanel
+	self browser updateCodePaneIfNeeded

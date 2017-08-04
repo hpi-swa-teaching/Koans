@@ -2,7 +2,7 @@ tests-ui
 testPreviousButtonBecomesDisabled
 
 	self assert: editor isPreviousButtonEnabled.
-	editor openPreviousKoan.
-	editor openPreviousKoan.
-	editor openPreviousKoan.
+	editor previousKoan.
+	editor previousKoan.
+	editor previousKoan.
 	self assert: editor isPreviousButtonEnabled not.

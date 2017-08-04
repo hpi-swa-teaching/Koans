@@ -8,7 +8,7 @@ buildChapterListWith: aBuilder
 		list: #chapterList;
 		icon: #chapterIconAt:;
 		autoDeselect: false;
-		helpItem: #chapterTooltipAt:;
+		helpItem: #chapterTooltipFor:;
 		frame: (LayoutFrame new
 					leftFraction: 0;
 					topFraction: 0;

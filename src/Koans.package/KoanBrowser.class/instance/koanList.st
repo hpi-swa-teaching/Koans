@@ -1,4 +1,4 @@
-ui-koans
+ui
 koanList
 	
 	^ self selectedChapter 

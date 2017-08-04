@@ -1,5 +1,6 @@
 running
 runCase: aTestCase 
+
 	| testCasePassed |
 	testCasePassed := true.
 	[[aTestCase runCase]

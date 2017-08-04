@@ -1,1 +1,0 @@
-I am the model for the window in which you can edit the Koans. I implement the functionality for the buttons and how the window should be built.

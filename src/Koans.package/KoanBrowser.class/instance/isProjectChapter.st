@@ -1,4 +1,4 @@
-ui-chapters
+ui
 isProjectChapter
 	
 	^ self selectedChapter 

@@ -1,4 +1,0 @@
-actions
-updateCodePanel
-
-	self browser updateCodePaneIfNeeded

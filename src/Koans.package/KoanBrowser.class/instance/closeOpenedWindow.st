@@ -1,4 +1,4 @@
-actions
+ui
 closeOpenedWindow
 
 	self changed: #close

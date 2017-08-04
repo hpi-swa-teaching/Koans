@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JE 8/2/2017 14:02",
+	"commentStamp" : "",
 	"instvars" : [
 		"exceptions" ],
 	"name" : "KoanTestResult",

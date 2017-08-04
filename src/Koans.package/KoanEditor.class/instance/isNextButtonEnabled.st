@@ -1,4 +1,4 @@
 ui
 isNextButtonEnabled
 
-	^ (self koanList last = self openedKoan) not
+	^ self isLastKoanInChapter not

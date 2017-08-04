@@ -1,4 +1,4 @@
-accessing
+navigation
 openedChapter
 	
 	^ self openedKoan chapter

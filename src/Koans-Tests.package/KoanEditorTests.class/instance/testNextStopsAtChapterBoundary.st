@@ -1,8 +1,8 @@
 tests
 testNextStopsAtChapterBoundary
 
-	editor openNextKoan.
-	editor openNextKoan.
+	editor nextKoan.
+	editor nextKoan.
 	self assert: editor openedKoan selector equals: #testUntested
 
 	

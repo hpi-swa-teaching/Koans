@@ -1,4 +1,4 @@
-accessing
+constants
 buttonWidth
 
 	^ 85
