@@ -1,0 +1,1 @@
+I am the TestResult equivalent that is needed to test Koans and work with the result them the way you want.
