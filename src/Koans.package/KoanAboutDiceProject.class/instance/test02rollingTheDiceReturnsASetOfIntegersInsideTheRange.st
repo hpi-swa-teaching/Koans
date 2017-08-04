@@ -4,10 +4,9 @@ test02rollingTheDiceReturnsASetOfIntegersInsideTheRange
 	Tackle these challenges one by one until the roll method shines in a new light, a brighter light, a better light."
 	
 	| dice |
-	
 	dice := KoanCrystalDice newWithRange: 1 to: 16.
-
 	dice roll: 5.
+	
 	self assert: (dice values isKindOf: Array) description: 'should be an array'.  	
 	self assert: 5 equals: dice values size.
 	dice values do: [ :value |

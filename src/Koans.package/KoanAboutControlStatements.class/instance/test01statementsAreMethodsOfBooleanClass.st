@@ -4,7 +4,6 @@ test01statementsAreMethodsOfBooleanClass
 	Always remember: everything is a message send!"
 
 	| expected |
-	
 	expected := xx.
 	self assert: expected equals: (Boolean canUnderstand: #or:).
 	self assert: expected equals: (Boolean canUnderstand: #and:).

@@ -4,9 +4,8 @@
 		"requiredClasses" : "SL 7/12/2017 21:01",
 		"requirements" : "JE 6/8/2017 15:22" },
 	"instance" : {
-		"test01callAMethodOrLeaveAMessage" : "pre 3/7/2017 11:36",
-		"test02sendAMessageWithAttachedArguments" : "pre 12/9/2011 15:14:35.418",
-		"test03casesByMessageNames" : "PG 7/20/2017 13:55",
-		"test04classesAreObjectsAndHaveClassesHaveClasses" : "pre 12/9/2011 15:14:59.42",
-		"test05classesHaveAccessToInstances" : "pre 3/7/2017 11:37",
-		"test06classesHaveAccessToHierachy" : "pre 3/7/2017 11:37" } }
+		"test01callAMethodOrLeaveAMessage" : "JLO 8/4/2017 15:54",
+		"test02sendAMessageWithAttachedArguments" : "JLO 8/4/2017 15:55",
+		"test03casesByMessageNames" : "JLO 8/4/2017 15:55",
+		"test04classesAreObjectsAndHaveClassesHaveClasses" : "JLO 8/4/2017 15:55",
+		"test05classesHaveAccessToHierachy" : "JLO 8/4/2017 16:15" } }

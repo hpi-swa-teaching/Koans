@@ -2,7 +2,6 @@ tests
 test06stringsAreNotUnique
 
 	| a b |
-
 	a := 'Hello World'.
 	b := 'Hello', ' ', 'World'.
 	

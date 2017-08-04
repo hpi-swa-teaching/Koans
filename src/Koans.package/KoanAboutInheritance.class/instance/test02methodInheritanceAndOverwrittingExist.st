@@ -2,7 +2,6 @@ tests
 test02methodInheritanceAndOverwrittingExist
 
 	| aBonsai aMapleBonsai anAiderBonsai |
-	
 	aBonsai := KoanBonsai new.
 	anAiderBonsai := KoanAiderBonsai new.
 	aMapleBonsai := KoanMapleBonsai new.

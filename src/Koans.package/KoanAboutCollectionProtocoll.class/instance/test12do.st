@@ -5,7 +5,6 @@ test12do
 	But you should really only do this if you can't achieve your goal with other collection methods."
 
 	| words completeLength |
-	
 	completeLength := 0.
 	
 	words := { 'How' . 'dare' . 'you' }.

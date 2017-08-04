@@ -2,7 +2,6 @@ tests
 test03abstractMethodsAreSubclassResponsibility
 
 	| aBonsai anAiderBonsai |
-	
 	aBonsai := KoanBonsai new.
 	anAiderBonsai := KoanAiderBonsai new.
 	

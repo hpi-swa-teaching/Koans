@@ -2,7 +2,6 @@ tests
 test04newLine
 
 	| a |
-
 	a := 'Hello
 World'.
 

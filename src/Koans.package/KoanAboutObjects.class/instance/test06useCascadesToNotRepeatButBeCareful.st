@@ -2,7 +2,6 @@ tests
 test06useCascadesToNotRepeatButBeCareful
 
 	| result |
-	
 	result := 'abc'
 				reversed;
 				asUppercase.
@@ -13,4 +12,4 @@ test06useCascadesToNotRepeatButBeCareful
 				add: 1;
 				add: 2.
 				
-	self assert: xx equals: result isCollection.
+	self assert: xx equals: result isCollection

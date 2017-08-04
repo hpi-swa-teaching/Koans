@@ -7,5 +7,5 @@ test01collectionsCanComeInDifferentFlavours
 	self assert: xx equals: Array new isCollection.  
 	self assert: xx equals: String new isCollection.  
 	self assert: xx equals: Dictionary new isCollection.  
-	"...but whait a minute..."
+	"...but wait a minute..."
 	self assert: xx equals: Symbol new isCollection

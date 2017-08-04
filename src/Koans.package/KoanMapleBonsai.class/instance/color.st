@@ -1,4 +1,4 @@
 accessing
 color
 
-	^ 'red'
+	^ Color red

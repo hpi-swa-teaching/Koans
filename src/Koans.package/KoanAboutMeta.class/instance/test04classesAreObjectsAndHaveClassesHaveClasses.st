@@ -2,7 +2,6 @@ tests
 test04classesAreObjectsAndHaveClassesHaveClasses
 
 	| anObject |
-	
 	anObject := Object new.
 	
 	self assert: xx equals: anObject class.

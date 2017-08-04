@@ -6,9 +6,8 @@ test04methodNamesBecomeSymbols
   	Hint: How is the set of all symbols affected when you change the 
 	      source code to use symbols?"
 
-	| symbolsAsStrings |
+	| symbolsAsStrings |	
+	symbolsAsStrings := Symbol allSymbols do: [:x | x asString].
 	
-	symbolsAsStrings := Symbol allSymbols do: [:x | x asString. ].
-	
-	self assert: xx equals: (symbolsAsStrings includes: 'test04methodNamesBecomeSymbols').
+	self assert: xx equals: (symbolsAsStrings includes: 'test04methodNamesBecomeSymbols')
 	

@@ -4,8 +4,8 @@
 		"requiredClasses" : "SL 7/12/2017 20:47",
 		"requirements" : "JE 6/8/2017 15:23" },
 	"instance" : {
-		"test01AboutDiceProject" : "PG 7/20/2017 13:48",
-		"test02rollingTheDiceReturnsASetOfIntegersInsideTheRange" : "PG 7/20/2017 13:48",
-		"test03diceValuesDoNotChangeUnlessExplicitlyRolled" : "pre 3/7/2017 11:35",
-		"test04diceValuesShouldChangeBetweenRolls" : "pre 3/7/2017 11:35",
-		"test05youCanRollDifferentNumbersOfDice" : "pre 3/7/2017 11:35" } }
+		"test01AboutDiceProject" : "JLO 8/4/2017 16:15",
+		"test02rollingTheDiceReturnsASetOfIntegersInsideTheRange" : "JLO 8/4/2017 16:15",
+		"test03diceValuesDoNotChangeUnlessExplicitlyRolled" : "JLO 8/4/2017 16:16",
+		"test04diceValuesShouldChangeBetweenRolls" : "JLO 8/4/2017 16:16",
+		"test05youCanRollDifferentNumbersOfDice" : "JLO 8/4/2017 16:16" } }

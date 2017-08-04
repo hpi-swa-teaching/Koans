@@ -2,7 +2,6 @@ tests
 test04select
 
 	| smallNumbers |
-	
 	smallNumbers := { 1 . 2 . 3 . 4 . 5 . 6 }.
 	
 	self assert: { xx } equals: (smallNumbers select: [ :aNumber | aNumber > 3]).

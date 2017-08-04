@@ -2,7 +2,6 @@ tests
 test06implication
 
 	| a |
-	
 	self assert: xx equals: true ==> [false].
 	self assert: xx equals: false ==> [false].
 	

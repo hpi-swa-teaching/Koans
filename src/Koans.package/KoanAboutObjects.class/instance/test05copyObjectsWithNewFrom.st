@@ -2,7 +2,6 @@ tests
 test05copyObjectsWithNewFrom
 
 	| anyObject aNewObject |
-	
 	anyObject := Object new.
 	aNewObject  := Object newFrom: anyObject.
 

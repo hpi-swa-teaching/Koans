@@ -1,7 +1,7 @@
 tests
-test03useGettersAndSetters
+test04useGettersAndSetters
+
 	| aLotus |
-	
 	aLotus := KoanLotus new.
 	self assert: xx equals: aLotus publicInstanceVariable.
 	

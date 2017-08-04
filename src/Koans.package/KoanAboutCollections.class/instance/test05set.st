@@ -1,7 +1,7 @@
 tests
 test05set
-	| set |
-	
+
+	| set |	
 	set := {'I' . 'am' . 'a' . 'great' . 'set!'} asSet.
 	
 	self assert: (set add: 'a') equals: xx.

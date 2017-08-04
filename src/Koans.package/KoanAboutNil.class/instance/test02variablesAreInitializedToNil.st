@@ -2,5 +2,4 @@ tests
 test02variablesAreInitializedToNil
 
 	| aVariable |
-	
-	self assert: xx equals: aVariable.
+	self assert: xx equals: aVariable

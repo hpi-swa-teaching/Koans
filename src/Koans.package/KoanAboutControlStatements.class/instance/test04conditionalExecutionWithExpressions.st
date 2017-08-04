@@ -5,4 +5,5 @@ test04conditionalExecutionWithExpressions
 	
 	a := 1. b := 2.
 	(true and: [xx]) ifTrue: [a := b].
+	
 	self assert: b equals: a

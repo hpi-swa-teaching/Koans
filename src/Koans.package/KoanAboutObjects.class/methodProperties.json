@@ -4,9 +4,9 @@
 		"requirements" : "JE 6/8/2017 15:22" },
 	"instance" : {
 		"test01everythingIsAnObject" : "pre 3/7/2017 11:38",
-		"test02everyObjectHasAnId" : "PG 7/20/2017 13:59",
-		"test03everyObjectHasADifferentId" : "pre 3/7/2017 11:38",
-		"test04butNotSmallIntegers" : "PG 7/20/2017 13:59",
-		"test05copyObjectsWithNewFrom" : "pre 3/7/2017 11:38",
-		"test06useCascadesToNotRepeatButBeCareful" : "pre 10/3/2016 12:51",
-		"test07yourselfIsTheObjectItself" : "pre 10/3/2016 12:51" } }
+		"test02everyObjectHasAnId" : "JLO 8/4/2017 14:02",
+		"test03everyObjectHasADifferentId" : "JLO 8/4/2017 14:05",
+		"test04butNotSmallIntegers" : "JLO 8/4/2017 14:05",
+		"test05copyObjectsWithNewFrom" : "JLO 8/4/2017 14:06",
+		"test06useCascadesToNotRepeatButBeCareful" : "JLO 8/4/2017 14:08",
+		"test07yourselfIsTheObjectItself" : "JLO 8/4/2017 14:11" } }

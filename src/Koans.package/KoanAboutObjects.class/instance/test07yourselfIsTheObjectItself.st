@@ -2,7 +2,6 @@ tests
 test07yourselfIsTheObjectItself
 
 	| result |
-	
 	result := 'abc'
 				reversed;
 				asUppercase;
@@ -15,4 +14,4 @@ test07yourselfIsTheObjectItself
 				add: 2;
 				yourself.
 				
-	self assert: xx equals: result isCollection.
+	self assert: xx equals: result isCollection

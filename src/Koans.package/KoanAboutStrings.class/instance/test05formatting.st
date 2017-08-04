@@ -2,7 +2,6 @@ tests
 test05formatting
 
 	| a b c |
-
 	a := 'Hello World'.
 	b := '{ } \ foo 12 bar string'.
 	c := '{ } \\ foo 12 bar string'.

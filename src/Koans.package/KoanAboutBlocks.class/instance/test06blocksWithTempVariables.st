@@ -2,7 +2,6 @@ tests
 test06blocksWithTempVariables
 
 	| processing |
-	
 	processing := [ :a :b |
 						| tempVariable | 
 						tempVariable := a + b.

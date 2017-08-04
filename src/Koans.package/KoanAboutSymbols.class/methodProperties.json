@@ -3,12 +3,12 @@
 		"priority" : "pre 11/4/2011 21:41:27.638",
 		"requirements" : "JE 6/8/2017 15:23" },
 	"instance" : {
-		"test01symbolsAreSymbols" : "pre 3/7/2017 11:39",
-		"test02symbolsCanBeCompared" : "pre 3/7/2017 11:39",
-		"test03identicalSymbolsAreASingleIdenticalObject" : "pre 3/7/2017 11:39",
-		"test04methodNamesBecomeSymbols" : "PG 7/20/2017 14:01",
-		"test05symbolsCanBeMadeFromStrings" : "pre 3/7/2017 11:39",
-		"test06symbolsWithSpacesCanBeMade" : "pre 3/7/2017 11:39",
-		"test07symbolsAreSpecialStrings" : "pre 3/7/2017 11:39",
-		"test08symbolsAreImmutable" : "pre 3/7/2017 11:40",
-		"test09symbolsCanBeDynamicallyCreated" : "rms 11/1/2011 18:11" } }
+		"test01symbolsAreSymbols" : "JLO 8/4/2017 15:05",
+		"test02symbolsCanBeCompared" : "JLO 8/4/2017 15:06",
+		"test03identicalSymbolsAreASingleIdenticalObject" : "JLO 8/4/2017 15:06",
+		"test04methodNamesBecomeSymbols" : "JLO 8/4/2017 15:08",
+		"test05symbolsCanBeMadeFromStrings" : "JLO 8/4/2017 15:11",
+		"test06symbolsWithSpacesCanBeMade" : "JLO 8/4/2017 15:12",
+		"test07symbolsAreSpecialStrings" : "JLO 8/4/2017 15:12",
+		"test08symbolsAreImmutable" : "JLO 8/4/2017 15:13",
+		"test09symbolsCanBeDynamicallyCreated" : "JLO 8/4/2017 15:13" } }

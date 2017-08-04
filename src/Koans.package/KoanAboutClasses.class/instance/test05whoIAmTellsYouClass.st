@@ -4,6 +4,7 @@ test05whoIAmTellsYouClass
 
 	| aLotus |
 	aLotus := KoanLotus new.
+	
 	self 
 		assert: xx equals: Object new class;
 		assert: xx equals: aLotus class

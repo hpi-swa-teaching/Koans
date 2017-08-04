@@ -2,7 +2,6 @@ tests
 test11sizeAndCount
 
 	| words |
-	
 	words := { 'Some' . 'single' . 'words' }.
 	
 	self assert: xx equals: words size.

@@ -5,7 +5,6 @@ test03casesByMessageNames
 	ghosts in a bamboo garden."
 
 	| aBonsai |
-	
 	aBonsai := KoanMetaBonsai new.
 	
 	self assert: 'fruit 2' equals: (aBonsai perform: (('fruit', xx asString) xx ))  

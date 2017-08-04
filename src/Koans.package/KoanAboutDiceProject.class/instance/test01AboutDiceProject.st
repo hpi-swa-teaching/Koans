@@ -5,6 +5,6 @@ test01AboutDiceProject
 	doesn't exist yet, I have to set my faith in you to make the dice finally understand."
 	
 	| dice |
-	
 	dice := KoanCrystalDice new.
-	self assert: (dice respondsTo: #roll:).	
+	
+	self assert: (dice respondsTo: #roll:)	

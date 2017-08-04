@@ -2,7 +2,6 @@ tests
 test10inject
 
 	| words |
-	
 	words := { 'Some' . 'single' . 'words' }.
 	
 	self assert: xx equals:

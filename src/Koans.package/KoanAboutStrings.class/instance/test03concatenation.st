@@ -2,7 +2,6 @@ tests
 test03concatenation
 
 	| a b |
-
 	a := 'Hello World'.
 	
 	self assert: xx equals: 'Hello' , ' ' , 'World'.

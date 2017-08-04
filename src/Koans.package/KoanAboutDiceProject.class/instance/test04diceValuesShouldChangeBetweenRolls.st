@@ -1,7 +1,7 @@
 tests
 test04diceValuesShouldChangeBetweenRolls
+
 	| dice firstTime secondTime |
-	
 	dice := KoanCrystalDice newWithRange: 1 to: 6.
 
 	dice roll: 5.

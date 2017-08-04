@@ -4,8 +4,8 @@
 		"requirements" : "JE 6/8/2017 15:23" },
 	"instance" : {
 		"test01stringsAreCollections" : "pre 3/7/2017 11:38",
-		"test02escaping" : "pre 3/7/2017 11:38",
-		"test03concatenation" : "pre 3/7/2017 11:38",
-		"test04newLine" : "pre 3/7/2017 11:39",
-		"test05formatting" : "pre 3/7/2017 11:39",
-		"test06stringsAreNotUnique" : "pre 3/7/2017 11:39" } }
+		"test02escaping" : "JLO 8/4/2017 14:59",
+		"test03concatenation" : "JLO 8/4/2017 15:00",
+		"test04newLine" : "JLO 8/4/2017 15:01",
+		"test05formatting" : "JLO 8/4/2017 15:03",
+		"test06stringsAreNotUnique" : "JLO 8/4/2017 15:03" } }

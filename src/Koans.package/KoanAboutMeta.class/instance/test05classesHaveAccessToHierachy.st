@@ -1,8 +1,7 @@
 tests
-test06classesHaveAccessToHierachy
+test05classesHaveAccessToHierachy
 	
 	| aBonsai |
-	
 	aBonsai := KoanAiderBonsai new.
 	
 	self assert: xx equals: aBonsai class superclass.

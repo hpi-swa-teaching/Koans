@@ -2,7 +2,6 @@ tests
 test09sortedCollection
 
 	| numbers sortNumbers |
-	
 	numbers := { 5 . 3 . 2 }.
 	self assert: xx equals: (numbers asSortedCollection asArray).
 	

@@ -2,7 +2,6 @@ tests
 test05passParametersToBlocksButPassTheRight
 
 	| multiply |
-	
 	multiply := [ :a :b | a * b ].
 	
 	self assert: xx equals: (multiply value: 2 value: 3).

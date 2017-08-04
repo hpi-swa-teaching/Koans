@@ -2,7 +2,6 @@ tests
 test07dictionary
 
 	| dict |
-	
 	dict := Dictionary new
 						at: #key put: 'aValue' ;
 						at: #anotherKey put: 'aSecondValue';
