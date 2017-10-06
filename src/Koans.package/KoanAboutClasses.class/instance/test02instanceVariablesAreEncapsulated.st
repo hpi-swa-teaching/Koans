@@ -1,7 +1,8 @@
 tests
 test02instanceVariablesAreEncapsulated
-	"First take a look at the KoanLotus class using the Browse Project button. It has two instance variables: 	privateInstanceVariable and publicInstanceVariable. Also look at the methods of the Lotus. Now what 
-	will happen down there?"
+	"First take a look at the KoanLotus class using the Browse Project button. 
+	  It has two instance variables: privateInstanceVariable and publicInstanceVariable. 
+	  Also look at the methods of the Lotus. Now what will happen down below?"
 
 	| aLotus |
 	aLotus := KoanLotus new.

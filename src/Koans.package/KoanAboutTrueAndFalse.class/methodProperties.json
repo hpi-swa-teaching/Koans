@@ -4,6 +4,6 @@
 		"requirements" : "JE 6/8/2017 15:23" },
 	"instance" : {
 		"test01trueAndFalseAreObjects" : "esec 11/1/2011 18:54:41.177",
-		"test02andIsAMessageOfBoolean" : "esec 11/1/2011 18:54:45.593",
-		"test03orIsAMessageOfBoolean" : "esec 11/1/2011 18:54:51.296",
-		"test04alsoNotAndImplies" : "pre 3/7/2017 11:40" } }
+		"test02andIsAMessageOfBoolean" : "pre 10/6/2017 21:10",
+		"test03orIsAMessageOfBoolean" : "pre 10/6/2017 21:10",
+		"test04alsoNotAndImplies" : "pre 10/6/2017 21:10" } }

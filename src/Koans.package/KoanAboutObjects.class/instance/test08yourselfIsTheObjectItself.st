@@ -1,5 +1,5 @@
 tests
-test07yourselfIsTheObjectItself
+test08yourselfIsTheObjectItself
 
 	| result |
 	result := 'abc'

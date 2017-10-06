@@ -1,5 +1,5 @@
 tests
-test05copyObjectsWithNewFrom
+test06copyObjectsWithNewFrom
 
 	| anyObject aNewObject |
 	anyObject := Object new.

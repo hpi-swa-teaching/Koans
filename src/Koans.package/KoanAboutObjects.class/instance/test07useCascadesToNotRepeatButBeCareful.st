@@ -1,5 +1,5 @@
 tests
-test06useCascadesToNotRepeatButBeCareful
+test07useCascadesToNotRepeatButBeCareful
 
 	| result |
 	result := 'abc'

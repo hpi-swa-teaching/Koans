@@ -8,7 +8,7 @@ test12do
 	completeLength := 0.
 	
 	words := { 'How' . 'dare' . 'you' }.
-	(words do: [ :aWord | 
-				completeLength := completeLength + aWord size]).
+	words do: [ :aWord | 
+				completeLength := completeLength + aWord size].
 	
 	self assert: xx equals: completeLength

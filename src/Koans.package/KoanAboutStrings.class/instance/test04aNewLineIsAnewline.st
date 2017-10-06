@@ -1,5 +1,5 @@
 tests
-test04newLine
+test04aNewLineIsAnewline
 
 	| a |
 	a := 'Hello

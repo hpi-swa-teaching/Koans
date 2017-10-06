@@ -9,5 +9,5 @@ test07rememberTheFinalStatement
 	processing := [ :a :b | a. b ].
 					
 	self 
-		assert: xx equals: false == (processing value: true value: false);
-		assert: xx equals: true == (processing value: true value: false)
+		assert: xx equals: false = (processing value: true value: false);
+		assert: xx equals: true = (processing value: true value: false)

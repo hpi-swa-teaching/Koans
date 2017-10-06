@@ -1,5 +1,5 @@
 tests
-test03concatenation
+test03concatenationConnectsHelloAndWorld
 
 	| a b |
 	a := 'Hello World'.

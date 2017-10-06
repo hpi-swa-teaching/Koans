@@ -1,5 +1,5 @@
 tests
-test05formatting
+test05createStringsWithFormat
 
 	| a b c |
 	a := 'Hello World'.

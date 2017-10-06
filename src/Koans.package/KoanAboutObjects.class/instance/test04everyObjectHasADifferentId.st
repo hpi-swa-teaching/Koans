@@ -1,5 +1,5 @@
 tests
-test03everyObjectHasADifferentId
+test04everyObjectHasADifferentId
 	"~~ is true if the objects are not equal"
 
 	| anObject anotherObject |
