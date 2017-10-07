@@ -5,6 +5,16 @@
 
 *Next Level Koans* is based on the original [Koans](https://www.hpi.uni-potsdam.de/hirschfeld/trac/SqueakCommunityProjects/wiki/smalltalk_koans). Only very few Koans have actually been changed. The focus of the project lay on the creation of a more easily accessible user interface.
 
+## How to Install
+The Koans are compatible with either Squeak 5.1 or Squeak trunk (check Travis for more information). The easiest way to install the Koans is by getting [Metacello](https://github.com/dalehenrich/metacello-work) and then executing the following snippet:
+
+````
+Metacello new
+  baseline: 'Ohm';
+  repository: 'github://hpi-swa/ohm-s/packages';
+  load.
+````
+
 ## How to Start
 1. In the menu bar click on Apps>>Koans.
 
