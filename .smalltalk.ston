@@ -4,14 +4,14 @@ SmalltalkCISpec {
 			#baseline : 'Koans',
 			#directory : 'src',
 			#onWarningLog : true,
-			#useLatestMetacello : true,
+			#useLatestMetacello : false,
 			#load : [ 'CompleteWithTests' ],
 			#platforms : [ #squeak ]
 		}
 	],
 	#testing : {
 		#categories : [ 'Koans-Tests' ],
-		#failOnZeroTests : false,
+		#failOnZeroTests : true,
 		#hidePassingTests : true,
 		#defaultTimeout : 30,
 		#coverage: {
