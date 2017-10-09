@@ -1,7 +1,8 @@
 browsing
 selectChapter: aChapter
 
-	self selectedChapter: aChapter.
-	self changed: #koanList.
-	self changed: #isProjectChapter.
-	self changed: #descriptionBoxContent
+	self 
+		selectedChapter: aChapter;
+		changed: #koanList;
+		changed: #isProjectChapter;
+		changed: #descriptionBoxContent

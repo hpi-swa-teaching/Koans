@@ -1,4 +1,4 @@
-as yet unclassified
+running
 openDebuggerOnFailingTestMethod
 
 	KoanMockDebug wasDebugged: true

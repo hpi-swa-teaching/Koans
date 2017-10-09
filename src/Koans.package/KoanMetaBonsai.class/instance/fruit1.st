@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 fruit1
 
 	^ 'fruit 1'

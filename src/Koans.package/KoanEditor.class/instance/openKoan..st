@@ -1,7 +1,8 @@
 actions
 openKoan: aKoan
 
-	self openedKoan: aKoan.
-	self setBrowserTo: aKoan.
-	self changed: #windowTitle.
-	self updateStatusBar
+	self 
+		openedKoan: aKoan;
+		setBrowserTo: aKoan;
+		changed: #windowTitle;
+		updateStatusBar

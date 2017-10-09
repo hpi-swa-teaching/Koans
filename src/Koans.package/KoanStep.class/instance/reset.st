@@ -1,6 +1,5 @@
 resetting
 reset
 
-	| changeRecords |
-	changeRecords := self changeRecords.
-	changeRecords last fileIn
+	self changeRecords last fileIn
+	 
