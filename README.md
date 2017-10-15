@@ -3,15 +3,13 @@
 
 *Next Level Koans* is an HPI project to improve teaching of Smalltalk and Squeak to students in the lecture series *Software Architecture*. Koans consist of testsuites, introducing idioms and basic concepts through coding exercises within a graphical user interface.
 
-*Next Level Koans* is based on the original [Koans](https://www.hpi.uni-potsdam.de/hirschfeld/trac/SqueakCommunityProjects/wiki/smalltalk_koans). Only very few Koans have actually been changed. The focus of the project lay on the creation of a more easily accessible user interface.
-
 ## How to Install
 The Koans are compatible with either Squeak 5.1 or Squeak trunk (check Travis for more information). The easiest way to install the Koans is by getting [Metacello](https://github.com/dalehenrich/metacello-work) and then executing the following snippet:
 
 ````
 Metacello new
-  baseline: 'Ohm';
-  repository: 'github://hpi-swa/ohm-s/packages';
+  baseline: 'Koans';
+  repository: 'github://hpi-swa-teaching/Koans/src';
   load.
 ````
 
@@ -53,3 +51,25 @@ Metacello new
 [redBar]: ./images/redBar.png
 [yellowBar]: ./images/yellowBar.png
 [windowMenu]: ./images/windowMenu.png
+
+## Contributors
+Over the years, the following people have contributed to the Koans project:
+
+[Robin Schreiber](https://github.com/codeZeilen),
+[Patrick Rein](https://github.com/codeZeilen),
+[Eric Seckler](https://github.com/betasheet),
+[Daniel Stolpe](https://github.com/numberpi),
+[Tobias Pape](https://github.com/krono),
+[Jakob Reschke](https://github.com/j4yk),
+Willi Müller,
+[Daniel Kurzynski](https://github.com/kurzy),
+[Wenzel Pünter](https://github.com/scento),
+[Stephan Lutz](https://github.com/stlutz),
+[J-L-O](https://github.com/J-L-O),
+[Jeilef](https://github.com/Jeilef),
+[Fabio Niephaus](https://github.com/fniephaus),
+[Robert Hirschfeld](https://github.com/roberthirschfeld),
+[Marcel Taeumel](https://github.com/marceltaeumel)
+
+## History
+You can find previous versions of the *Koans* project on the previous [documentation page](https://www.hpi.uni-potsdam.de/hirschfeld/trac/SqueakCommunityProjects/wiki/smalltalk_koans).
