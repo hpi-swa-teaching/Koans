@@ -2,17 +2,17 @@
 	"class" : {
 		 },
 	"instance" : {
-		"clearHistory:" : "SL 6/19/2017 18:52",
-		"clearHistory:for:" : "JLO 6/8/2017 15:23",
+		"clearHistory:" : "rhi 10/12/2017 12:59",
+		"clearHistory:for:" : "rhi 10/12/2017 12:59",
 		"newMorphs" : "JE 7/20/2017 10:32",
-		"setUp" : "JE 8/4/2017 16:57",
+		"setUp" : "rhi 10/12/2017 13:08",
 		"tearDown" : "JE 8/4/2017 16:57",
-		"testChangeToEditorViewClosesOwnWindow" : "JE 7/20/2017 10:32",
-		"testChangeToEditorViewOpensAWindowWithAKoanEditorAsModel" : "JE 7/20/2017 10:27",
-		"testChangeToSelectionViewClosesOwnWindow" : "JE 7/20/2017 10:42",
-		"testChangeToSelectionViewOpensAWindowWithAKoanBrowserAsModel" : "JE 7/20/2017 10:44",
+		"testChangeToEditorViewClosesOwnWindow" : "rhi 10/12/2017 12:56",
+		"testChangeToEditorViewOpensAWindowWithAKoanEditorAsModel" : "rhi 10/12/2017 12:57",
+		"testChangeToSelectionViewClosesOwnWindow" : "rhi 10/12/2017 12:57",
+		"testChangeToSelectionViewOpensAWindowWithAKoanBrowserAsModel" : "rhi 10/12/2017 12:57",
 		"testDebuggerIsOpenedWhenDebugButtonIsClicked" : "JE 7/24/2017 17:36",
-		"testErrorIcon" : "SL 6/19/2017 19:00",
-		"testFailIcon" : "SL 6/21/2017 01:32",
-		"testNoneIcon" : "SL 6/19/2017 18:57",
-		"testPassIcon" : "SL 6/19/2017 18:56" } }
+		"testErrorIcon" : "rhi 10/12/2017 12:59",
+		"testFailIcon" : "rhi 10/12/2017 12:59",
+		"testNoneIcon" : "rhi 10/12/2017 12:59",
+		"testPassIcon" : "rhi 10/12/2017 13:00" } }

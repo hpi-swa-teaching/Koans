@@ -1,4 +1,4 @@
 accessing
 priority
 
-	^1
+	^ 1

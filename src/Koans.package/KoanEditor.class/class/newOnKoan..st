@@ -1,6 +1,6 @@
 instance creation
 newOnKoan: aKoan
 	
-	^ (self new)
+	^ self new
 		openKoan: aKoan;
 		yourself

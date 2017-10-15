@@ -1,1 +1,1 @@
-This chapter teaches you advanced (but mostly discouraged) meta concepts of using classes and messages.
+This chapter teaches you advanced (and exciting yet in most circumstances discouraged) meta concepts of using classes and messages.

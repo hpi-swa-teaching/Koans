@@ -1,7 +1,7 @@
 tests
 test01statementsAreMethodsOfBooleanClass
-	"Even statements are implemented as methods.
-	Always remember: everything is a message send!"
+	"Even 'statements' are implemented as methods.
+	Always remember: (Almost) Everything is a message send!"
 
 	| expected |
 	expected := xx.

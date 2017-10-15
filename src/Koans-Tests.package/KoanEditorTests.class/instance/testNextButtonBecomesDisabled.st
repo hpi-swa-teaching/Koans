@@ -3,4 +3,4 @@ testNextButtonBecomesDisabled
 
 	self assert: editor isNextButtonEnabled.
 	editor nextKoan.
-	self assert: editor isNextButtonEnabled not.
+	self assert: editor isNextButtonEnabled not

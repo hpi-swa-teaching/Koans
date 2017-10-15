@@ -1,4 +1,4 @@
 accessing
 fruits
 
-	self subclassResponsibility 
+	self subclassResponsibility

@@ -1,6 +1,6 @@
 tests
 test01collectionsCanComeInDifferentFlavours
-	
+
 	self assert: xx equals: Collection new isCollection.   
 	self assert: xx equals: OrderedCollection new isCollection.
 	self assert: xx equals: Set new isCollection.    

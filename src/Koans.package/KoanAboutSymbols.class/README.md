@@ -1,1 +1,1 @@
-In this chapter you'll learn what a Symbol is, why it is useful and how it behaves when used.
+In this chapter you will learn what a Symbol is, why it is useful, and how it behaves.

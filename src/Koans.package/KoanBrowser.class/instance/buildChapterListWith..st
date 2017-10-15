@@ -10,7 +10,7 @@ buildChapterListWith: aBuilder
 		autoDeselect: false;
 		helpItem: #chapterTooltipFor:;
 		frame: (LayoutFrame new
-					leftFraction: 0;
-					topFraction: 0;
-					rightFraction: 0.5;
-					bottomFraction: 1)
+			leftFraction: 0;
+			topFraction: 0;
+			rightFraction: 0.5;
+			bottomFraction: 1)

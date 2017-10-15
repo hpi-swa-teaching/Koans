@@ -1,4 +1,5 @@
 tests
 testIsProjectReturnsBoolean
 
-	self assert: (KoanChapter allChapters allSatisfy: [:aChapter | aChapter isProject isKindOf: Boolean])
+	self assert: (KoanChapter allChapters allSatisfy: [:chapter |
+		chapter isProject isKindOf: Boolean])

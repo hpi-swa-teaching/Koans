@@ -1,4 +1,4 @@
 accessing
 requiredClasses
 
-	^ { KoanBonsai . KoanAiderBonsai . KoanMapleBonsai }
+	^ {KoanBonsai. KoanAiderBonsai. KoanMapleBonsai}

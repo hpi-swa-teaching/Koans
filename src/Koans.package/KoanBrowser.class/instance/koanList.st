@@ -1,6 +1,6 @@
 ui
 koanList
-	
-	^ self selectedChapter 
+
+	^ self selectedChapter
 		ifNil: [#()]
 		ifNotNil: [self selectedChapter koansInChapter]

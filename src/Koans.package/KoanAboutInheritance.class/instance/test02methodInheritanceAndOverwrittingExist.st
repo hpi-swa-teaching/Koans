@@ -5,8 +5,6 @@ test02methodInheritanceAndOverwrittingExist
 	aBonsai := KoanBonsai new.
 	anAiderBonsai := KoanAiderBonsai new.
 	aMapleBonsai := KoanMapleBonsai new.
-	
-	self
-		assert: xx equals: aBonsai color;
-		assert: xx equals: anAiderBonsai color;
-		assert: xx equals: aMapleBonsai color
+	self assert: xx equals: aBonsai color.
+	self assert: xx equals: anAiderBonsai color.
+	self assert: xx equals: aMapleBonsai color

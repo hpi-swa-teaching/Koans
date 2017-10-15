@@ -1,7 +1,7 @@
 actions
 openKoan: aKoan
 
-	self 
+	self
 		openedKoan: aKoan;
 		setBrowserTo: aKoan;
 		changed: #windowTitle;

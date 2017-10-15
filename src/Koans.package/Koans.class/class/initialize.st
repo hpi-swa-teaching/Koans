@@ -1,4 +1,4 @@
 running
 initialize
 
-	TheWorldMenu registerOpenCommand: {'Koans'. {self. #open}}  
+	TheWorldMenu registerOpenCommand: {'Koans'. {self. #open}}

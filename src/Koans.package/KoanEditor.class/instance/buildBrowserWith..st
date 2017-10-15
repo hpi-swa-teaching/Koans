@@ -3,7 +3,8 @@ buildBrowserWith: aBuilder
 
 	^ (self browser buildCodePaneWith: aBuilder)
 		frame: (LayoutFrame new
-					leftFraction: 0 offset: 0;
-					topFraction: 0 offset: self statusBarHeight - self class defaultOffset;
-					rightFraction: 1 offset: 0;
-					bottomFraction: 1 offset: self class buttonHeight negated + self class defaultOffset)
+			leftFraction: 0 offset: 0;
+			topFraction: 0 offset: self statusBarHeight - self class defaultOffset;
+			rightFraction: 1 offset: 0;
+			bottomFraction: 1 offset: self class buttonHeight negated + self class defaultOffset);
+		yourself

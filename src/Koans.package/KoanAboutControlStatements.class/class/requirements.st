@@ -1,4 +1,4 @@
 accessing
 requirements
 
-	^ {KoanAboutBlocks }
+	^ {KoanAboutBlocks}

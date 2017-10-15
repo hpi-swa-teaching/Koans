@@ -1,12 +1,12 @@
 {
 	"class" : {
-		"priority" : "pre 10/16/2011 16:13:07.54",
-		"requiredClasses" : "SL 7/12/2017 21:05",
+		"priority" : "rhi 10/12/2017 11:44",
+		"requiredClasses" : "rhi 10/12/2017 11:44",
 		"requirements" : "JE 6/8/2017 15:19" },
 	"instance" : {
-		"test01createAnInstanceWithNew" : "pre 10/6/2017 21:04",
-		"test02instanceVariablesAreEncapsulated" : "pre 10/6/2017 21:05",
-		"test03theTaleOfNewAndBasicNew" : "JLO 8/4/2017 14:24",
-		"test04useGettersAndSetters" : "JLO 8/4/2017 14:23",
-		"test05whoIAmTellsYouClass" : "pre 10/6/2017 21:08",
-		"test06classesUnderstandCanUnderstand" : "esec 11/1/2011 18:53:40.104" } }
+		"test01createAnInstanceWithNew" : "rhi 10/12/2017 09:11",
+		"test02instanceVariablesAreEncapsulated" : "rhi 10/12/2017 09:25",
+		"test03theTaleOfNewAndBasicNew" : "rhi 10/12/2017 09:14",
+		"test04useGettersAndSetters" : "rhi 10/12/2017 09:15",
+		"test05whoIAmTellsYouClass" : "rhi 10/12/2017 09:25",
+		"test06classesUnderstandCanUnderstand" : "rhi 10/12/2017 09:24" } }

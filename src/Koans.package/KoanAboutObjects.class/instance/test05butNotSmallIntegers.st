@@ -6,5 +6,4 @@ test05butNotSmallIntegers
 	| aNumber anotherNumber |
 	aNumber := 1.
 	anotherNumber := 1.
-
 	self assert: xx equals: aNumber ~~ anotherNumber

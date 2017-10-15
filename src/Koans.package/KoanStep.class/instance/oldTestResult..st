@@ -1,4 +1,4 @@
 accessing
 oldTestResult: anObject
-	
-	oldTestResult := anObject.
+
+	oldTestResult := anObject

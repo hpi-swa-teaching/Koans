@@ -1,4 +1,4 @@
 editing
 openEditor
 
-	KoanEditor openOn: self
+	^ KoanEditor openOn: self

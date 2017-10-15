@@ -1,4 +1,4 @@
 accessing
-priority 
+priority
 
-	^6
+	^ 6

@@ -1,4 +1,4 @@
 accessing
 requiredClasses
 
-	^ { KoanLotus }
+	^ {KoanLotus}

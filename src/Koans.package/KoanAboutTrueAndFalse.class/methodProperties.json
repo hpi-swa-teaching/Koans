@@ -1,9 +1,9 @@
 {
 	"class" : {
-		"priority" : "pre 11/4/2011 21:39:14.12",
-		"requirements" : "JE 6/8/2017 15:23" },
+		"priority" : "rhi 10/12/2017 11:50",
+		"requirements" : "rhi 10/12/2017 11:50" },
 	"instance" : {
-		"test01trueAndFalseAreObjects" : "esec 11/1/2011 18:54:41.177",
-		"test02andIsAMessageOfBoolean" : "pre 10/6/2017 21:10",
-		"test03orIsAMessageOfBoolean" : "pre 10/6/2017 21:10",
-		"test04alsoNotAndImplies" : "pre 10/6/2017 21:10" } }
+		"test01trueAndFalseAreObjects" : "rhi 10/12/2017 11:42",
+		"test02andIsAMessageOfBoolean" : "rhi 10/12/2017 11:43",
+		"test03orIsAMessageOfBoolean" : "rhi 10/12/2017 11:43",
+		"test04alsoNotAndImplies" : "rhi 10/12/2017 11:43" } }

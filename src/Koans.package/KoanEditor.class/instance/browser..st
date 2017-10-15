@@ -1,4 +1,4 @@
 accessing
 browser: anObject
 	
-	browser := anObject.
+	browser := anObject

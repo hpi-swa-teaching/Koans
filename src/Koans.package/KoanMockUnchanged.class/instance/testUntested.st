@@ -1,4 +1,4 @@
 tests
-testUntested 
+testUntested
 
 	self assert: false

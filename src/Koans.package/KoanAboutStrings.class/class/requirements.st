@@ -1,4 +1,4 @@
 accessing
 requirements
 
-	^ {KoanAboutBlocks . KoanAboutObjects . KoanAboutInheritance}
+	^ {KoanAboutBlocks. KoanAboutObjects. KoanAboutInheritance}

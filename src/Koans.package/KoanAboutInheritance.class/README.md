@@ -1,1 +1,1 @@
-In this chapter you'll look at Bonsais to learn the concept of inheritance.
+In this chapter you will look at Bonsais to learn the concept of inheritance.

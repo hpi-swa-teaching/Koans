@@ -1,6 +1,6 @@
 ui
 updateButtonState
 
-	self 
+	self
 		changed: #isNextButtonEnabled;
 		changed: #isPreviousButtonEnabled

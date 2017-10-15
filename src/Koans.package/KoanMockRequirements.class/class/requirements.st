@@ -1,4 +1,4 @@
 accessing
 requirements
 
-	^ {KoanMockDebug . KoanMockEmpty}
+	^ {KoanMockDebug. KoanMockEmpty}

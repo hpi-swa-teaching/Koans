@@ -1,11 +1,11 @@
 {
 	"class" : {
-		"priority" : "esec 11/9/2011 11:16:56.711",
-		"requiredClasses" : "SL 7/12/2017 20:47",
+		"priority" : "rhi 10/12/2017 11:46",
+		"requiredClasses" : "rhi 10/12/2017 11:46",
 		"requirements" : "JE 6/8/2017 15:23" },
 	"instance" : {
-		"test01AboutDiceProject" : "JLO 8/4/2017 16:15",
-		"test02rollingTheDiceReturnsASetOfIntegersInsideTheRange" : "JLO 8/4/2017 16:15",
-		"test03diceValuesDoNotChangeUnlessExplicitlyRolled" : "JLO 8/4/2017 16:16",
-		"test04diceValuesShouldChangeBetweenRolls" : "JLO 8/4/2017 16:16",
-		"test05youCanRollDifferentNumbersOfDice" : "JLO 8/4/2017 16:16" } }
+		"test01AboutDiceProject" : "rhi 10/12/2017 09:55",
+		"test02rollingTheDiceReturnsASetOfIntegersInsideTheRange" : "rhi 10/12/2017 09:55",
+		"test03diceValuesDoNotChangeUnlessExplicitlyRolled" : "rhi 10/12/2017 09:56",
+		"test04diceValuesShouldChangeBetweenRolls" : "rhi 10/12/2017 09:56",
+		"test05youCanRollDifferentNumbersOfDice" : "rhi 10/12/2017 09:57" } }

@@ -2,4 +2,4 @@ initialization
 initialize 
 
 	super initialize.
-	exceptions := Dictionary new.
+	exceptions := Dictionary new

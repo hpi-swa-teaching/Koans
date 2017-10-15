@@ -1,1 +1,1 @@
-This chapter teaches you about Nil and its natural habitat.
+This chapter teaches you about nil and its natural habitat.

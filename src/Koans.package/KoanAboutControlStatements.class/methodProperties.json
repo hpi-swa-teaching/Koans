@@ -1,14 +1,14 @@
 {
 	"class" : {
-		"priority" : "pre 11/4/2011 21:40:59.02",
-		"requirements" : "JE 6/8/2017 15:20" },
+		"priority" : "rhi 10/12/2017 11:45",
+		"requirements" : "rhi 10/12/2017 11:45" },
 	"instance" : {
-		"test01statementsAreMethodsOfBooleanClass" : "JLO 8/4/2017 14:43",
-		"test02statementsTakeBlocks" : "JLO 8/4/2017 14:46",
-		"test03conditionalExecution" : "JLO 8/4/2017 14:46",
-		"test04conditionalExecutionWithExpressions" : "pre 10/6/2017 21:15",
-		"test05statementsInAssignments" : "pre 3/7/2017 11:33",
-		"test06implication" : "JLO 8/4/2017 14:52",
-		"test07nil" : "JLO 8/4/2017 14:52",
-		"test08loopsOperateOnBlocks" : "JLO 8/4/2017 14:56",
-		"test09loopExecution" : "JLO 8/4/2017 14:53" } }
+		"test01statementsAreMethodsOfBooleanClass" : "rhi 10/12/2017 09:47",
+		"test02statementsTakeBlocks" : "rhi 10/12/2017 09:48",
+		"test03conditionalExecution" : "rhi 10/12/2017 09:48",
+		"test04conditionalExecutionWithExpressions" : "rhi 10/12/2017 09:48",
+		"test05statementsInAssignments" : "rhi 10/12/2017 09:49",
+		"test06implication" : "rhi 10/12/2017 09:49",
+		"test07nil" : "rhi 10/12/2017 09:49",
+		"test08loopsOperateOnBlocks" : "rhi 10/12/2017 09:50",
+		"test09loopExecution" : "rhi 10/12/2017 09:50" } }

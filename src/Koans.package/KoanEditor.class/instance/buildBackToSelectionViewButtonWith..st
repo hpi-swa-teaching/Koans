@@ -6,7 +6,7 @@ buildBackToSelectionViewButtonWith: aBuilder
 		label: 'Overview';
 		action: #changeToSelectionView;
 		frame: (LayoutFrame new
-					leftFraction: 0;
-					topFraction: 1 offset: (self class buttonHeight - self class defaultOffset) negated;
-					rightFraction: 0 offset: self class buttonWidth;
-					bottomFraction: 1 offset: 0)
+			leftFraction: 0;
+			topFraction: 1 offset: (self class buttonHeight - self class defaultOffset) negated;
+			rightFraction: 0 offset: self class buttonWidth;
+			bottomFraction: 1 offset: 0)

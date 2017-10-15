@@ -1,13 +1,13 @@
 {
 	"class" : {
-		"priority" : "pre 11/4/2011 21:40:19.672",
+		"priority" : "rhi 10/12/2017 11:44",
 		"requirements" : "JE 6/8/2017 15:18" },
 	"instance" : {
-		"test01whatIsABlock" : "pre 3/7/2017 11:27",
-		"test02aBlockCanBeExecuted" : "pre 10/6/2017 21:11",
-		"test03theLastStatementReturns" : "esec 11/1/2011 18:52:30.432",
-		"test04blocksCanBeStored" : "JLO 8/4/2017 14:39",
-		"test05passParametersToBlocksButPassTheRight" : "JLO 8/4/2017 14:39",
-		"test06blocksWithTempVariables" : "JLO 8/4/2017 14:41",
-		"test07rememberTheFinalStatement" : "pre 10/6/2017 21:11",
-		"test08blocksAndConditions" : "pre 10/6/2017 21:13" } }
+		"test01whatIsABlock" : "rhi 10/12/2017 08:56",
+		"test02aBlockCanBeExecuted" : "rhi 10/12/2017 09:22",
+		"test03theLastStatementReturns" : "rhi 10/12/2017 09:22",
+		"test04blocksCanBeStored" : "rhi 10/12/2017 08:57",
+		"test05passParametersToBlocksButPassTheRight" : "rhi 10/12/2017 08:57",
+		"test06blocksWithTempVariables" : "rhi 10/12/2017 09:36",
+		"test07rememberTheFinalStatement" : "rhi 10/12/2017 11:09",
+		"test08blocksAndConditions" : "rhi 10/12/2017 11:09" } }

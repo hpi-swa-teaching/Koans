@@ -1,8 +1,8 @@
 building
 addModelItemsToWindowMenu: aMenu
 
-	aMenu addLine.
 	aMenu
+		addLine;
 		addUpdating: #toggleTestOnSaveLabel
-		target: self
-		action: #toggleTestOnSave
+			target: self
+			action: #toggleTestOnSave

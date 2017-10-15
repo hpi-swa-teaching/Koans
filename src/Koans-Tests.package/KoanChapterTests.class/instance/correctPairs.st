@@ -2,9 +2,9 @@ constants
 correctPairs
 
 	^ Dictionary newFromPairs: {
-		KoanMockEmpty . #testGray.
-		KoanMockError . #testRed.
-		KoanMockFailure . #testOrange.
-		KoanMockPartialSuccess . #testGreen.
-		KoanMockUnchanged . #testGray.
-		KoanMockSuccess . #testGreen}
+		KoanMockEmpty. #testGray.
+		KoanMockError. #testRed.
+		KoanMockFailure. #testOrange.
+		KoanMockPartialSuccess. #testGreen.
+		KoanMockUnchanged. #testGray.
+		KoanMockSuccess. #testGreen}

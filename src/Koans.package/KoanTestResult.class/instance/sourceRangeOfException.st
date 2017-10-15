@@ -4,5 +4,4 @@ sourceRangeOfException
 	| testContext |
 	testContext := self testContext.
 	^ testContext method debuggerMap 
-				rangeForPC: testContext pc 
-				contextIsActiveContext: false
+		rangeForPC: testContext pc contextIsActiveContext: false

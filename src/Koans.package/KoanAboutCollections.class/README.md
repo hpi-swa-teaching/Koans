@@ -1,1 +1,1 @@
-This chapter teaches you what a Collection is, what some of the most important types of collections are and the differences between those types.
+This chapter teaches you what a Collection is, about some of its most important kinds, and the differences between them.

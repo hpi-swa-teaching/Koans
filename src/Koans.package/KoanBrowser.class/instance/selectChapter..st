@@ -1,7 +1,7 @@
 browsing
 selectChapter: aChapter
 
-	self 
+	self
 		selectedChapter: aChapter;
 		changed: #koanList;
 		changed: #isProjectChapter;

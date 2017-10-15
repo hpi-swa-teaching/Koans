@@ -1,4 +1,4 @@
 ui
 saveChanges
 
-	self browser changed: #acceptChanges.
+	self browser changed: #acceptChanges

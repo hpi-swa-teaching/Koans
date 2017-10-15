@@ -1,5 +1,4 @@
 sunit
 icon
 
-	^ ToolIcons iconNamed: (ToolIcons
-		iconForClass: self chapter selector: self selector)
+	^ ToolIcons iconNamed: (ToolIcons iconForClass: self chapter selector: self selector)

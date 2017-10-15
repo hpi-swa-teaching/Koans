@@ -1,4 +1,4 @@
 accessing
 oldCompiledMethod: anObject
-	
-	oldCompiledMethod := anObject.
+
+	oldCompiledMethod := anObject

@@ -1,6 +1,6 @@
 ui
 descriptionBoxContent
 
-	^ self selectedChapter 
+	^ self selectedChapter
 		ifNil: [self welcomeMessage]
 		ifNotNil: [self chapterDescriptionFor: self selectedChapter]
