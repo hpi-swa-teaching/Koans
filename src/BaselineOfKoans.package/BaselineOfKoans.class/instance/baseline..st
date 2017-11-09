@@ -11,4 +11,8 @@ baseline: spec
 			group: 'Tests' with: #('Koans-Tests');
 			group: 'default' with: #('Core' 'Tests');
 			group: 'CompleteWithoutTests' with: #('Core');
-			group: 'CompleteWithTests' with: #('CompleteWithoutTests' 'Tests')]
+			group: 'CompleteWithTests' with: #('CompleteWithoutTests' 'Tests')].
+	
+	spec for: #'squeak5.x' do: [
+		spec package: 'Koans' with: [
+			spec repository: 'github://HPI-SWA-Teaching/Koans:squeak50/src']].
