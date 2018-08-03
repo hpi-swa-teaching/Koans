@@ -1,4 +1,0 @@
-*SUnit-testing
-isTestClass
-
-	^ false

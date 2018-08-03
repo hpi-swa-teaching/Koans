@@ -3,8 +3,7 @@ baseline: spec
 	<baseline>
 	spec for: #common do: [
 		spec
-			package: 'SUnit';
-			package: 'Koans' with: [spec requires: #('SUnit')];
+			package: 'Koans';
 			package: 'Koans-Tests' with: [spec requires: #('Core')].
 		spec
 			group: 'Core' with: #('Koans');

@@ -1,4 +1,0 @@
-not categorized
-regularTestFailureTest
-	self assert: false description: 'You should see me'
-			
