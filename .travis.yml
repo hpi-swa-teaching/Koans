@@ -7,3 +7,8 @@ os:
 
 smalltalk:
   - Squeak-trunk
+  - Squeak-5.1
+  
+matrix:
+    allow_failures:
+        - smalltalk: Squeak-trunk
