@@ -1,4 +1,0 @@
-building suites
-suiteClass
-	^TestSuite
-			
