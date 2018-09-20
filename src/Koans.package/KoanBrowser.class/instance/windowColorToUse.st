@@ -1,4 +1,4 @@
 building
 windowColorToUse
 
-	^ Preferences windowColorFor: #Model
+	^ self defaultWindowColor.

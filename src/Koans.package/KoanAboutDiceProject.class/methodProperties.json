@@ -4,7 +4,7 @@
 		"requiredClasses" : "rhi 10/12/2017 11:46",
 		"requirements" : "JE 6/8/2017 15:23" },
 	"instance" : {
-		"test01AboutDiceProject" : "rhi 10/12/2017 09:55",
+		"test01AboutDiceProject" : "ck 9/19/2018 13:20",
 		"test02rollingTheDiceReturnsASetOfIntegersInsideTheRange" : "rhi 10/12/2017 09:55",
 		"test03diceValuesDoNotChangeUnlessExplicitlyRolled" : "rhi 10/12/2017 09:56",
 		"test04diceValuesShouldChangeBetweenRolls" : "rhi 10/12/2017 09:56",

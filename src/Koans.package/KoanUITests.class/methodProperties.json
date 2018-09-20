@@ -12,7 +12,7 @@
 		"testChangeToSelectionViewClosesOwnWindow" : "rhi 10/12/2017 12:57",
 		"testChangeToSelectionViewOpensAWindowWithAKoanBrowserAsModel" : "rhi 10/12/2017 12:57",
 		"testDebuggerIsOpenedWhenDebugButtonIsClicked" : "JE 7/24/2017 17:36",
-		"testErrorIcon" : "rhi 10/12/2017 12:59",
-		"testFailIcon" : "rhi 10/12/2017 12:59",
-		"testNoneIcon" : "rhi 10/12/2017 12:59",
-		"testPassIcon" : "rhi 10/12/2017 13:00" } }
+		"testErrorIcon" : "pre 9/20/2018 06:46",
+		"testFailIcon" : "pre 9/20/2018 06:46",
+		"testNoneIcon" : "pre 9/20/2018 06:46",
+		"testPassIcon" : "pre 9/20/2018 06:45" } }
