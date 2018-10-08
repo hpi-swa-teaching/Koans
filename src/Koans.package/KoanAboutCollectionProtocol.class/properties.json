@@ -7,7 +7,7 @@
 	"commentStamp" : "rhi 10/12/2017 09:16",
 	"instvars" : [
 		 ],
-	"name" : "KoanAboutCollectionProtocoll",
+	"name" : "KoanAboutCollectionProtocol",
 	"pools" : [
 		 ],
 	"super" : "KoanChapter",
