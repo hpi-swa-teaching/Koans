@@ -1,4 +1,4 @@
 accessing
 requirements
 
-	^ {KoanAboutCollectionProtocoll}
+	^ {KoanAboutCollectionProtocol}
