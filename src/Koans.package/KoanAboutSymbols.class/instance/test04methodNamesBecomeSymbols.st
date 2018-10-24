@@ -7,6 +7,6 @@ test04methodNamesBecomeSymbols
 	source code to use symbols?"
 
 	| symbolsAsStrings |
-	symbolsAsStrings := Symbol allSymbols do: [:x | x asString].
+	symbolsAsStrings := Symbol allSymbols collect: [:x | x asString].
 	self assert: xx
 		equals: (symbolsAsStrings includes: 'test04methodNamesBecomeSymbols')
