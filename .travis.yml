@@ -4,10 +4,12 @@ sudo: false
 os:
   - linux
   - osx
+  - windows
 
 smalltalk:
   - Squeak-trunk
   - Squeak-5.1
+  - Squeak-5.2
   
 matrix:
     allow_failures:
