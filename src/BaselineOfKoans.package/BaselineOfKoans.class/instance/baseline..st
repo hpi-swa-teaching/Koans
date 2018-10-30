@@ -8,7 +8,7 @@ baseline: spec
 			package: 'Koans-Tests' with: [spec requires: #('Core')].
 		spec
 			group: 'Core' with: #('Koans-Core');
-			group: 'Tests' with: #('Koans-Tests');
+			group: 'Tests' with: #('Koans-Tests' 'Koans-Chapters');
 			group: 'default' with: #('Core' 'Koans-Chapters' 'Tests');
 			group: 'CompleteWithoutTests' with: #('Core');
 			group: 'CompleteWithTests' with: #('CompleteWithoutTests' 'Tests')].
