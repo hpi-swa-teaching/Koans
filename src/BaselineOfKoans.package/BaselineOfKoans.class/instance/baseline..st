@@ -3,12 +3,13 @@ baseline: spec
 	<baseline>
 	spec for: #common do: [
 		spec
-			package: 'Koans';
+			package: 'Koans-Core';
+			package: 'Koans-Chapters' with: [spec requires: #('Core')];
 			package: 'Koans-Tests' with: [spec requires: #('Core')].
 		spec
-			group: 'Core' with: #('Koans');
+			group: 'Core' with: #('Koans-Core');
 			group: 'Tests' with: #('Koans-Tests');
-			group: 'default' with: #('Core' 'Tests');
+			group: 'default' with: #('Core' 'Koans-Chapters' 'Tests');
 			group: 'CompleteWithoutTests' with: #('Core');
 			group: 'CompleteWithTests' with: #('CompleteWithoutTests' 'Tests')].
 	

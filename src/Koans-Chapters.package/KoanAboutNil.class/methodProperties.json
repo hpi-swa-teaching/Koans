@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"countAllInstancesOfNil" : "rhi 10/12/2017 11:48",
+		"numberOfAllInstancesOfNil" : "esec 11/9/2011 10:51:21.456",
+		"priority" : "rhi 10/12/2017 11:48",
+		"requirements" : "rhi 10/12/2017 11:49" },
+	"instance" : {
+		"test01thereIsOnlyOneNil" : "pre 10/29/2018 18:31",
+		"test02variablesAreInitializedToNil" : "pre 10/29/2018 18:30",
+		"test03nilIsJustAnotherObject" : "pre 10/29/2018 18:31" } }
