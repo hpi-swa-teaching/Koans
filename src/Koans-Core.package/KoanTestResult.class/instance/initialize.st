@@ -2,4 +2,5 @@ initialization
 initialize 
 
 	super initialize.
-	exceptions := Dictionary new
+	exceptions := Dictionary new.
+	creationTime := Time utcMicrosecondClock

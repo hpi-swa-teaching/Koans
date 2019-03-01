@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "JE 8/2/2017 14:02",
 	"instvars" : [
-		"exceptions" ],
+		"exceptions",
+		"creationTime" ],
 	"name" : "KoanTestResult",
 	"pools" : [
 		 ],
