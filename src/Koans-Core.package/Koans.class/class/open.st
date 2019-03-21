@@ -1,0 +1,4 @@
+running
+open
+
+	^ KoanBrowser open

@@ -1,0 +1,1 @@
+This chapter teaches you what a String is and how it can be manipulated.

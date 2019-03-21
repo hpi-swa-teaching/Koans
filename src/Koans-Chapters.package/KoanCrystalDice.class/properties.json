@@ -1,0 +1,14 @@
+{
+	"category" : "Koans-Chapters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "KoanCrystalDice",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

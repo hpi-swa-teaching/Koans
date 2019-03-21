@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"priority" : "rhi 10/12/2017 11:46",
+		"requiredClasses" : "rhi 10/12/2017 11:46",
+		"requirements" : "JE 6/8/2017 15:24" },
+	"instance" : {
+		"test01inheritanceVariableInheritanceExists" : "rhi 10/12/2017 11:12",
+		"test02methodInheritanceAndOverwrittingExist" : "rhi 10/12/2017 11:13",
+		"test03abstractMethodsAreSubclassResponsibility" : "rhi 10/12/2017 09:58",
+		"test04askSuperWithSuper" : "rhi 10/12/2017 09:59" } }

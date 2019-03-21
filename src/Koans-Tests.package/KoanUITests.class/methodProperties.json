@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"clearHistory:" : "rhi 10/12/2017 12:59",
+		"clearHistory:for:" : "rhi 10/12/2017 12:59",
+		"newMorphs" : "JE 7/20/2017 10:32",
+		"setUp" : "rhi 10/12/2017 13:08",
+		"tearDown" : "JE 8/4/2017 16:57",
+		"testChangeToEditorViewClosesOwnWindow" : "rhi 10/12/2017 12:56",
+		"testChangeToEditorViewOpensAWindowWithAKoanEditorAsModel" : "rhi 10/12/2017 12:57",
+		"testChangeToSelectionViewClosesOwnWindow" : "rhi 10/12/2017 12:57",
+		"testChangeToSelectionViewOpensAWindowWithAKoanBrowserAsModel" : "rhi 10/12/2017 12:57",
+		"testDebuggerIsOpenedWhenDebugButtonIsClicked" : "JE 7/24/2017 17:36",
+		"testErrorIcon" : "pre 9/20/2018 06:46",
+		"testFailIcon" : "pre 9/20/2018 06:46",
+		"testNoneIcon" : "pre 9/20/2018 06:46",
+		"testPassIcon" : "pre 9/20/2018 06:45" } }

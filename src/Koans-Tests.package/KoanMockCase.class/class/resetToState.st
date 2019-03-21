@@ -1,0 +1,4 @@
+accessing
+resetToState
+
+	self resetHistory

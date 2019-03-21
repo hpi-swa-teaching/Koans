@@ -1,0 +1,1 @@
+This chapter teaches you what a Collection is, about some of its most important kinds, and the differences between them.

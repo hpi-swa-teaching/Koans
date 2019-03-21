@@ -1,0 +1,4 @@
+accessing
+fruits
+
+	self subclassResponsibility

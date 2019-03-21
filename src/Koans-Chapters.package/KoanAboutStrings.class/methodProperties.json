@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"priority" : "rhi 10/12/2017 11:49",
+		"requirements" : "rhi 10/12/2017 11:49" },
+	"instance" : {
+		"test01stringsAreCollections" : "rhi 10/12/2017 11:17",
+		"test02escaping" : "JLO 8/4/2017 14:59",
+		"test03concatenationConnectsHelloAndWorld" : "rhi 10/12/2017 11:18",
+		"test04aNewLineIsAnewline" : "rhi 10/12/2017 11:18",
+		"test05createStringsWithFormat" : "rhi 10/12/2017 11:18",
+		"test06stringsAreNotUnique" : "rhi 10/12/2017 11:19" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Koans-Chapters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rhi 10/12/2017 09:45",
+	"instvars" : [
+		 ],
+	"name" : "KoanAboutCollections",
+	"pools" : [
+		 ],
+	"super" : "KoanChapter",
+	"type" : "normal" }

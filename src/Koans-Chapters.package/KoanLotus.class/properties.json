@@ -1,0 +1,15 @@
+{
+	"category" : "Koans-Chapters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"privateInstanceVariable",
+		"publicInstanceVariable" ],
+	"name" : "KoanLotus",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Koans-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"toolbuilder",
+		"browser" ],
+	"name" : "KoanBrowserTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Koans-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"TestOnSave" ],
+	"commentStamp" : "SL 8/3/2017 22:31",
+	"instvars" : [
+		"openedKoan",
+		"browser",
+		"testOnSave" ],
+	"name" : "KoanEditor",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

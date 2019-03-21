@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAttemptsIncreaseWithEachTest" : "rhi 10/12/2017 12:55",
+		"testErroringKoanIsErroringExclusively" : "SL 7/15/2017 17:15",
+		"testFailingKoanIsFailingExclusively" : "SL 7/15/2017 17:15",
+		"testPassingKoanIsPassingExclusively" : "SL 7/15/2017 17:16",
+		"testReset" : "rhi 10/12/2017 12:56" } }

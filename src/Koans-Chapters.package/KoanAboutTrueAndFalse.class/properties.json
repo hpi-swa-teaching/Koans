@@ -1,0 +1,14 @@
+{
+	"category" : "Koans-Chapters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rhi 10/12/2017 11:42",
+	"instvars" : [
+		 ],
+	"name" : "KoanAboutTrueAndFalse",
+	"pools" : [
+		 ],
+	"super" : "KoanChapter",
+	"type" : "normal" }

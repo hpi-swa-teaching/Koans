@@ -1,0 +1,4 @@
+test
+test
+
+	self updateStatusBar

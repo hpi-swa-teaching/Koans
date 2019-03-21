@@ -1,0 +1,1 @@
+This chapter teaches you the difference between true and false, as well as some logical operators. Proceed for truth.

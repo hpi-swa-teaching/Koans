@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"priority" : "rhi 10/12/2017 11:46",
+		"requiredClasses" : "rhi 10/12/2017 11:47",
+		"requirements" : "JE 6/8/2017 15:22" },
+	"instance" : {
+		"test01callAMethodOrLeaveAMessage" : "rhi 10/12/2017 09:59",
+		"test02sendAMessageWithAttachedArguments" : "rhi 10/12/2017 09:59",
+		"test03casesByMessageNames" : "rhi 10/12/2017 10:00",
+		"test04classesAreObjectsAndHaveClassesHaveClasses" : "rhi 10/12/2017 11:08",
+		"test05classesHaveAccessToHierachy" : "rhi 10/12/2017 11:09" } }

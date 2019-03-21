@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"priority" : "rhi 10/12/2017 11:45",
+		"requirements" : "rhi 10/12/2017 11:45" },
+	"instance" : {
+		"test01statementsAreMethodsOfBooleanClass" : "rhi 10/12/2017 09:47",
+		"test02statementsTakeBlocks" : "rhi 10/12/2017 09:48",
+		"test03conditionalExecution" : "rhi 10/12/2017 09:48",
+		"test04conditionalExecutionWithExpressions" : "rhi 10/12/2017 09:48",
+		"test05statementsInAssignments" : "rhi 10/12/2017 09:49",
+		"test06implication" : "rhi 10/12/2017 09:49",
+		"test07nil" : "rhi 10/12/2017 09:49",
+		"test08loopsOperateOnBlocks" : "rhi 10/12/2017 09:50",
+		"test09loopExecution" : "rhi 10/12/2017 09:50" } }

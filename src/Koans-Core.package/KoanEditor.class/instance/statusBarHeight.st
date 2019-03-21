@@ -1,0 +1,4 @@
+statusbar
+statusBarHeight
+
+	^ 25

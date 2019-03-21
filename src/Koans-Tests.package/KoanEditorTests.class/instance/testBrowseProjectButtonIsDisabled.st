@@ -1,0 +1,4 @@
+tests-ui
+testBrowseProjectButtonIsDisabled
+
+	self deny: editor isBrowseProjectButtonEnabled

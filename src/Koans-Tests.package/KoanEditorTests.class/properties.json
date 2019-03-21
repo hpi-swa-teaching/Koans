@@ -1,0 +1,16 @@
+{
+	"category" : "Koans-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"editor",
+		"toolbuilder",
+		"koan" ],
+	"name" : "KoanEditorTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

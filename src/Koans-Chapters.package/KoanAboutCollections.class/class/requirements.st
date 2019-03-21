@@ -1,0 +1,4 @@
+accessing
+requirements
+
+	^ {KoanAboutInheritance. KoanAboutObjects}

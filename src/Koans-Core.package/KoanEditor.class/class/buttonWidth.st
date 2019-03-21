@@ -1,0 +1,4 @@
+constants
+buttonWidth
+
+	^ 85
