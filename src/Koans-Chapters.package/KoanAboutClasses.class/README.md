@@ -1,1 +1,0 @@
-This chapter teaches you about Classes, their instances, and how to create them.

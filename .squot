@@ -1,6 +1,2 @@
-OrderedDictionary {
-	'src\/BaselineOfKoans.package' : #SquotCypressCodeSerializer,
-	'src\/Koans-Chapters.package' : #SquotCypressCodeSerializer,
-	'src\/Koans-Core.package' : #SquotCypressCodeSerializer,
-	'src\/Koans-Tests.package' : #SquotCypressCodeSerializer
+OrderedDictionary { }'src\/Koans-Core.package' : #SquotCypressCodeSerializer
 }

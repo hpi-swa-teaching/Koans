@@ -1,1 +1,0 @@
-This chapter teaches you what a BlockClosure is and how it can be used.

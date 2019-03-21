@@ -1,4 +1,0 @@
-accessing
-oldCompiledMethod
-
-	^ oldCompiledMethod

@@ -1,4 +1,0 @@
-statusbar
-successMessage
-
-	^ 'Success!'

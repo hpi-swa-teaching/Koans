@@ -1,4 +1,0 @@
-statusbar
-statusBarHeight
-
-	^ 25

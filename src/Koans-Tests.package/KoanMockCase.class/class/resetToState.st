@@ -1,4 +1,0 @@
-accessing
-resetToState
-
-	self resetHistory

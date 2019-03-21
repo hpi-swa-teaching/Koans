@@ -1,1 +1,0 @@
-Most of the things you would ever want to do with a Collection are already there and easy to use. In this chapter you will learn many useful (idiomatic) ways to enumerate Collections.

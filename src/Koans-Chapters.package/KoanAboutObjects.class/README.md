@@ -1,1 +1,0 @@
-This chapter shows you that everything is an Object and what you can generally do with them.

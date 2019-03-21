@@ -1,9 +1,0 @@
-{
-	"class" : {
-		"priority" : "rhi 10/12/2017 11:50",
-		"requirements" : "rhi 10/12/2017 11:50" },
-	"instance" : {
-		"test01trueAndFalseAreObjects" : "rhi 10/12/2017 11:42",
-		"test02andIsAMessageOfBoolean" : "rhi 10/12/2017 11:43",
-		"test03orIsAMessageOfBoolean" : "rhi 10/12/2017 11:43",
-		"test04alsoNotAndImplies" : "rhi 10/12/2017 11:43" } }

@@ -1,4 +1,0 @@
-building
-windowColorToUse
-
-	^ self defaultWindowColor.

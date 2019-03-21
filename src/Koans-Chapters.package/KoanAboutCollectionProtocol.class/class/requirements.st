@@ -1,4 +1,0 @@
-accessing
-requirements
-
-	^ {KoanAboutCollections. KoanAboutBlocks}

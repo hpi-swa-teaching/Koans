@@ -1,4 +1,0 @@
-constants
-defaultWindowTitle
-
-	^ 'Koan Editor'
