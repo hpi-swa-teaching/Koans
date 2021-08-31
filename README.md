@@ -1,4 +1,4 @@
-# Next Level Koans [![Build Status](https://travis-ci.org/hpi-swa-teaching/Koans.svg?branch=master)](https://travis-ci.org/hpi-swa-teaching/Koans) [![Coverage Status](https://coveralls.io/repos/github/hpi-swa-teaching/Koans/badge.svg?branch=master)](https://coveralls.io/github/hpi-swa-teaching/Koans?branch=master)
+# Next Level Koans ![build status](https://github.com/hpi-swa-teaching/Koans/actions/workflows/main.yml/badge.svg?branch=master) [![Coverage Status](https://coveralls.io/repos/github/hpi-swa-teaching/Koans/badge.svg?branch=master)](https://coveralls.io/github/hpi-swa-teaching/Koans?branch=master)
 
 *Next Level Koans* is an HPI project to improve teaching of Smalltalk and Squeak to students in the lecture series *Software Architecture*. Koans consist of testsuites, introducing idioms and basic concepts through coding exercises within a graphical user interface.
 
