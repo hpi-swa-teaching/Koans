@@ -3,5 +3,6 @@ testContext
 
 	^ self exceptionContext
 		findContextSuchThat: [:context |
-			context method methodHome ~~ TestCase
-				and: [context method methodHome inheritsFrom: TestCase]]
+			context method homeMethod methodHome ~~ TestCase
+					and: [context method homeMethod methodHome inheritsFrom: TestCase]]	
+			
