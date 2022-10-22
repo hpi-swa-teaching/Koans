@@ -1,4 +1,4 @@
 statusbar
 statusBarHeight
 
-	^ 25
+	^ 100
