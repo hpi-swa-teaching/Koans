@@ -10,7 +10,7 @@ runCase: aTestCase
 			self storeException: ex for: aTestCase.
 			testCasePassed := false.
 			ex return: false]]
-		on: self class error
+		on: self class exError
 		do: [:ex | 
 			errors add: aTestCase.
 			self  storeException: ex for: aTestCase.
