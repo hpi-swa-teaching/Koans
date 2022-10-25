@@ -1,4 +1,4 @@
 running
-openDebuggerOnFailingTestMethod
+debugAsFailure
 
 	KoanMockDebug wasDebugged: true
