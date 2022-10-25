@@ -12,5 +12,5 @@ buildChapterListWith: aBuilder
 		frame: (LayoutFrame new
 			leftFraction: 0;
 			topFraction: 0;
-			rightFraction: 0.5;
+			rightFraction: 0.38;
 			bottomFraction: 1)

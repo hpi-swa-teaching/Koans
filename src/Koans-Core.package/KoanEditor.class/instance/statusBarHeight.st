@@ -1,4 +1,4 @@
 statusbar
 statusBarHeight
 
-	^ 100
+	^ ToolBuilder default inputFieldHeight

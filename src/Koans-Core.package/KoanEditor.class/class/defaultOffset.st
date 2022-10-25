@@ -1,4 +1,0 @@
-constants
-defaultOffset
-
-	^ 2

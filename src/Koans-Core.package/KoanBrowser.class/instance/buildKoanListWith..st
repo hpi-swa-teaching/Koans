@@ -9,7 +9,7 @@ buildKoanListWith: aBuilder
 		list: #koanList;
 		autoDeselect: false;
 		frame: (LayoutFrame new
-			leftFraction: 0.5;
-			topFraction: 0.3;
+			leftFraction: 0.38;
+			topFraction: 0.38;
 			rightFraction: 1;
 			bottomFraction: 1)

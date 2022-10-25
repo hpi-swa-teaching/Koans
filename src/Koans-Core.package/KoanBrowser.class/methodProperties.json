@@ -1,15 +1,15 @@
 {
 	"class" : {
-		"defaultExtent" : "SL 6/20/2017 22:41",
+		"defaultExtent" : "mt 10/25/2022 15:20",
 		"defaultLabel" : "SL 6/20/2017 22:41",
 		"open" : "mt 10/12/2017 11:05" },
 	"instance" : {
 		"addModelItemsToWindowMenu:" : "rhi 10/12/2017 12:03",
 		"browseProject" : "PG 7/13/2017 11:59",
-		"buildBrowseButtonWith:" : "rhi 10/12/2017 12:04",
-		"buildChapterListWith:" : "rhi 10/12/2017 12:04",
-		"buildDescriptionBoxWith:" : "rhi 10/12/2017 12:05",
-		"buildKoanListWith:" : "rhi 10/12/2017 12:05",
+		"buildBrowseButtonWith:" : "mt 10/25/2022 15:23",
+		"buildChapterListWith:" : "mt 10/25/2022 15:22",
+		"buildDescriptionBoxWith:" : "mt 10/25/2022 15:24",
+		"buildKoanListWith:" : "mt 10/25/2022 15:23",
 		"buildWith:" : "rhi 10/12/2017 12:07",
 		"changeToEditorViewOn:" : "rhi 10/12/2017 13:06",
 		"chapterDescriptionFor:" : "SL 7/12/2017 17:35",
@@ -26,9 +26,9 @@
 		"selectChapter:" : "rhi 10/12/2017 12:03",
 		"selectKoan:" : "SL 6/21/2017 00:36",
 		"selectedChapter" : "rhi 10/12/2017 12:02",
-		"selectedChapter:" : "rhi 10/12/2017 12:02",
+		"selectedChapter:" : "mt 10/25/2022 15:12",
 		"selectedKoan" : "PG 6/1/2017 16:03",
-		"selectedKoan:" : "PG 6/1/2017 16:02",
+		"selectedKoan:" : "mt 10/25/2022 15:12",
 		"tooltipFor:" : "pre 8/30/2021 16:57",
-		"welcomeMessage" : "PG 7/20/2017 13:36",
+		"welcomeMessage" : "mt 10/25/2022 15:07",
 		"windowColorToUse" : "ck 9/19/2018 10:39" } }

@@ -1,4 +1,4 @@
 constants
 buttonHeight
 
-	^ Preferences standardButtonFont height + 25
+	^ ToolBuilder default buttonRowHeight
