@@ -1,7 +1,7 @@
 tests
 test07useCascadesToNotRepeat
 	
-	"You can use cascades to send multiple Messages to one object"
+	"Use cascades to send multiple messages to one object"
 	| result |
 	result := Morph new
 		extent: 20@20;

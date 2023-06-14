@@ -1,5 +1,6 @@
 tests
 test03nilIsJustAnotherObject
+	"What is the class of the nil object?"
 
 	self assert: xx equals: nil class
 

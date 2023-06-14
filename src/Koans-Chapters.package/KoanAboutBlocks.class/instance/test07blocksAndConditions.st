@@ -1,5 +1,5 @@
 tests
-test08blocksAndConditions
+test07blocksAndConditions
 	"You might have noticed that we use blocks for and: and or:.
 	 Maybe you might want to take a moment to reflect on the reasons for that."
 

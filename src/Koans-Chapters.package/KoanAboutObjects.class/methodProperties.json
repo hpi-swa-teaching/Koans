@@ -1,5 +1,8 @@
 {
 	"class" : {
+		"koan07useCascadesToNotRepeatSuccess" : "ek 6/14/2023 11:04",
+		"koan08useCascadesToNotRepeatButBeCareful1Success" : "ek 6/14/2023 11:06",
+		"koan09useCascadesToNotRepeatButBeCareful2Success" : "ek 6/14/2023 11:08",
 		"priority" : "rhi 10/12/2017 11:49",
 		"requirements" : "JE 6/8/2017 15:22" },
 	"instance" : {
@@ -9,7 +12,7 @@
 		"test04everyObjectHasADifferentId" : "rhi 10/12/2017 11:16",
 		"test05butNotSmallIntegers" : "rhi 10/12/2017 08:50",
 		"test06copyObjectsWithNewFrom" : "rhi 10/12/2017 08:50",
-		"test07useCascadesToNotRepeat" : "ek 6/14/2023 10:52",
+		"test07useCascadesToNotRepeat" : "ek 6/14/2023 11:02",
 		"test08useCascadesToNotRepeatButBeCareful1" : "ek 6/14/2023 10:52",
 		"test09useCascadesToNotRepeatButBeCareful2" : "ek 6/14/2023 10:54",
-		"test10yourselfIsTheObjectItself" : "ek 6/14/2023 10:52" } }
+		"test10yourselfIsTheObjectItself" : "ek 6/14/2023 11:06" } }

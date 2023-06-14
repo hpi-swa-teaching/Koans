@@ -1,12 +1,14 @@
 {
 	"class" : {
+		"koan05whoIAmTellsYouClassSuccess" : "ek 6/14/2023 11:14",
+		"koan06classesUnderstandCanUnderstandSuccess" : "ek 6/14/2023 11:14",
 		"priority" : "rhi 10/12/2017 11:44",
 		"requiredClasses" : "rhi 10/12/2017 11:44",
 		"requirements" : "JE 6/8/2017 15:19" },
 	"instance" : {
 		"test01createAnInstanceWithNew" : "rhi 10/12/2017 09:11",
-		"test02instanceVariablesAreEncapsulated" : "rhi 10/12/2017 09:25",
+		"test02instanceVariablesAreEncapsulated" : "ek 6/14/2023 11:00",
 		"test03theTaleOfNewAndBasicNew" : "rhi 10/12/2017 09:14",
 		"test04useGettersAndSetters" : "rhi 10/12/2017 09:15",
 		"test05whoIAmTellsYouClass" : "rhi 10/12/2017 09:25",
-		"test06classesUnderstandCanUnderstand" : "rhi 10/12/2017 09:24" } }
+		"test06classesUnderstandCanUnderstand" : "ek 6/14/2023 11:11" } }
