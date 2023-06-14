@@ -1,4 +1,4 @@
 statusbar
 successMessage
 
-	^ 'Success!'
+	^ self openedKoan successMessage ifEmpty: [^ self defaultSuccessMessage]
