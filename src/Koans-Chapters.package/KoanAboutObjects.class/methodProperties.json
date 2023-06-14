@@ -4,8 +4,8 @@
 		"requirements" : "JE 6/8/2017 15:22" },
 	"instance" : {
 		"test01everythingIsAnObject" : "rhi 10/12/2017 11:15",
-		"test02everyObjectHasAnId" : "rhi 10/12/2017 11:16",
-		"test03compareAndCompar" : "rhi 10/12/2017 11:16",
+		"test02everyObjectHasAnId" : "ek 6/14/2023 10:30",
+		"test03compareAndCompar" : "ek 6/14/2023 10:25",
 		"test04everyObjectHasADifferentId" : "rhi 10/12/2017 11:16",
 		"test05butNotSmallIntegers" : "rhi 10/12/2017 08:50",
 		"test06copyObjectsWithNewFrom" : "rhi 10/12/2017 08:50",
