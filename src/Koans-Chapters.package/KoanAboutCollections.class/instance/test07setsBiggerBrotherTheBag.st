@@ -1,5 +1,5 @@
 tests
-test06setsBiggerBrotherTheBag
+test07setsBiggerBrotherTheBag
 
 	| bag |
 	bag := {'I' . 'am' . 'a' . 'great' . 'bag!'} asBag.

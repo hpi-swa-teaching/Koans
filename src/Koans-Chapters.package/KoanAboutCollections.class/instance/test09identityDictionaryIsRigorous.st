@@ -1,5 +1,5 @@
 tests
-test08identityDictionaryIsRigorous
+test09identityDictionaryIsRigorous
 	"What is the difference to the less rigorous brother Dictionary?
 	It's the comparison of keys. IdentityDictionary uses ==!"
 

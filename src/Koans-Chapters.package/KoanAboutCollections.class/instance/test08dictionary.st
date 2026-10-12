@@ -1,5 +1,5 @@
 tests
-test07dictionary
+test08dictionary
 
 	| dict |
 	dict := Dictionary new

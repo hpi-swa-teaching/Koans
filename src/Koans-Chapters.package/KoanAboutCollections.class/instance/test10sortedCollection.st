@@ -1,5 +1,5 @@
 tests
-test09sortedCollection
+test10sortedCollection
 
 	| numbers sortNumbers |
 	numbers := {5 . 3 . 2}.

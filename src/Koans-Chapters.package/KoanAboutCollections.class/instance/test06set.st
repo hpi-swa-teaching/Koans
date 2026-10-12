@@ -1,5 +1,5 @@
 tests
-test05set
+test06set
 
 	| set |
 	set := {'I' . 'am' . 'a' . 'great' . 'set!'} asSet.
