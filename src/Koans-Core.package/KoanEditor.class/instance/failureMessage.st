@@ -3,9 +3,10 @@ failureMessage
 
 	| testResult |
 	testResult := self openedKoan testResult.
-	^ String streamContents: [:stream |
-		stream 
-			nextPutAll: 'Failure at line ';
-			print: testResult lineNumberOfException;
-			nextPut: $:; tab;
-			nextPutAll: testResult exceptionLine]
+	^ 'Failure at {1}: {2}' asText
+		format:
+			{('line {1}' asText format: {testResult lineNumberOfException})
+				addAttribute: (PluggableTextAttribute evalBlock: [self selectSourceOfException]);
+				addAttribute: TextEmphasis bold;
+				yourself.
+			testResult exceptionLine}
