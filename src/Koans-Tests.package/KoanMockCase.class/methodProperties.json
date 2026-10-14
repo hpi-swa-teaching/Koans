@@ -1,6 +1,8 @@
 {
 	"class" : {
 		"isMock" : "JLO 6/14/2017 15:45",
+		"nextIfAbsent:" : "mad 10/15/2026 00:49",
+		"previousIfAbsent:" : "mad 10/15/2026 00:49",
 		"resetToState" : "JLO 6/14/2017 16:11" },
 	"instance" : {
 		 } }
