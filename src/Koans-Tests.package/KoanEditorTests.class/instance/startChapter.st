@@ -1,0 +1,4 @@
+running
+startChapter
+
+	^ KoanMockError

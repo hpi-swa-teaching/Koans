@@ -1,0 +1,14 @@
+{
+	"category" : "Koans-Tests-Mocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "KoanMockChapter1Of2",
+	"pools" : [
+		 ],
+	"super" : "KoanMockCase",
+	"type" : "normal" }

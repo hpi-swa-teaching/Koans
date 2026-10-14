@@ -2,7 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "SL 7/14/2017 21:37",
+		"setUp" : "mad 10/15/2026 01:05",
+		"startChapter" : "mad 10/15/2026 01:05",
+		"startSelector" : "mad 10/15/2026 01:05",
 		"testBrowseProjectButtonIsDisabled" : "SL 7/22/2017 22:03",
 		"testBrowseProjectButtonIsEnabled" : "rhi 10/12/2017 12:54",
 		"testBrowseProjectButtonOpensBrowserOnCorrectClasses" : "SL 7/22/2017 22:01",

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"startChapter" : "mad 10/15/2026 01:06",
+		"startSelector" : "mad 10/15/2026 01:06",
+		"testFirstKoan" : "mad 10/15/2026 01:15",
+		"testLastKoan" : "mad 10/15/2026 01:13",
+		"testNextChapter" : "mad 10/15/2026 01:13",
+		"testPreviousChapter" : "mad 10/15/2026 01:13",
+		"testStayInChapter" : "mad 10/15/2026 01:15" } }

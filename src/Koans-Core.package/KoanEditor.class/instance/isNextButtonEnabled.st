@@ -1,4 +1,4 @@
 ui
 isNextButtonEnabled
 
-	^ self isLastKoanInChapter not
+	^ self isLastKoan not

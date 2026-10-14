@@ -8,7 +8,7 @@ buttonSpecs
 		('Debug' debugKoan nil 'Debug this Koan')
 		('Reset Koan' resetKoan nil 'Reset code an try again')
 		nil
-		('Previous' previousKoan isPreviousButtonEnabled 'Go back to previous Koan')
+		('Previous' previous isPreviousButtonEnabled 'Go back to previous Koan')
 		('Test' saveAndTest nil 'Save edits and test Koan')
-		('Next' nextKoan isNextButtonEnabled 'Proceed to next Koan')
+		('Next' next isNextButtonEnabled 'Proceed to next Koan')
 	)
