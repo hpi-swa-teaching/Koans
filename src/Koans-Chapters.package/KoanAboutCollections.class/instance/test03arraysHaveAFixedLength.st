@@ -1,5 +1,5 @@
 tests
-test03arraysAreImmutable
+test03arraysHaveAFixedLength
 
 	| array |
 	array := Array new.
