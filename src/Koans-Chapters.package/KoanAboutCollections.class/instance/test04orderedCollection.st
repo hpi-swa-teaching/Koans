@@ -2,6 +2,6 @@ tests
 test04orderedCollection
 
 	| collection |
-	collection := {'I' . 'am' . 'an' . 'ordered' . 'collection!'} asOrderedCollection.
-	self assert: {'ordered' . 'collection!' . 'am' . 'an' . 'I'} asOrderedCollection
+	collection := {6. 7. 3. 2} asOrderedCollection.
+	self assert: {7. 6. 3. 2} asOrderedCollection
 		equals: (collection sorted: [:a :b | xx])
